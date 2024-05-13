@@ -20,7 +20,7 @@ learning_disalyze = False
 
 #functions
 def resize_image(number):
-    global new_height, new_width, relativex, relativey, relative_scale
+    global new_height, new_width, relativex, relativey, relative_scale, photo
     new_width = number.width #sets new width depending on the  number given
     new_height = number.height
     relativex = new_width/1920 #since my laptop is 1920x1080
@@ -36,13 +36,21 @@ def resize_image(number):
             
             start_button.configure(font=("Arial",50*relative_scale), width=120, height=40 )
             geometric_prop.configure(font=("Segoe Script",50*relative_scale), width=202, height=169)
+            option_button.configure(font=("Arial",50*relative_scale), width=120, height=40 )
+            exit_button.configure(font=("Arial",50*relative_scale), width=120, height=40 )
         except:
+            pass
+    if option_display == True:
+        try:
+            option_text.configure(font=("Arial",50*relative_scale), width=120, height=40)
+            
+        except: 
             pass
 
 
 def list_file():
     global text_list
-    file = open("Assignment\languages\english.txt")
+    file = open("languages\english.txt")
 
     text_list = []
 
@@ -52,32 +60,60 @@ def list_file():
     
 
 def option():
-    pass
-def learning():
-    pass
-def quiz():
-    pass
-def start():
-    global copy_of_image, image, photo, label, start_button, option_display,start_display,quiz_display,learning_display,geometric_prop
-    option_display = False
-    start_display = True
+    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text
+    option_display = True
+    start_display = False
     quiz_display = False
     learning_display = False
     
-    image = Image.open('Assignment\images\jackground1.png')
+
+    image = Image.open('images\image1.png')
     copy_of_image = image.copy()
     photo = ImageTk.PhotoImage(image)
     label = ttk.Label(root, image = photo)
     label.bind('<Configure>', resize_image)
     label.pack(fill=BOTH, expand = YES)
 
-    geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
+    start_button.destroy()
+    option_button.destroy()
+    exit_button.destroy()
+    geometric_prop.destroy()
+
+    #LABELS
+    option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
+    option_text.place(relx=0.47, rely=0.45) 
+
+
+
+def learning():
+    pass
+def quiz():
+    pass
+def start():
+    global copy_of_image, image, photo, label, start_button, option_display,start_display,quiz_display,learning_display,geometric_prop, option_button, exit_button, label
+    option_display = False
+    start_display = True
+    quiz_display = False
+    learning_display = False
+    
+    image = Image.open('images\image1.png')
+    copy_of_image = image.copy()
+    photo = ImageTk.PhotoImage(image)
+    label = ttk.Label(root, image = photo)
+    label.bind('<Configure>', resize_image)
+    label.pack(fill=BOTH, expand = YES)
+    
+    geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 65), bg_color="white", fg_color="white", text_color="black", wraplength=300)
     geometric_prop.place(relx=0.47, rely=0.38) 
                             
     start_button = customtkinter.CTkButton(master=root, text = text_list[1], font=("Ariel", 50) )
-    start_button.place(relx=0.01, rely = 0.25) 
+    start_button.place(relx=0.01, rely = 0.35) 
     
-                            
+    option_button = customtkinter.CTkButton(master=root, text = text_list[2], font=("Ariel", 50), command=option )
+    option_button.place(relx=0.01, rely = 0.45) 
+
+    exit_button = customtkinter.CTkButton(master=root, text = text_list[3], font=("Ariel", 50) )
+    exit_button.place(relx=0.01, rely = 0.55)                          
 
 
 

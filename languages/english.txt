@@ -1,7 +1,7 @@
-Geometric Properties
-start
-option
-Exit
+GEOMETRIC PROPERTIES
+START
+OPTIONS
+EXIT
 Fullscreen
 Music
 Resolution
