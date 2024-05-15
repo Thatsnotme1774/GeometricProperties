@@ -42,7 +42,12 @@ def resize_image(number):
             pass
     if option_display == True:
         try:
-            option_text.configure(font=("Arial",50*relative_scale), width=120, height=40)
+            image = copy_of_image.resize((new_width, new_height)) #scales the background image
+            photo = ImageTk.PhotoImage(image)
+            label.config(image = photo)
+            label.image = photo
+            
+            option_text.configure(font=("Segoe Script",50*relative_scale), width=120, height=40)
             
         except: 
             pass
@@ -60,19 +65,13 @@ def list_file():
     
 
 def option():
-    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text
+    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box
     option_display = True
     start_display = False
     quiz_display = False
     learning_display = False
     
 
-    image = Image.open('images\image1.png')
-    copy_of_image = image.copy()
-    photo = ImageTk.PhotoImage(image)
-    label = ttk.Label(root, image = photo)
-    label.bind('<Configure>', resize_image)
-    label.pack(fill=BOTH, expand = YES)
 
     start_button.destroy()
     option_button.destroy()
@@ -82,6 +81,9 @@ def option():
     #LABELS
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
     option_text.place(relx=0.47, rely=0.45) 
+    #Buttons
+    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 50), bg_color="blue" )
+    music_box.place(relx=0.01, rely = 0.35) 
 
 
 
