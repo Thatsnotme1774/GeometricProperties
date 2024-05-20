@@ -7,8 +7,6 @@ import pygame
 
 root = customtkinter.CTk()
 root.title("okkk")
-#root.overrideredirect(True)
-#root.geometry("{0}x{1}+0+0".format(root.winfo_screenwidth(), root.winfo_screenheight()))
 root.geometry("1280x720")
 root.minsize(width=640, height=480)
 root.maxsize(width=3840, height = 2160)
@@ -17,9 +15,37 @@ start_display = False
 option_display = False
 quiz_display = False
 learning_disalyze = False
-
+pygame.mixer.init() # initialising the mixer (music)
+pygame.mixer.music.load("music\music1.mp3")
+pygame.mixer.music.play(loops=-1)
+fullscreen_on = False #a flag varialbe to indicate that fullscreen is off
 
 #functions
+def fullscreen():
+    global fullscreen_on
+    if fullscreen_check.get() == 1:
+
+        root.geometry("{0}x{1}+0+0".format(root.winfo_screenwidth(), root.winfo_screenheight()))
+        fullscreen_on = True
+    else:
+        root.geometry("1280x720")
+        root.minsize(width=640, height=480)
+        root.maxsize(width=3840, height = 2160)
+def music():
+    if music_check.get() == 1:
+        pygame.mixer.music.load("music\music1.mp3")
+        pygame.mixer.music.play(loops=-1)
+    if music_check.get() == 0: 
+        pygame.mixer.music.stop()
+    else:
+        pass
+
+
+
+
+
+
+
 def resize_image(number):
     global new_height, new_width, relativex, relativey, relative_scale, photo
     new_width = number.width #sets new width depending on the  number given
@@ -49,7 +75,9 @@ def resize_image(number):
             label.image = photo
             
             option_text.configure(font=("Segoe Script",50*relative_scale), width=120, height=40)
-            
+            backbutton.configure(width = 10, height = 10, font=("Ariel", 30*relative_scale))
+            fullscreenbutton.configure(font=("Ariel", 40*relative_scale))
+            music_box.configure(font=("Ariel", 40*relative_scale))
         except: 
             pass
 
@@ -66,7 +94,7 @@ def list_file():
     
 
 def option():
-    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box
+    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, backbutton
     option_display = True
     start_display = False
     quiz_display = False
@@ -79,14 +107,22 @@ def option():
     exit_button.destroy()
     geometric_prop.destroy()
 
+    
+    fullscreen_check = customtkinter.IntVar(value = 0)
+    music_check = customtkinter.IntVar(value = 1) #this is for the music button, the value is initally turned off so the checkbox is unclicked. This is so that we can use checkbox and their different functions for on and off.
     #LABELS
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
     option_text.place(relx=0.47, rely=0.45) 
     #Buttons
-    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 50) )
+    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 40), command=music, variable=music_check, onvalue=1, offvalue=0)
     music_box.place(relx=0.01, rely = 0.35) 
 
+    fullscreenbutton = customtkinter.CTkCheckBox(root, text = text_list[4], font=("Ariel", 40), command=fullscreen, variable=fullscreen_check, onvalue=1, offvalue=0)
+    fullscreenbutton.place(relx=0.01, rely = 0.45) 
 
+    backbutton_image = ImageTk.PhotoImage(Image.open("button_images\one.png").resize((20,20)))
+    backbutton = customtkinter.CTkButton(root, image= backbutton_image, text="Back", width = 10, height = 10, command=start)
+    backbutton.place(relx =0.01, rely = 0.01)
 
 def learning():
     pass
@@ -94,12 +130,20 @@ def quiz():
     pass
 def start():
     global copy_of_image, image, photo, label, start_button, option_display,start_display,quiz_display,learning_display,geometric_prop, option_button, exit_button, label
+    
+    if option_display == True:
+        music_box.destroy()
+        option_text.destroy()
+        fullscreenbutton.destroy()
+        backbutton.destroy()
+    else: pass
+
     option_display = False
     start_display = True
     quiz_display = False
     learning_display = False
     
-    image = Image.open('images\image1.png')
+    image = Image.open('background\image1.png')
     copy_of_image = image.copy()
     photo = ImageTk.PhotoImage(image)
     label = ttk.Label(root, image = photo)
