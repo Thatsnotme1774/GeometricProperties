@@ -3,6 +3,7 @@ from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
 import customtkinter
+import pygame
 
 root = customtkinter.CTk()
 root.title("okkk")
@@ -82,7 +83,7 @@ def option():
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
     option_text.place(relx=0.47, rely=0.45) 
     #Buttons
-    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 50), bg_color="blue" )
+    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 50) )
     music_box.place(relx=0.01, rely = 0.35) 
 
 
