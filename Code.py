@@ -25,12 +25,11 @@ def fullscreen():
     global fullscreen_on
     if fullscreen_check.get() == 1:
 
-        root.geometry("{0}x{1}+0+0".format(root.winfo_screenwidth(), root.winfo_screenheight()))
+        root.attributes("-fullscreen", True)
         fullscreen_on = True
     else:
-        root.geometry("1280x720")
-        root.minsize(width=640, height=480)
-        root.maxsize(width=3840, height = 2160)
+        root.attributes("-fullscreen", False)
+        fullscreen_on = True
 def music():
     if music_check.get() == 1:
         pygame.mixer.music.load("music\music1.mp3")
@@ -56,28 +55,28 @@ def resize_image(number):
 
     if start_display == True:
         try:
-            image = copy_of_image.resize((new_width, new_height)) #scales the background image
-            photo = ImageTk.PhotoImage(image)
-            label.config(image = photo)
-            label.image = photo
+            S_image = S_copy_of_image.resize((new_width, new_height)) #scales the background image
+            S_photo = ImageTk.PhotoImage(S_image)
+            S_label.config(image = S_photo)
+            S_label.image = S_photo
             
-            start_button.configure(font=("Arial",50*relative_scale), width=120, height=40 )
-            geometric_prop.configure(font=("Segoe Script",50*relative_scale), width=202, height=169)
-            option_button.configure(font=("Arial",50*relative_scale), width=120, height=40 )
-            exit_button.configure(font=("Arial",50*relative_scale), width=120, height=40 )
+            start_button.configure(font=("Arial",50*relative_scale), width=120*relativex, height=40*relativey )
+            geometric_prop.configure(font=("Segoe Script",50*relative_scale), width=120*relativex, height=40*relativey)
+            option_button.configure(font=("Arial",50*relative_scale), width=120*relativex, height=40*relativey )
+            exit_button.configure(font=("Arial",50*relative_scale), width=120*relativex, height=40*relativey )
         except:
             pass
     if option_display == True:
         try:
-            image = copy_of_image.resize((new_width, new_height)) #scales the background image
-            photo = ImageTk.PhotoImage(image)
-            label.config(image = photo)
-            label.image = photo
+            O_image = O_copy_of_image.resize((new_width, new_height)) #scales the background image
+            O_photo = ImageTk.PhotoImage(O_image)
+            O_label.config(image = O_photo)
+            O_label.image = O_photo
             
-            option_text.configure(font=("Segoe Script",50*relative_scale), width=120, height=40)
-            backbutton.configure(width = 10, height = 10, font=("Ariel", 30*relative_scale))
-            fullscreenbutton.configure(font=("Ariel", 40*relative_scale))
-            music_box.configure(font=("Ariel", 40*relative_scale))
+            option_text.configure(font=("Segoe Script",50*relative_scale), width=120, height=40*relativey)
+            backbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
+            fullscreenbutton.configure(font=("Ariel", 40*relative_scale), width = 10*relativex, height = 10*relativey)
+            music_box.configure(font=("Ariel", 40*relative_scale), width=10*relativex, height=10*relativey)
         except: 
             pass
 
@@ -94,18 +93,24 @@ def list_file():
     
 
 def option():
-    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, backbutton
+    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, backbutton, O_image, O_copy_of_image, O_photo, O_label
     option_display = True
     start_display = False
     quiz_display = False
     learning_display = False
     
-
-
+    S_label.destroy()
     start_button.destroy()
     option_button.destroy()
     exit_button.destroy()
     geometric_prop.destroy()
+    S_label.destroy()
+    O_image = Image.open('background\image1.png')
+    O_copy_of_image = O_image.copy()
+    O_photo = ImageTk.PhotoImage(O_image)
+    O_label = ttk.Label(root, image = O_photo)
+    O_label.bind('<Configure>', resize_image)
+    O_label.pack(fill=BOTH, expand = YES)
 
     
     fullscreen_check = customtkinter.IntVar(value = 0)
@@ -129,13 +134,14 @@ def learning():
 def quiz():
     pass
 def start():
-    global copy_of_image, image, photo, label, start_button, option_display,start_display,quiz_display,learning_display,geometric_prop, option_button, exit_button, label
+    global copy_of_image, image, photo, label, start_button, option_display,start_display,quiz_display,learning_display,geometric_prop, option_button, exit_button, S_image, S_label, S_copy_of_image, S_photo
     
     if option_display == True:
         music_box.destroy()
         option_text.destroy()
         fullscreenbutton.destroy()
         backbutton.destroy()
+        O_label.destroy()
     else: pass
 
     option_display = False
@@ -143,15 +149,15 @@ def start():
     quiz_display = False
     learning_display = False
     
-    image = Image.open('background\image1.png')
-    copy_of_image = image.copy()
-    photo = ImageTk.PhotoImage(image)
-    label = ttk.Label(root, image = photo)
-    label.bind('<Configure>', resize_image)
-    label.pack(fill=BOTH, expand = YES)
+    S_image = Image.open('background\image1.png')
+    S_copy_of_image = S_image.copy()
+    S_photo = ImageTk.PhotoImage(S_image)
+    S_label = ttk.Label(root, image = S_photo)
+    S_label.bind('<Configure>', resize_image)
+    S_label.pack(fill=BOTH, expand = YES)
     
-    geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 65), bg_color="white", fg_color="white", text_color="black", wraplength=300)
-    geometric_prop.place(relx=0.47, rely=0.38) 
+    geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=400)
+    geometric_prop.place(relx=0.47, rely=0.4)
                             
     start_button = customtkinter.CTkButton(master=root, text = text_list[1], font=("Ariel", 50) )
     start_button.place(relx=0.01, rely = 0.35) 
