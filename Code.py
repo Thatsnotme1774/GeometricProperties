@@ -14,7 +14,7 @@ root.maxsize(width=3840, height = 2160)
 start_display = False
 option_display = False
 quiz_display = False
-learning_disalyze = False
+learning_display = False
 pygame.mixer.init() # initialising the mixer (music)
 pygame.mixer.music.load("music\music1.mp3")
 pygame.mixer.music.play(loops=-1)
@@ -88,6 +88,13 @@ def resize_image(number):
             music_box.configure(font=("Ariel", 40*relative_scale), width=10*relativex, height=10*relativey)
         except: 
             pass
+    if learning_display == True:
+        try: 
+            L_image = L_copy_of_image.resize((new_width, new_height)) #scales the background image
+            L_photo = ImageTk.PhotoImage(L_image)
+            L_label.config(image = L_photo)
+            L_label.image = L_photo
+        except: pass
 
 
 def list_file():
@@ -114,7 +121,7 @@ def option():
     exit_button.destroy()
     geometric_prop.destroy()
     S_label.destroy()
-    O_image = Image.open('background\image1.png')
+    O_image = Image.open('background\startandoption.png')
     O_copy_of_image = O_image.copy()
     O_photo = ImageTk.PhotoImage(O_image)
     O_label = ttk.Label(root, image = O_photo)
@@ -123,7 +130,7 @@ def option():
 
     
     
-    music_check = customtkinter.IntVar(value = 1) #this is for the music button, the value is initally turned off so the checkbox is unclicked. This is so that we can use checkbox and their different functions for on and off.
+    #music_check = customtkinter.IntVar(value = 1) #this is for the music button, the value is initally turned off so the checkbox is unclicked. This is so that we can use checkbox and their different functions for on and off.
     
 
 
@@ -131,7 +138,7 @@ def option():
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
     option_text.place(relx=0.47, rely=0.45) 
     #Buttons
-    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 40), command=music, variable=music_check, onvalue=1, offvalue=0)
+    music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 40), command=music)
     music_box.place(relx=0.01, rely = 0.35) 
 
     if music_on==True:
@@ -143,11 +150,41 @@ def option():
         fullscreenbutton.select()
     
     backbutton_image = ImageTk.PhotoImage(Image.open("button_images\one.png").resize((20,20)))
-    backbutton = customtkinter.CTkButton(root, image= backbutton_image, text="Back", width = 10, height = 10, command=start)
+    backbutton = customtkinter.CTkButton(root, image= backbutton_image, text= text_list[9], width = 10, height = 10, command=start)
     backbutton.place(relx =0.01, rely = 0.01)
 
 def learning():
-    pass
+    global option_display,start_display,quiz_display, learning_display, L_image, L_copy_of_image, L_photo, L_label
+    option_display = False
+    start_display = False
+    quiz_display = False
+    learning_display = True
+
+    
+    S_label.destroy()
+    start_button.destroy()
+    option_button.destroy()
+    exit_button.destroy()
+    geometric_prop.destroy()
+    S_label.destroy()
+
+
+    L_image = Image.open('background\learningandtest.jpg')
+    L_copy_of_image = L_image.copy()
+    L_photo = ImageTk.PhotoImage(L_image)
+    L_label = ttk.Label(root, image = L_photo)
+    L_label.bind('<Configure>', resize_image)
+    L_label.pack(fill=BOTH, expand = YES)
+
+    Shape_name = [text_list[10], text_list[12]]
+    shape_info = [text_list[11]]
+
+    #labels!!!
+    Shape_label = customtkinter.CTkLabel(root, text=Shape_name[0], font=("Arial", 30))
+    Shape_label.place(relx=0.5, rely = 0.25)
+    
+
+    
 def quiz():
     pass
 def start():
@@ -166,7 +203,7 @@ def start():
     quiz_display = False
     learning_display = False
     
-    S_image = Image.open('background\image1.png')
+    S_image = Image.open('background\startandoption.png')
     S_copy_of_image = S_image.copy()
     S_photo = ImageTk.PhotoImage(S_image)
     S_label = ttk.Label(root, image = S_photo)
@@ -176,7 +213,7 @@ def start():
     geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=400)
     geometric_prop.place(relx=0.47, rely=0.4)
                             
-    start_button = customtkinter.CTkButton(master=root, text = text_list[1], font=("Ariel", 50) )
+    start_button = customtkinter.CTkButton(master=root, text = text_list[1], font=("Ariel", 50),command=learning )
     start_button.place(relx=0.01, rely = 0.35) 
     
     option_button = customtkinter.CTkButton(master=root, text = text_list[2], font=("Ariel", 50), command=option )

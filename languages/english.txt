@@ -7,3 +7,7 @@ Music
 Resolution
 Translate
 Language
+back
+Triangle
+There are three types of triangles, equilateral, isosceles and scalene. equilateral triangles: all sides equal and each angle = 60 degrees.  Isosceles triangles have 2 equal sides and 2 equal angles. Scalene triangles have no equal side nor angles. right angled triangles have a 90 degree angle, and the sum of the 2 sides squared equates to the hypotenuse. Acute angles have all angles less than 90 degrees. Obtuse have one angle more than 90 degrees.
+Square
