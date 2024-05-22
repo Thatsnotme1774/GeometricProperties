@@ -19,27 +19,36 @@ pygame.mixer.init() # initialising the mixer (music)
 pygame.mixer.music.load("music\music1.mp3")
 pygame.mixer.music.play(loops=-1)
 fullscreen_on = False #a flag varialbe to indicate that fullscreen is off
-
+music_on = True
 #functions
+
+
+def exit():
+    root.destroy()
+
+
+
 def fullscreen():
     global fullscreen_on
-    if fullscreen_check.get() == 1:
+    if fullscreen_on== False:
 
         root.attributes("-fullscreen", True)
         fullscreen_on = True
     else:
         root.attributes("-fullscreen", False)
-        fullscreen_on = True
+        fullscreen_on = False
+
+
 def music():
-    if music_check.get() == 1:
+    global music_on
+    if music_on== True:
+        pygame.mixer.music.stop()
+        music_on=False
+
+    else:
         pygame.mixer.music.load("music\music1.mp3")
         pygame.mixer.music.play(loops=-1)
-    if music_check.get() == 0: 
-        pygame.mixer.music.stop()
-    else:
-        pass
-
-
+        music_on = True
 
 
 
@@ -113,8 +122,11 @@ def option():
     O_label.pack(fill=BOTH, expand = YES)
 
     
-    fullscreen_check = customtkinter.IntVar(value = 0)
+    
     music_check = customtkinter.IntVar(value = 1) #this is for the music button, the value is initally turned off so the checkbox is unclicked. This is so that we can use checkbox and their different functions for on and off.
+    
+
+
     #LABELS
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
     option_text.place(relx=0.47, rely=0.45) 
@@ -122,9 +134,14 @@ def option():
     music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 40), command=music, variable=music_check, onvalue=1, offvalue=0)
     music_box.place(relx=0.01, rely = 0.35) 
 
-    fullscreenbutton = customtkinter.CTkCheckBox(root, text = text_list[4], font=("Ariel", 40), command=fullscreen, variable=fullscreen_check, onvalue=1, offvalue=0)
+    if music_on==True:
+        music_box.select()
+    fullscreenbutton = customtkinter.CTkCheckBox(root, text = text_list[4], font=("Ariel", 40), command=fullscreen)
     fullscreenbutton.place(relx=0.01, rely = 0.45) 
-
+    #fullscreen_check = customtkinter.IntVar(value = 0)
+    if fullscreen_on == True:
+        fullscreenbutton.select()
+    
     backbutton_image = ImageTk.PhotoImage(Image.open("button_images\one.png").resize((20,20)))
     backbutton = customtkinter.CTkButton(root, image= backbutton_image, text="Back", width = 10, height = 10, command=start)
     backbutton.place(relx =0.01, rely = 0.01)
@@ -165,7 +182,7 @@ def start():
     option_button = customtkinter.CTkButton(master=root, text = text_list[2], font=("Ariel", 50), command=option )
     option_button.place(relx=0.01, rely = 0.45) 
 
-    exit_button = customtkinter.CTkButton(master=root, text = text_list[3], font=("Ariel", 50) )
+    exit_button = customtkinter.CTkButton(master=root, text = text_list[3], font=("Ariel", 50), command=exit )
     exit_button.place(relx=0.01, rely = 0.55)                          
 
 
