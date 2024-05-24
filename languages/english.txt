@@ -7,7 +7,29 @@ Music
 Resolution
 Translate
 Language
-back
+BACK
+NEXT
 Triangle
-There are three types of triangles, equilateral, isosceles and scalene. equilateral triangles: all sides equal and each angle = 60 degrees.  Isosceles triangles have 2 equal sides and 2 equal angles. Scalene triangles have no equal side nor angles. right angled triangles have a 90 degree angle, and the sum of the 2 sides squared equates to the hypotenuse. Acute angles have all angles less than 90 degrees. Obtuse have one angle more than 90 degrees.
+Equilateral Triangle: An equilateral triangle has all sides of equal length, and each interior angle measures 60 degrees. Isosceles Triangle: An isosceles triangle has two sides of equal length and two congruent angles. Scalene Triangle: A scalene triangle has no sides or angles that are equal. Right Triangle: A right triangle features one right angle (90 degrees). According to the Pythagorean Theorem, the square of the hypotenuse is equal to the sum of the squares of the other two sides. Acute Triangle: An acute triangle has all its angles measuring less than 90 degrees. Obtuse Triangle: An obtuse triangle includes one angle that is greater than 90 degrees.
 Square
+A square has all sides of equal length and each interior angle is 90 degrees. Its diagonals bisect each other at right angles and are of equal length. Additionally, a square has four lines of symmetry.
+Rectangle
+A rectangle has opposite sides that are equal in length, and each interior angle is 90 degrees. The diagonals are equal in length and bisect each other, and the shape has two lines of symmetry.
+Rhombus
+A rhombus features all sides of equal length and opposite angles that are equal. The diagonals bisect each other at right angles and divide the rhombus into four congruent triangles.
+Parallelogram
+A parallelogram has opposite sides that are equal in length and parallel, with opposite angles that are equal. Its diagonals bisect each other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

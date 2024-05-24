@@ -1,0 +1,26 @@
+import tkinter
+import customtkinter
+
+root = customtkinter.CTk()
+root.title("okkk")
+root.geometry("1280x720")
+root.minsize(width=640, height=480)
+root.maxsize(width=3840, height = 2160)
+
+
+
+
+
+
+
+o1 = customtkinter.CTkButton(root, text="5")
+o1.place(x=5,y=5)
+l1 = customtkinter.CTkScrollableFrame(root)
+l1.pack()
+for x in range(20):
+    customtkinter.CTkButton(l1, text="5").pack()
+
+
+
+
+root.mainloop()

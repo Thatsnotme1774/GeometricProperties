@@ -8,7 +8,7 @@ import pygame
 root = customtkinter.CTk()
 root.title("okkk")
 root.geometry("1280x720")
-root.minsize(width=640, height=480)
+root.minsize(width=1280, height=720)
 root.maxsize(width=3840, height = 2160)
 
 start_display = False
@@ -26,7 +26,26 @@ music_on = True
 def exit():
     root.destroy()
 
+def next():
+    global shapenumber
+    if shapenumber < 4:
+        shapenumber = shapenumber + 1
+        Shape_label.configure(text=Shape_name[shapenumber])
+        shape_info_label.configure(text=shape_info[shapenumber])
+    else:pass
 
+def backward():
+    global shapenumber
+    if shapenumber == 0:
+        L_label.destroy()
+        shape_info_label.destroy()
+        Shape_label.destroy()
+        learning_backbutton.destroy()
+        start()
+    else:
+        shapenumber = shapenumber -1
+        Shape_label.configure(text=Shape_name[shapenumber])
+        shape_info_label.configure(text=shape_info[shapenumber])
 
 def fullscreen():
     global fullscreen_on
@@ -83,7 +102,7 @@ def resize_image(number):
             O_label.image = O_photo
             
             option_text.configure(font=("Segoe Script",50*relative_scale), width=120, height=40*relativey)
-            backbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
+            option_backbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
             fullscreenbutton.configure(font=("Ariel", 40*relative_scale), width = 10*relativex, height = 10*relativey)
             music_box.configure(font=("Ariel", 40*relative_scale), width=10*relativex, height=10*relativey)
         except: 
@@ -94,7 +113,18 @@ def resize_image(number):
             L_photo = ImageTk.PhotoImage(L_image)
             L_label.config(image = L_photo)
             L_label.image = L_photo
+
+                    
+            Shape_label.configure(font=("Ariel", 45*relativex), width = 10*relativex, height = 10*relativey)
+            shape_info_label.configure(font=("Ariel", 25*relative_scale), width = relativex, wraplength = 550*relativex)
+            learning_backbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
+            learning_nextbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relativey))
+            
+            
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\TRIANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            
         except: pass
+                
 
 
 def list_file():
@@ -109,7 +139,7 @@ def list_file():
     
 
 def option():
-    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, backbutton, O_image, O_copy_of_image, O_photo, O_label
+    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, option_backbutton, O_image, O_copy_of_image, O_photo, O_label
     option_display = True
     start_display = False
     quiz_display = False
@@ -136,7 +166,7 @@ def option():
 
     #LABELS
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
-    option_text.place(relx=0.47, rely=0.45) 
+    option_text.place(relx=0.6, rely=0.45) 
     #Buttons
     music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 40), command=music)
     music_box.place(relx=0.01, rely = 0.35) 
@@ -149,12 +179,12 @@ def option():
     if fullscreen_on == True:
         fullscreenbutton.select()
     
-    backbutton_image = ImageTk.PhotoImage(Image.open("button_images\one.png").resize((20,20)))
-    backbutton = customtkinter.CTkButton(root, image= backbutton_image, text= text_list[9], width = 10, height = 10, command=start)
-    backbutton.place(relx =0.01, rely = 0.01)
+    option_backbutton_image = ImageTk.PhotoImage(Image.open("button_images\REVERSE.png").resize((20,20)))
+    option_backbutton = customtkinter.CTkButton(root, image= option_backbutton_image, text= text_list[9], width = 10, height = 10, command=start)
+    option_backbutton.place(relx =0.01, rely = 0.01)
 
 def learning():
-    global option_display,start_display,quiz_display, learning_display, L_image, L_copy_of_image, L_photo, L_label
+    global option_display,start_display,quiz_display, learning_display, L_image, L_copy_of_image, L_photo, L_label, Shape_label, shape_info_label, learning_backbutton, learning_nextbutton, shapenumber, Shape_name, shape_info, Shapeimagedirectory, Shapeimage
     option_display = False
     start_display = False
     quiz_display = False
@@ -176,15 +206,26 @@ def learning():
     L_label.bind('<Configure>', resize_image)
     L_label.pack(fill=BOTH, expand = YES)
 
-    Shape_name = [text_list[10], text_list[12]]
-    shape_info = [text_list[11]]
-
+    Shape_name = [text_list[11], text_list[13], text_list[15], text_list[17], text_list[19]]
+    shape_info = [text_list[12], text_list[14], text_list[16], text_list[18], text_list[20]]
+    shapenumber = 0
     #labels!!!
-    Shape_label = customtkinter.CTkLabel(root, text=Shape_name[0], font=("Arial", 30))
-    Shape_label.place(relx=0.5, rely = 0.25)
-    
+    Shape_label = customtkinter.CTkLabel(root, text=Shape_name[shapenumber], font=("Arial", 45), fg_color="white", text_color="black")
+    Shape_label.place(relx=0.5, rely = 0.25, anchor=CENTER)
+    shape_info_label = customtkinter.CTkLabel(root, text=shape_info[0], font=("Arial", 25), fg_color="white", text_color="black", wraplength=550)
+    shape_info_label.place(relx=0.37,rely=0.3)
 
+    learning_backbutton_image = ImageTk.PhotoImage(Image.open("button_images\REVERSE.png").resize((20,20)))
+    learning_backbutton = customtkinter.CTkButton(root, image= learning_backbutton_image, text= text_list[9], width = 10, height = 10, command=backward)
+    learning_backbutton.place(relx =0.01, rely = 0.01)
+
+    learning_nextbutton_image = ImageTk.PhotoImage(Image.open("button_images\FORWARD.png").resize((20,20)))
+    learning_nextbutton = customtkinter.CTkButton(root, image= learning_nextbutton_image, text= text_list[10], width = 10, height = 10, command=next)
+    learning_nextbutton.place(relx = 0.92, rely = 0.01)
     
+    Shapeimagedirectory = ImageTk.PhotoImage(Image.open("button_images\TRIANGLE.png").resize((400,320)))
+    Shapeimage = customtkinter.CTkLabel(root, image= Shapeimagedirectory, text="", width = 10, height = 10)
+    Shapeimage.place(relx =0.4, rely = 0.70)
 def quiz():
     pass
 def start():
@@ -194,7 +235,7 @@ def start():
         music_box.destroy()
         option_text.destroy()
         fullscreenbutton.destroy()
-        backbutton.destroy()
+        option_backbutton.destroy()
         O_label.destroy()
     else: pass
 
@@ -202,7 +243,7 @@ def start():
     start_display = True
     quiz_display = False
     learning_display = False
-    
+
     S_image = Image.open('background\startandoption.png')
     S_copy_of_image = S_image.copy()
     S_photo = ImageTk.PhotoImage(S_image)
@@ -210,8 +251,8 @@ def start():
     S_label.bind('<Configure>', resize_image)
     S_label.pack(fill=BOTH, expand = YES)
     
-    geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=400)
-    geometric_prop.place(relx=0.47, rely=0.4)
+    geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 50), fg_color="white", text_color="black", wraplength=400)
+    geometric_prop.place(relx=0.6, rely=0.4)
                             
     start_button = customtkinter.CTkButton(master=root, text = text_list[1], font=("Ariel", 50),command=learning )
     start_button.place(relx=0.01, rely = 0.35) 
