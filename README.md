@@ -15,24 +15,29 @@ Installation:
 Automatic:
 Download the  files and extract
 Run Code.exe
+
 Manual
 Pip install Pil
 Pip install tkinter
 Pip install customtkinter
 Pip install pygame
 Pip install pywin32
+
 Procedure:
 Press Exit to Leave the program
+
 Options:
 Toggle on/off fullscreen
 Toggle Music 
 Change the language
-Learning Screen
+
+Learning Screen:
 		Press next to go to the next shape
 		Press back to go back to the previous shape or Home
 		TTS button for speech
 		Look at the image to further understand the information
-Quiz
+  
+Quiz:
 	Press one of the four choices 
 	See if you got it right or not, and read the explanation
 	Press next for the next question
