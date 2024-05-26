@@ -16,7 +16,7 @@ Automatic:
 Download the  files and extract
 Run Code.exe
 
-Manual
+Manual:
 Pip install Pil
 Pip install tkinter
 Pip install customtkinter
