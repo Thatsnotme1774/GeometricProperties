@@ -22,16 +22,145 @@ A parallelogram has opposite sides that are equal in length and parallel, with o
 QUIZ
 FINISH
 HOME
-
-
-
-
-
-
-
-
-
-
-
-
-
+SCORE
+Question 1
+What is the measure of each interior angle in an equilateral triangle?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 2
+Which triangle has two sides of equal length and two congruent angles?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Right triangle
+Question 3
+Which triangle has no sides or angles equal?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Acute triangle
+Question 4
+What type of triangle has one right angle?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Right triangle
+Question 5
+What type of triangle has all angles acute?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Acute triangle
+Question 6
+Which triangle has one obtuse angle?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Obtuse triangle
+Question 7
+What is the measure of each interior angle in a square?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 8
+How many lines of symmetry does a square have?
+A) 2
+B) 4
+C) 6
+D) 8
+Question 9
+In a square, how do the diagonals relate to each other?
+A) They are unequal
+B) They bisect each other and are perpendicular
+C) They are parallel
+D) They do not intersect
+Question 10
+What is the length of the diagonal of a square with side length 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Question 11
+Which property is true for all squares?
+A) All angles are acute
+B) Diagonals are equal in length
+C) Only opposite sides are equal
+D) Only adjacent sides are equal
+Question 12
+What is a characteristic property of a rhombus?
+A) Only two sides are equal
+B) All sides are of equal length
+C) Only one pair of opposite sides is parallel
+D) All angles are right angles
+Question 13
+How do the diagonals of a rhombus intersect?
+A) They are equal in length
+B) They bisect each other at right angles
+C) They are parallel
+D) They do not intersect
+Question 14
+What is the measure of the angles formed where the diagonals of a rhombus intersect?
+A) 30 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 15
+In a rhombus, the diagonals divide it into how many congruent triangles?
+A) 2
+B) 3
+C) 4
+D) 6
+Question 16
+Which property is true for both rhombuses and squares?
+A) All angles are 90 degrees
+B) Diagonals bisect each other at right angles
+C) Only one pair of sides is parallel
+D) Diagonals are not equal
+Question 17
+What is the defining property of a parallelogram?
+A) Only one pair of opposite sides is parallel
+B) Both pairs of opposite sides are parallel
+C) Only adjacent sides are equal
+D) All angles are right angles
+Question 18
+What is the measure of each interior angle in a rectangle?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 19
+In a rectangle, how do the diagonals relate to each other?
+A) They are unequal
+B) They bisect each other and are perpendicular
+C) They are parallel
+D) They are equal in length
+Question 20
+Which property is true for both rectangles and squares?
+A) All sides are equal
+B) All angles are right angles
+C) Diagonals bisect each other at right angles
+D) Only one pair of sides is parallel
+Correct!
+Incorrect! since the angles are equal it's 180/3 = 60.
+Incorrect! Isosceles has 2 equal angles and sides.
+Incorrect! A scalene has no equal sides or angles.
+Incorrect! A right angle trinagle has a right angle.
+Incorrect! An acute triangle only has acute angles.
+Incorrect! An obtuse triangle only has an obtuse angle.
+Incorrect! All interior angles of a square are 90 degrees.
+Incorrect! A square has four lines of symmetry.
+Incorrect! They bisect at 90 degrees.
+Incorrect! find the hypotenuse: sqrt(a^2+a^2) = a sqrt(2).
+Incorrect! All diagonals are equal because all sides are equal.
+Incorrect! Rhombus, like a square has all sides equals.
+Incorrect! they bisect at right angles degrees.
+Incorrect! they bisect at 90 degrees
+Incorrect! four triangles since the diagonals bisect.
+Incorrect! Both have diagonals bisect at 90 degrees.
+Incorrect! its called parallelogram for a reason.
+Incorrect! 90 degrees like a square
+Incorrect! They are equal in length but not always 90 degrees.
+Incorrect! All angles are right angles.
