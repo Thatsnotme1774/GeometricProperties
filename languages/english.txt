@@ -19,7 +19,9 @@ Rhombus
 A rhombus features all sides of equal length and opposite angles that are equal. The diagonals bisect each other at right angles and divide the rhombus into four congruent triangles.
 Parallelogram
 A parallelogram has opposite sides that are equal in length and parallel, with opposite angles that are equal. Its diagonals bisect each other.
-
+QUIZ
+FINISH
+HOME
 
 
 

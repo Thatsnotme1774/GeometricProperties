@@ -26,15 +26,31 @@ music_on = True
 def exit():
     root.destroy()
 
-def next():
+def learning_next():
     global shapenumber
     if shapenumber < 4:
         shapenumber = shapenumber + 1
         Shape_label.configure(text=Shape_name[shapenumber])
         shape_info_label.configure(text=shape_info[shapenumber])
+        
+        if shapenumber == 1:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\SQUARE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+            learning_backbutton.configure(text=text_list[9])
+        if shapenumber == 2:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\RECTANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+        if shapenumber == 3:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\RHOMBUS.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+        if shapenumber == 4:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\PARALLELOGRAM.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+            learning_nextbutton.configure(text=text_list[21], command=quiz)
+            
     else:pass
 
-def backward():
+def learning_backward():
     global shapenumber
     if shapenumber == 0:
         L_label.destroy()
@@ -46,6 +62,23 @@ def backward():
         shapenumber = shapenumber -1
         Shape_label.configure(text=Shape_name[shapenumber])
         shape_info_label.configure(text=shape_info[shapenumber])
+        if shapenumber == 0:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\TRIANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx =0.4, rely = 0.70)
+            learning_backbutton.configure(text=text_list[23]) #Says HOME instead of BACK
+
+        if shapenumber == 1:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\SQUARE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+        if shapenumber == 2:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\RECTANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+        if shapenumber == 3:
+            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\RHOMBUS.png").resize((int(400 * relativex), int(320 * relativey)))))
+            Shapeimage.place(relx=0.4, rely=0.6)
+            learning_nextbutton.configure(text=text_list[10])
+            #Makes the QUIZ BUTTON return to NEXT BUTTON
+        
 
 def fullscreen():
     global fullscreen_on
@@ -120,13 +153,26 @@ def resize_image(number):
             learning_backbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
             learning_nextbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relativey))
             
-            
-            Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\TRIANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
-            
+            if shapenumber==0:
+                Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\TRIANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            if shapenumber == 1:
+                Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\SQUARE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            if shapenumber == 2:
+                Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\RECTANGLE.png").resize((int(400 * relativex), int(320 * relativey)))))
+            if shapenumber == 3:
+                Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\RHOMBUS.png").resize((int(400 * relativex), int(320 * relativey)))))
+            if shapenumber == 4:
+                Shapeimage.configure(image=ImageTk.PhotoImage(Image.open("button_images\\PARALLELOGRAM.png").resize((int(400 * relativex), int(320 * relativey)))))
         except: pass
                 
 
-
+    if quiz_display == True:
+        try:
+            Q_image = Q_copy_of_image.resize((new_width, new_height)) #scales the background image
+            Q_photo = ImageTk.PhotoImage(Q_image)
+            Q_label.config(image = Q_photo)
+            Q_label.image = Q_photo
+        except: pass
 def list_file():
     global text_list
     file = open("languages\english.txt")
@@ -191,7 +237,6 @@ def learning():
     learning_display = True
 
     
-    S_label.destroy()
     start_button.destroy()
     option_button.destroy()
     exit_button.destroy()
@@ -199,7 +244,7 @@ def learning():
     S_label.destroy()
 
 
-    L_image = Image.open('background\learningandtest.jpg')
+    L_image = Image.open('background\learning.jpg')
     L_copy_of_image = L_image.copy()
     L_photo = ImageTk.PhotoImage(L_image)
     L_label = ttk.Label(root, image = L_photo)
@@ -216,18 +261,40 @@ def learning():
     shape_info_label.place(relx=0.37,rely=0.3)
 
     learning_backbutton_image = ImageTk.PhotoImage(Image.open("button_images\REVERSE.png").resize((20,20)))
-    learning_backbutton = customtkinter.CTkButton(root, image= learning_backbutton_image, text= text_list[9], width = 10, height = 10, command=backward)
+    learning_backbutton = customtkinter.CTkButton(root, image= learning_backbutton_image, text= text_list[9], width = 10, height = 10, command=learning_backward)
     learning_backbutton.place(relx =0.01, rely = 0.01)
 
     learning_nextbutton_image = ImageTk.PhotoImage(Image.open("button_images\FORWARD.png").resize((20,20)))
-    learning_nextbutton = customtkinter.CTkButton(root, image= learning_nextbutton_image, text= text_list[10], width = 10, height = 10, command=next)
+    learning_nextbutton = customtkinter.CTkButton(root, image= learning_nextbutton_image, text= text_list[10], width = 10, height = 10, command=learning_next)
     learning_nextbutton.place(relx = 0.92, rely = 0.01)
     
     Shapeimagedirectory = ImageTk.PhotoImage(Image.open("button_images\TRIANGLE.png").resize((400,320)))
     Shapeimage = customtkinter.CTkLabel(root, image= Shapeimagedirectory, text="", width = 10, height = 10)
     Shapeimage.place(relx =0.4, rely = 0.70)
+
+
 def quiz():
-    pass
+    global option_display,start_display,quiz_display, learning_display, Q_image, Q_copy_of_image, Q_label, Q_photo
+    option_display = False
+    start_display = False
+    quiz_display = True
+    learning_display = False
+
+    Shape_label.destroy()
+    shape_info_label.destroy()
+    learning_backbutton.destroy()
+    learning_nextbutton.destroy()
+    Shapeimage.destroy()
+
+    L_label.destroy()
+
+    Q_image = Image.open('background\quiz.png')
+    Q_copy_of_image = Q_image.copy()
+    Q_photo = ImageTk.PhotoImage(Q_image)
+    Q_label = ttk.Label(root, image = Q_photo)
+    Q_label.bind('<Configure>', resize_image)
+    Q_label.pack(fill=BOTH, expand = YES)
+    
 def start():
     global copy_of_image, image, photo, label, start_button, option_display,start_display,quiz_display,learning_display,geometric_prop, option_button, exit_button, S_image, S_label, S_copy_of_image, S_photo
     
