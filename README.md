@@ -11,8 +11,9 @@ Touch screen support
 A variety of different languages
 
 Installation:
+
 Automatic:
-Download the zip file and extract
+Download the  files and extract
 Run Code.exe
 Manual
 Pip install Pil
