@@ -1,0 +1,166 @@
+GEOMETRICA POTESTAS
+INITIUM
+Eligendi
+EXITUS
+Fullscreen
+Musica
+Resolution
+Translate
+Lingua
+BACK
+DEINDE
+Triangulum
+Triangulus aequilaterus: Triangulus aequilaterus habet omnia latera aequalis longitudinis, et quilibet angulus interior metitur 60 gradus. Isosceles Triangulus: Isosceles triangulus habet duo latera aequalis longitudinis et duos angulos congruentes. Triangulus scalenus: triangulus scalenus latera vel angulos habet equales. Rectum triangulum: Rectus triangulus unus angulus rectus (90 gradus). Secundum Pythagoricum Theorema quadratum hypotenusae est aequale quadratis duorum laterum alterius. Triangulus acutus: Triangulus acutus omnes suos angulos habet metientes minus quam 90 gradus. Triangulus obtusus: Triangulus obtusus unum angulum includit, qui maior est 90 graduum.
+Quadratus
+Quadratum habet omnia latera aequalis longitudinis, et quilibet angulus interior 90 gradus est. Diagonales eius bifariam secant ad angulos rectos et aequales sunt. Accedit quadratus quattuor lineas symmetriarum.
+Rectangulum
+Rectangulum habet latera opposita longitudine aequalia, et quilibet angulus interior 90 gradus est. Diametri longitudine aequales sunt et se invicem bifariam secant, et figura duas lineas symmetriarum habet.
+Rhombus
+Rhombi lineamenta omnia latera aequalia et angulis oppositis aequales. Diagonales bifariam secant ad angulos rectos, et dividunt rhombum in quatuor triangula convenientia.
+Parallelogram
+Parallelogrammum habet latera opposita, quae longitudine et parallelo aequalia sunt, angulis oppositis aequales. Diametros se invicem bifariam secant.
+QUIZ
+TERMINUS
+HOME
+NOTA
+Quaestio I
+Quae est mensura uniuscuiusque anguli interioris in triangulo aequilatero?
+A) gradus XLV
+B) LX gradus
+C) XC gradus
+D) CXX gradus
+Quaestio 2
+Uter triangulus habet duo latera aequalis longitudinis et duos angulos congruentes?
+A) triangulum Scalenium
+B) Isosceles
+C) trianguli aequilateri
+D) ius triangulum
+Q. 3
+Uter triangulus latera vel angulos non habet aequales?
+A) triangulum Scalenium
+B) Isosceles
+C) Triangulus aequilaterus
+D) trianguli acuti
+Q. 4
+Quale genus trianguli habet unum angulum rectum?
+A) triangulum Scalene
+B) Isosceles
+C) trianguli aequilateri
+D) ius triangulum
+Quaest 5
+Quale genus trianguli habet omnes angulos acutos?
+A) triangulum Scalenium
+B) Isosceles
+C) Triangulus aequilaterus
+D) trianguli acuti
+Quaestio 6
+Uter triangulus habet unum angulum obtusum?
+A) triangulum Scalenium
+B) Isosceles
+C) Triangulus aequilaterus
+D) triangulum obtusum
+Quaest 7
+Quae est mensura uniuscuiusque anguli interioris in quadrato?
+A) gradus XLV
+B) LX gradus
+C) XC gradus
+D) CXX gradus
+Quaestio 8
+Quot lineae symmetriae habet quadratum?
+A) 2
+B) 4
+C) 6
+D) 8
+Quaestio 9
+In quadrato quomodo diagonales ad se referunt?
+A) Inaequales sunt
+B) Inter se secant et perpendicularis sunt
+C) Parallela sunt
+D) non secent
+Quaestio 10
+Quae est longitudo diametri quadrati ad latus longitudinis 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Quaestio 11
+Quae res est omnibus quadratis?
+A) Omnes anguli acuti sunt
+B) Diagonales sunt aequales
+C) tantum latera opposita aequalia
+D) tantum adiacentibus partibus aequales
+Quaestio 12
+Quid proprium rhombi proprium est?
+A) duo tantum latera aequalia
+B) Omnia latera aequalia
+C) Unum par laterum laterum parallelarum
+D) Omnes anguli recti
+Quaestio 13
+Quomodo diagonales rhombi secant?
+A) sunt aequales
+B) ad angulos rectos secant
+C) Parallela sunt
+D) non secent
+Quaestio 14
+Quid est mensura angulorum formatorum ubi diagonales rhombi secant?
+A) XXX gradus
+B) LX gradus
+C) XC gradus
+D) CXX gradus
+Quaestio 15
+In rhombo diagonales dividunt in quot triangula congruentia?
+A) 2
+B) 3
+C) 4
+D) 6
+Quaestio 16
+Quae proprietas est tam rhombus quam quadratis?
+A) Omnes anguli XC gradus sunt
+B) Diagonales bifariam secant ad angulos rectos
+C) Unum par laterum parallela
+D) diagonales non sunt aequales
+Quaestio 17
+Quid est proprietas definitiva parallelogrammi?
+A) unum par laterum laterum parallelarum
+B) Utrumque paria latera opposita sunt parallela
+C) tantum adiacentibus partibus aequales
+D) Omnes anguli recti
+Quaestio 18
+Quae est mensura cuiuslibet anguli interioris in rectangulo?
+A) gradus XLV
+B) LX gradus
+C) XC gradus
+D) CXX gradus
+Quaestio 19
+In rectangulo quomodo diagonales inter se referunt?
+A) Inaequales sunt
+B) Inter se secant et perpendicularis sunt
+C) Parallela sunt
+D) sunt aequales
+Quaestio 20
+Quae proprietas est tam rectangulorum quam quadratorum?
+A) Omnia latera aequalia
+B) Omnes anguli recti
+C) Diagonales bifariam secant angulos rectos
+D) unum par laterum parallela
+Recte!
+Non recta! cum anguli sint aequales, hoc est 180/3 = 60.
+Non recta! Isosceles habet 2 angulos et latera aequales.
+Non recta! Scalena non habet latera vel angulos aequales.
+Non recta! Triangulus rectus angulus rectus habet.
+Non recta! Triangulus acutus tantum angulos acutos habet.
+Non recta! Triangulus obtusus tantum angulum obtusum habet.
+Non recta! Omnes anguli interiores quadrati sunt 90 gradus.
+Non recta! Quadratus quattuor lineas symmetriarum habet.
+Non recta! Secant ad 90 gradus.
+Non recta! hypotenusam invenias: sqrt(a^2+a^2) = a sqrt(2).
+Non recta! Omnes diagonales sunt aequales, quia omnia latera sunt aequalia.
+Non recta! Rhombus quadratus omnia latera aequalia habet.
+Non recta! ad angulos rectos gradus bifariam secant.
+Non recta! ad XC gradus secant
+Non recta! quattuor triangula cum diametro bifariam secant.
+Non recta! Ambo diagonales bifariam secant ad 90 gradus.
+Non recta! ejus parallelogrammum ratione dicta.
+Non recta! XC gradus sicut quadrata
+Non recta! Equales sunt longitudine, sed non semper 90 gradus.
+Non recta! Omnes anguli recti.

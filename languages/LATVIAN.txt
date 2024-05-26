@@ -1,0 +1,166 @@
+ĢEOMETRISKĀS ĪPAŠĪBAS
+SĀKT
+IESPĒJAS
+IZEJA
+Pilnekrāna režīms
+Mūzika
+Izšķirtspēja
+Tulkot
+Valoda
+ATPAKAĻ
+NĀKAMAIS
+Trīsstūris
+Vienādmalu trīsstūris: vienādmalu trīsstūrim ir vienāda garuma malas, un katrs iekšējais leņķis ir 60 grādi. Vienādsānu trīsstūris: vienādsānu trijstūrim ir divas vienāda garuma malas un divi kongruenti leņķi. Mēroga trīsstūris: Mēroga trīsstūrim nav vienādu malu vai leņķu. Taisns trīsstūris: taisnleņķa trīsstūrī ir viens taisns leņķis (90 grādi). Saskaņā ar Pitagora teorēmu hipotenūzas kvadrāts ir vienāds ar pārējo divu malu kvadrātu summu. Akūts trīsstūris: akūtam trīsstūrim visi tā leņķi ir mazāki par 90 grādiem. Strups trīsstūris: strups trīsstūris ietver vienu leņķi, kas ir lielāks par 90 grādiem.
+Kvadrāts
+Kvadrātam ir vienāda garuma malas, un katrs iekšējais leņķis ir 90 grādi. Tās diagonāles sadala viena otru taisnā leņķī un ir vienāda garuma. Turklāt kvadrātam ir četras simetrijas līnijas.
+Taisnstūris
+Taisnstūrim ir pretējās malas, kuru garums ir vienāds, un katrs iekšējais leņķis ir 90 grādi. Diagonāles ir vienāda garuma un sadala viena otru, un formai ir divas simetrijas līnijas.
+Rombs
+Rombam ir vienāda garuma malas un vienādi pretējie leņķi. Diagonāles sadala viena otru taisnā leņķī un sadala rombu četros kongruentos trīsstūros.
+Paralelogramma
+Paralelogramam ir pretējās malas, kuru garums ir vienāds un paralēlas, un pretējie leņķi ir vienādi. Tās diagonāles sadala viena otru uz pusēm.
+Viktorīna
+FINISH
+MĀJAS
+VĒRTĒJUMS
+jautājums 1
+Kāds ir katra iekšējā leņķa mērs vienādmalu trīsstūrī?
+A) 45 grādi
+B) 60 grādi
+C) 90 grādi
+D) 120 grādi
+2. jautājums
+Kuram trijstūrim ir divas vienāda garuma malas un divi kongruenti leņķi?
+A) Skalēnas trīsstūris
+B) Vienādsānu trīsstūris
+C) Vienādmalu trīsstūris
+D) Taisns trīsstūris
+3. jautājums
+Kuram trīsstūrim nav vienādu malu vai vienādu leņķu?
+A) Skalēnas trīsstūris
+B) Vienādsānu trīsstūris
+C) Vienādmalu trīsstūris
+D) Akūts trīsstūris
+4. jautājums
+Kāda veida trīsstūrim ir viens taisns leņķis?
+A) Skalēnas trīsstūris
+B) Vienādsānu trīsstūris
+C) Vienādmalu trīsstūris
+D) Taisns trīsstūris
+5. jautājums
+Kāda veida trīsstūrim visi leņķi ir asi?
+A) Skalēnas trīsstūris
+B) Vienādsānu trīsstūris
+C) Vienādmalu trīsstūris
+D) Akūts trīsstūris
+6. jautājums
+Kuram trīsstūrim ir viens strups leņķis?
+A) Skalēnas trīsstūris
+B) Vienādsānu trīsstūris
+C) Vienādmalu trīsstūris
+D) Strups trīsstūris
+7. jautājums
+Kāds ir katra iekšējā leņķa mērs kvadrātā?
+A) 45 grādi
+B) 60 grādi
+C) 90 grādi
+D) 120 grādi
+8. jautājums
+Cik simetrijas līniju ir kvadrātā?
+A) 2
+B) 4
+C) 6
+D) 8
+9. jautājums
+Kā kvadrātā diagonāles ir saistītas viena ar otru?
+A) Tie ir nevienlīdzīgi
+B) Tie sadala viens otru un ir perpendikulāri
+C) Tie ir paralēli
+D) Tie nekrustojas
+10. jautājums
+Kāds ir kvadrāta ar malas garumu “a” diagonāles garums?
+A) a
+B) 2a
+C) kvadrāts (2)
+D) a/2
+11. jautājums
+Kura īpašība attiecas uz visiem laukumiem?
+A) Visi leņķi ir asi
+B) Diagonāles ir vienādas garumā
+C) Vienādas ir tikai pretējās puses
+D) Vienādas ir tikai blakus esošās malas
+12. jautājums
+Kāda ir romba raksturīga īpašība?
+A) Tikai divas puses ir vienādas
+B) Visas malas ir vienāda garuma
+C) Tikai viens pretējo malu pāris ir paralēls
+D) Visi leņķi ir taisni leņķi
+13. jautājums
+Kā krustojas romba diagonāles?
+A) Tie ir vienādi garumā
+B) Tie sadala viens otru taisnā leņķī
+C) Tie ir paralēli
+D) Tie nekrustojas
+14. jautājums
+Kāds ir to leņķu mērs, kas veidojas romba diagonāļu krustpunktā?
+A) 30 grādi
+B) 60 grādi
+C) 90 grādi
+D) 120 grādi
+15. jautājums
+Cik sakrītošos trīsstūros rombā to sadala diagonāles?
+A) 2
+B) 3
+C) 4
+D) 6
+16. jautājums
+Kura īpašība ir patiesa gan rombiem, gan kvadrātiem?
+A) Visi leņķi ir 90 grādi
+B) Diagonāles sadala viena otru taisnā leņķī
+C) Tikai viens malu pāris ir paralēls
+D) Diagonāles nav vienādas
+17. jautājums
+Kāda ir paralelograma noteicošā īpašība?
+A) Tikai viens pretējo malu pāris ir paralēls
+B) Abi pretējo malu pāri ir paralēli
+C) Vienādas ir tikai blakus esošās malas
+D) Visi leņķi ir taisni leņķi
+18. jautājums
+Kāds ir katra iekšējā leņķa mērs taisnstūrī?
+A) 45 grādi
+B) 60 grādi
+C) 90 grādi
+D) 120 grādi
+19. jautājums
+Kā taisnstūrī diagonāles ir saistītas viena ar otru?
+A) Tie ir nevienlīdzīgi
+B) Tie sadala viens otru un ir perpendikulāri
+C) Tie ir paralēli
+D) Tie ir vienādi garumā
+20. jautājums
+Kura īpašība ir patiesa gan taisnstūriem, gan kvadrātiem?
+A) Visas puses ir vienādas
+B) Visi leņķi ir taisni leņķi
+C) Diagonāles sadala viena otru taisnā leņķī
+D) Tikai viens malu pāris ir paralēls
+Pareizi!
+Nepareizi! tā kā leņķi ir vienādi, tas ir 180/3 = 60.
+Nepareizi! Vienādsānu ir 2 vienādi leņķi un malas.
+Nepareizi! Skalēnam nav vienādu malu vai leņķu.
+Nepareizi! Taisnā leņķa trīsstūrim ir taisns leņķis.
+Nepareizi! Akūtam trīsstūrim ir tikai asi leņķi.
+Nepareizi! Strupam trīsstūrim ir tikai strups leņķis.
+Nepareizi! Visi kvadrāta iekšējie leņķi ir 90 grādi.
+Nepareizi! Kvadrātam ir četras simetrijas līnijas.
+Nepareizi! Tie sadalās uz pusēm 90 grādos.
+Nepareizi! atrodiet hipotenūzu: sqrt(a^2+a^2) = a sqrt(2).
+Nepareizi! Visas diagonāles ir vienādas, jo visas malas ir vienādas.
+Nepareizi! Romba, tāpat kā kvadrāta, visas malas ir vienādas.
+Nepareizi! tie sadalās uz pusēm taisnā leņķī grādos.
+Nepareizi! tie sadalās uz pusēm 90 grādos
+Nepareizi! četri trīsstūri, jo diagonāles dalās uz pusēm.
+Nepareizi! Abiem ir diagonāles, kas sadalītas uz pusēm 90 grādos.
+Nepareizi! iemesla dēļ to sauc par paralelogramu.
+Nepareizi! 90 grādi kā kvadrāts
+Nepareizi! Tie ir vienādi garumā, bet ne vienmēr 90 grādi.
+Nepareizi! Visi leņķi ir taisni leņķi.

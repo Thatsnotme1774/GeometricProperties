@@ -1,0 +1,166 @@
+GEOMETRISCHE EIGENSCHAFTEN
+START
+OPTIONEN
+AUSFAHRT
+Ganzer Bildschirm
+Musik
+Auflösung
+Übersetzen
+Sprache
+ZURÜCK
+NÄCHSTE
+Dreieck
+Gleichseitiges Dreieck: Bei einem gleichseitigen Dreieck sind alle Seiten gleich lang und jeder Innenwinkel beträgt 60 Grad. Gleichschenkliges Dreieck: Ein gleichschenkliges Dreieck hat zwei Seiten gleicher Länge und zwei kongruente Winkel. Skalendreieck: Ein Skalendreieck hat keine gleichen Seiten oder Winkel. Rechtwinkliges Dreieck: Ein rechtwinkliges Dreieck hat einen rechten Winkel (90 Grad). Nach dem Satz des Pythagoras ist das Quadrat der Hypotenuse gleich der Summe der Quadrate der beiden anderen Seiten. Spitzes Dreieck: Bei einem spitzen Dreieck betragen alle Winkel weniger als 90 Grad. Stumpfes Dreieck: Ein stumpfes Dreieck umfasst einen Winkel, der größer als 90 Grad ist.
+Quadrat
+Bei einem Quadrat sind alle Seiten gleich lang und jeder Innenwinkel beträgt 90 Grad. Seine Diagonalen halbieren einander im rechten Winkel und sind gleich lang. Darüber hinaus hat ein Quadrat vier Symmetrielinien.
+Rechteck
+Ein Rechteck hat gegenüberliegende Seiten gleicher Länge und jeder Innenwinkel beträgt 90 Grad. Die Diagonalen sind gleich lang und halbieren einander, und die Form weist zwei Symmetrielinien auf.
+Rhombus
+Bei einer Raute sind alle Seiten gleich lang und die gegenüberliegenden Winkel sind gleich. Die Diagonalen halbieren einander im rechten Winkel und teilen die Raute in vier deckungsgleiche Dreiecke.
+Parallelogramm
+Ein Parallelogramm hat gegenüberliegende Seiten, die gleich lang und parallel sind, und gegenüberliegende Winkel, die gleich sind. Seine Diagonalen halbieren einander.
+QUIZ
+BEENDEN
+HEIM
+PUNKTZAHL
+Frage 1
+Wie groß ist jeder Innenwinkel in einem gleichseitigen Dreieck?
+A) 45 Grad
+B) 60 Grad
+C) 90 Grad
+D) 120 Grad
+Frage 2
+Welches Dreieck hat zwei gleich lange Seiten und zwei kongruente Winkel?
+A) Skalendreieck
+B) Gleichschenkliges Dreieck
+C) Gleichseitiges Dreieck
+D) Rechtwinkliges Dreieck
+Frage 3
+Welches Dreieck hat keine gleichen Seiten oder Winkel?
+A) Skalendreieck
+B) Gleichschenkliges Dreieck
+C) Gleichseitiges Dreieck
+D) Spitzes Dreieck
+Frage 4
+Welche Art von Dreieck hat einen rechten Winkel?
+A) Skalendreieck
+B) Gleichschenkliges Dreieck
+C) Gleichseitiges Dreieck
+D) Rechtwinkliges Dreieck
+Frage 5
+Bei welcher Art von Dreieck sind alle Winkel spitz?
+A) Skalendreieck
+B) Gleichschenkliges Dreieck
+C) Gleichseitiges Dreieck
+D) Spitzes Dreieck
+Frage 6
+Welches Dreieck hat einen stumpfen Winkel?
+A) Skalendreieck
+B) Gleichschenkliges Dreieck
+C) Gleichseitiges Dreieck
+D) Stumpfes Dreieck
+Frage 7
+Wie groß ist jeder Innenwinkel in einem Quadrat?
+A) 45 Grad
+B) 60 Grad
+C) 90 Grad
+D) 120 Grad
+Frage 8
+Wie viele Symmetrielinien hat ein Quadrat?
+A) 2
+B) 4
+C) 6
+D) 8
+Frage 9
+Wie verhalten sich die Diagonalen in einem Quadrat zueinander?
+A) Sie sind ungleich
+B) Sie halbieren einander und stehen senkrecht
+C) Sie sind parallel
+D) Sie schneiden sich nicht
+Frage 10
+Wie lang ist die Diagonale eines Quadrats mit der Seitenlänge „a“?
+A) a
+B) 2a
+C) ein sqrt(2)
+D) a/2
+Frage 11
+Welche Eigenschaft gilt für alle Quadrate?
+A) Alle Winkel sind spitz
+B) Diagonalen sind gleich lang
+C) Nur gegenüberliegende Seiten sind gleich
+D) Nur benachbarte Seiten sind gleich
+Frage 12
+Was ist eine charakteristische Eigenschaft einer Raute?
+A) Nur zwei Seiten sind gleich
+B) Alle Seiten sind gleich lang
+C) Nur ein Paar gegenüberliegender Seiten ist parallel
+D) Alle Winkel sind rechte Winkel
+Frage 13
+Wie schneiden sich die Diagonalen einer Raute?
+A) Sie sind gleich lang
+B) Sie halbieren einander im rechten Winkel
+C) Sie sind parallel
+D) Sie schneiden sich nicht
+Frage 14
+Wie groß sind die Winkel, die dort entstehen, wo sich die Diagonalen einer Raute schneiden?
+A) 30 Grad
+B) 60 Grad
+C) 90 Grad
+D) 120 Grad
+Frage 15
+Die Diagonalen unterteilen eine Raute in wie viele kongruente Dreiecke?
+A) 2
+B) 3
+C) 4
+D) 6
+Frage 16
+Welche Eigenschaft gilt sowohl für Rauten als auch für Quadrate?
+A) Alle Winkel betragen 90 Grad
+B) Diagonalen halbieren einander im rechten Winkel
+C) Nur ein Seitenpaar ist parallel
+D) Diagonalen sind nicht gleich
+Frage 17
+Was ist die definierende Eigenschaft eines Parallelogramms?
+A) Nur ein Paar gegenüberliegender Seiten ist parallel
+B) Beide Paare gegenüberliegender Seiten sind parallel
+C) Nur benachbarte Seiten sind gleich
+D) Alle Winkel sind rechte Winkel
+Frage 18
+Wie groß ist jeder Innenwinkel in einem Rechteck?
+A) 45 Grad
+B) 60 Grad
+C) 90 Grad
+D) 120 Grad
+Frage 19
+Wie verhalten sich die Diagonalen in einem Rechteck zueinander?
+A) Sie sind ungleich
+B) Sie halbieren einander und stehen senkrecht
+C) Sie sind parallel
+D) Sie sind gleich lang
+Frage 20
+Welche Eigenschaft gilt sowohl für Rechtecke als auch für Quadrate?
+A) Alle Seiten sind gleich
+B) Alle Winkel sind rechte Winkel
+C) Diagonalen halbieren einander im rechten Winkel
+D) Nur ein Seitenpaar ist parallel
+Richtig!
+Falsch! Da die Winkel gleich sind, ist es 180/3 = 60.
+Falsch! Gleichschenklige haben zwei gleiche Winkel und Seiten.
+Falsch! Ein Skalenus hat keine gleichen Seiten oder Winkel.
+Falsch! Ein rechtwinkliges Dreieck hat einen rechten Winkel.
+Falsch! Ein spitzes Dreieck hat nur spitze Winkel.
+Falsch! Ein stumpfes Dreieck hat nur einen stumpfen Winkel.
+Falsch! Alle Innenwinkel eines Quadrats betragen 90 Grad.
+Falsch! Ein Quadrat hat vier Symmetrielinien.
+Falsch! Sie halbieren sich im 90-Grad-Winkel.
+Falsch! Finden Sie die Hypotenuse: sqrt(a^2+a^2) = a sqrt(2).
+Falsch! Alle Diagonalen sind gleich, weil alle Seiten gleich sind.
+Falsch! Raute, wie bei einem Quadrat sind alle Seiten gleich.
+Falsch! sie halbieren sich im rechten Winkel in Grad.
+Falsch! sie halbieren sich im 90-Grad-Winkel
+Falsch! vier Dreiecke, da sich die Diagonalen halbieren.
+Falsch! Beide haben Diagonalen, die sich im 90-Grad-Winkel halbieren.
+Falsch! Es heißt nicht ohne Grund Parallelogramm.
+Falsch! 90 Grad wie ein Quadrat
+Falsch! Sie sind gleich lang, aber nicht immer 90 Grad.
+Falsch! Alle Winkel sind rechte Winkel.

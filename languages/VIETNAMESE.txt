@@ -1,0 +1,166 @@
+ĐẶC ĐIỂM HÌNH HỌC
+BẮT ĐẦU
+TÙY CHỌN
+LỐI RA
+Toàn màn hình
+Âm nhạc
+Nghị quyết
+Dịch
+Ngôn ngữ
+MẶT SAU
+KẾ TIẾP
+Tam giác
+Tam giác đều: Tam giác đều có độ dài các cạnh bằng nhau và mỗi góc trong bằng 60 độ. Tam giác cân: Tam giác cân có hai cạnh bằng nhau và có hai góc bằng nhau. Tam giác cân: Tam giác cân không có cạnh hoặc góc nào bằng nhau. Tam giác vuông: Tam giác vuông có một góc vuông (90 độ). Theo Định lý Pythagore, bình phương của cạnh huyền bằng tổng bình phương của hai cạnh góc vuông. Tam giác nhọn: Tam giác nhọn có tất cả các góc nhỏ hơn 90 độ. Tam giác tù: Tam giác tù có một góc lớn hơn 90 độ.
+Quảng trường
+Hình vuông có tất cả các cạnh bằng nhau và mỗi góc trong bằng 90 độ. Các đường chéo của nó chia đôi nhau theo một góc vuông và có độ dài bằng nhau. Ngoài ra, một hình vuông có bốn trục đối xứng.
+Hình chữ nhật
+Một hình chữ nhật có các cạnh đối diện bằng nhau và mỗi góc trong bằng 90 độ. Các đường chéo có chiều dài bằng nhau và chia đôi nhau và hình có hai đường đối xứng.
+hình thoi
+Hình thoi có tất cả các cạnh có độ dài bằng nhau và các góc đối diện bằng nhau. Các đường chéo chia đôi nhau vuông góc và chia hình thoi thành bốn hình tam giác bằng nhau.
+Hình bình hành
+Hình bình hành có các cạnh đối diện bằng nhau và song song, các góc đối diện bằng nhau. Các đường chéo của nó chia đôi nhau.
+ĐỐ
+HOÀN THÀNH
+TRANG CHỦ
+ĐIỂM
+Câu hỏi 1
+Mỗi góc trong của một tam giác đều có số đo là bao nhiêu?
+A) 45 độ
+B) 60 độ
+C) 90 độ
+D) 120 độ
+Câu hỏi 2
+Tam giác nào có hai cạnh dài bằng nhau và có hai góc bằng nhau?
+A) Tam giác cân
+B) Tam giác cân
+C) Tam giác đều
+đ) Tam giác vuông
+Câu hỏi 3
+Tam giác nào không có cạnh hoặc góc bằng nhau?
+A) Tam giác cân
+B) Tam giác cân
+C) Tam giác đều
+D) Tam giác nhọn
+Câu hỏi 4
+Tam giác nào có một góc vuông?
+A) Tam giác cân
+B) Tam giác cân
+C) Tam giác đều
+đ) Tam giác vuông
+Câu hỏi 5
+Tam giác nào có tất cả các góc đều nhọn?
+A) Tam giác cân
+B) Tam giác cân
+C) Tam giác đều
+D) Tam giác nhọn
+Câu hỏi 6
+Tam giác nào có một góc tù?
+A) Tam giác cân
+B) Tam giác cân
+C) Tam giác đều
+D) Tam giác tù
+Câu hỏi 7
+Số đo mỗi góc trong của hình vuông là bao nhiêu?
+A) 45 độ
+B) 60 độ
+C) 90 độ
+D) 120 độ
+Câu hỏi 8
+Hình vuông có bao nhiêu trục đối xứng?
+A) 2
+B 4
+C 6
+Đ) 8
+Câu hỏi 9
+Trong một hình vuông, các đường chéo liên hệ với nhau như thế nào?
+A) Chúng không bằng nhau
+B) Chúng cắt nhau và vuông góc
+C) Chúng song song
+D) Chúng không cắt nhau
+Câu hỏi 10
+Độ dài đường chéo của hình vuông có cạnh là 'a' là bao nhiêu?
+A) một
+B) 2a
+C) một mét vuông(2)
+D) a/2
+Câu hỏi 11
+Tính chất nào đúng với mọi hình vuông?
+A) Mọi góc đều nhọn
+B) Các đường chéo có độ dài bằng nhau
+C) Chỉ có các cạnh đối diện bằng nhau
+D) Chỉ có các cạnh kề nhau bằng nhau
+Câu hỏi 12
+Tính chất đặc trưng của hình thoi là gì?
+A) Chỉ có hai cạnh bằng nhau
+B) Tất cả các cạnh có độ dài bằng nhau
+C) Chỉ có một cặp cạnh đối diện song song
+D) Mọi góc đều là góc vuông
+Câu hỏi 13
+Các đường chéo của hình thoi cắt nhau như thế nào?
+A) Chúng có chiều dài bằng nhau
+B) Chúng cắt nhau vuông góc
+C) Chúng song song
+D) Chúng không cắt nhau
+Câu hỏi 14
+Góc tạo thành tại điểm hai đường chéo của hình thoi cắt nhau có số đo là bao nhiêu?
+A) 30 độ
+B) 60 độ
+C) 90 độ
+D) 120 độ
+Câu hỏi 15
+Trong một hình thoi, các đường chéo chia nó thành mấy hình tam giác bằng nhau?
+A) 2
+B) 3
+C) 4
+Đ) 6
+Câu hỏi 16
+Tính chất nào đúng cho cả hình thoi và hình vuông?
+a) Mọi góc đều bằng 90 độ
+B) Các đường chéo chia đôi nhau một góc vuông
+C) Chỉ có một cặp cạnh song song
+D) Các đường chéo không bằng nhau
+Câu hỏi 17
+Tính chất xác định của hình bình hành là gì?
+A) Chỉ có một cặp cạnh đối diện song song
+B) Hai cặp cạnh đối diện song song
+C) Chỉ có các cạnh kề nhau bằng nhau
+D) Mọi góc đều là góc vuông
+Câu hỏi 18
+Số đo mỗi góc trong của hình chữ nhật là bao nhiêu?
+A) 45 độ
+B) 60 độ
+C) 90 độ
+D) 120 độ
+Câu hỏi 19
+Trong hình chữ nhật, các đường chéo liên hệ với nhau như thế nào?
+A) Chúng không bằng nhau
+B) Chúng cắt nhau và vuông góc
+C) Chúng song song
+D) Chúng có chiều dài bằng nhau
+Câu hỏi 20
+Tính chất nào đúng cho cả hình chữ nhật và hình vuông?
+A) Tất cả các cạnh đều bằng nhau
+B) Mọi góc đều là góc vuông
+C) Các đường chéo chia đôi nhau một góc vuông
+D) Chỉ có một cặp cạnh song song
+Chính xác!
+Không đúng! vì các góc bằng nhau nên 180/3 = 60.
+Không đúng! Hình cân có 2 góc và 2 cạnh bằng nhau.
+Không đúng! Một vảy không có cạnh hoặc góc bằng nhau.
+Không đúng! Tam giác vuông có một góc vuông.
+Không đúng! Tam giác nhọn chỉ có các góc nhọn.
+Không đúng! Tam giác tù chỉ có một góc tù.
+Không đúng! Tất cả các góc bên trong của hình vuông là 90 độ.
+Không đúng! Một hình vuông có bốn trục đối xứng.
+Không đúng! Chúng chia đôi ở 90 độ.
+Không đúng! tìm cạnh huyền: sqrt(a^2+a^2) = a sqrt(2).
+Không đúng! Tất cả các đường chéo đều bằng nhau vì tất cả các cạnh đều bằng nhau.
+Không đúng! Hình thoi, giống như hình vuông, có tất cả các cạnh bằng nhau.
+Không đúng! chúng chia đôi theo một góc vuông.
+Không đúng! chúng chia đôi ở 90 độ
+Không đúng! bốn hình tam giác vì các đường chéo chia đôi.
+Không đúng! Cả hai đều có đường chéo chia đôi ở 90 độ.
+Không đúng! nó được gọi là hình bình hành là có lý do.
+Không đúng! 90 độ như hình vuông
+Không đúng! Chúng có chiều dài bằng nhau nhưng không phải lúc nào cũng 90 độ.
+Không đúng! Mọi góc đều là góc vuông.

@@ -1,0 +1,166 @@
+SIFAT GEOMETRI
+MULAI
+PILIHAN
+MUTU
+Layar wutuh
+Musik
+Resolusi
+nerjemahake
+Basa
+MULIH
+NEXT
+Triangle
+Segitiga Equilateral: Segitiga padha karo kabeh sisi sing padha, lan saben sudut interior ukurane 60 derajat. Segitiga Isosceles: Segitiga isosceles nduweni rong sisi sing padha dawa lan rong sudut sing kongruen. Segitiga Skala: Segitiga skalane ora duwe sisi utawa sudut sing padha. Segitiga Tengen: Segitiga tengen nduweni siji sudut tengen (90 derajat). Miturut Teorema Pythagoras, kuadrat hipotenusa padha karo jumlah kuadrat saka rong sisi liyane. Segitiga Akut: Segitiga akut nduweni kabeh sudut sing ukurane kurang saka 90 derajat. Segitiga Obtuse: Segitiga tumpul kalebu siji sudut sing luwih saka 90 derajat.
+Alun-alun
+A kothak duwe kabeh pinggir padha dawa lan saben amba interior 90 derajat. Diagonal-diagonal kasebut dadi loro kanthi sudut sing tepat lan dawane padha. Kajaba iku, kothak nduweni papat garis simetri.
+Persegi panjang
+A persegi dowo duwe sisih ngelawan sing padha dawa, lan saben amba interior 90 derajat. Diagonal padha dawa lan loro-lorone, lan wangun wis loro garis simetri.
+rombus
+A rhombus nduweni kabeh sisi sing padha dawa lan sudhut ngelawan sing padha. Diagonal kasebut dadi loro ing sisih tengen lan dibagi rombus dadi papat segi telu sing kongruen.
+Paralelogram
+Parallelogram nduweni sisi sing ngelawan sing padha dawa lan sejajar, kanthi sudut sing padha. Sawijining diagonal bisect siji liyane.
+KUIS
+Rampung
+OMAH
+SKOR
+Pitakonan 1
+Apa ukuran saben sudut interior ing segi telu padha?
+A) 45 derajat
+b) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pitakonan 2
+Segitiga endi sing duwe loro sisi sing padha dawa lan rong sudut sing kongruen?
+A) Skala segitiga
+B) Segitiga Isosceles
+C) segitiga sama sisi
+D) segitiga tengen
+Pitakonan 3
+Segitiga endi sing ora duwe sisi utawa sudut sing padha?
+A) Skala segitiga
+B) Segitiga Isosceles
+C) segitiga sama sisi
+D) Segitiga akut
+Pitakonan 4
+Apa jinis segitiga sing duwe siji sudut tengen?
+A) Skala segitiga
+B) Segitiga Isosceles
+C) segitiga sama sisi
+D) segitiga tengen
+Pitakonan 5
+Apa jinis segitiga sing duwe kabeh sudut akut?
+A) Skala segitiga
+B) Segitiga Isosceles
+C) segitiga sama sisi
+D) Segitiga akut
+Pitakonan 6
+Segitiga endi sing duwe siji sudut tumpul?
+A) Skala segitiga
+B) Segitiga Isosceles
+C) segitiga sama sisi
+D) Segitiga tumpul
+Pitakonan 7
+Apa ukuran saben sudut interior ing kothak?
+A) 45 derajat
+b) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pitakonan 8
+Pira garis simetri ing kothak?
+A) 2
+B) 4
+C) 6
+D) 8
+Pitakonan 9
+Ing kothak, kepiye hubungane diagonal?
+A) Padha ora padha
+B) Padha bisect saben liyane lan jejeg
+C) Padha paralel
+D) Padha ora intersect
+Pitakonan 10
+Apa dawane diagonal kothak kanthi dawa sisih 'a'?
+A) a
+B) 2a
+C) sqrt (2)
+D) a/2
+Pitakonan 11
+Properti sing bener kanggo kabeh kothak?
+A) Kabeh sudhut iku akut
+B) Diagonal padha dawa
+C) Mung sisih ngelawan padha
+D) Mung sisih jejer sing padha
+Pitakonan 12
+Apa ciri khas rhombus?
+A) Mung loro sisih padha
+B) Kabeh sisi padha dawa
+C) Mung siji pasangan sisih ngelawan sejajar
+D) Kabeh sudhut iku sudhut tengen
+Pitakonan 13
+Kepiye carane diagonal rhombus intersection?
+A) Padha dawane
+B) Padha bisect saben liyane ing ngarepke tengen
+C) Padha paralel
+D) Padha ora intersect
+Pitakonan 14
+Apa ukuran sudut sing dibentuk ing endi diagonal rombus?
+A) 30 derajat
+b) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pitakonan 15
+Ing rombus, diagonal dibagi dadi pirang-pirang segi telu sing kongruen?
+A) 2
+B) 3
+C) 4
+D) 6
+Pitakonan 16
+Sifat apa sing bener kanggo rhombuses lan squares?
+A) Kabeh sudhut 90 derajat
+B) Diagonal-diagonal padha loro-lorone kanthi sudut sing tepat
+C) Mung sepasang sisi sing sejajar
+D) Diagonal ora padha
+Pitakonan 17
+Apa sifat sing nemtokake paralelogram?
+A) Mung siji pasangan sisih ngelawan iku podo karo
+B) Loro-lorone pasangan sisih ngelawan iku sejajar
+C) Mung sisih jejer sing padha
+D) Kabeh sudhut iku sudhut tengen
+Pitakonan 18
+Apa ukuran saben sudut interior ing persegi dowo?
+A) 45 derajat
+b) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pitakonan 19
+Ing persegi dowo, kepiye hubungane diagonal?
+A) Padha ora padha
+B) Padha bisect saben liyane lan jejeg
+C) Padha paralel
+D) Dawane padha
+Pitakonan 20
+Properti apa sing bener kanggo persegi panjang lan kotak?
+A) Kabeh sisih padha
+B) Kabeh sudhut iku sudhut tengen
+C) Diagonal-diagonal padha loro-lorone kanthi sudut sing tepat
+D) Mung sepasang sisi sing sejajar
+Bener!
+salah! amarga ambane padha, 180/3 = 60.
+salah! Isosceles nduweni 2 sudut lan sisi sing padha.
+salah! Skalane ora duwe sisi utawa sudut sing padha.
+salah! Segitiga sudut tengen nduweni sudut sing tepat.
+salah! Segitiga akut mung nduweni sudut akut.
+salah! Segitiga tumpul mung nduweni sudut tumpul.
+salah! Kabeh sudhut interior kothak 90 derajat.
+salah! A kothak duwe papat garis simetri.
+salah! Padha bisect ing 90 derajat.
+salah! golek hipotenuse: sqrt(a^2+a^2) = a sqrt(2).
+salah! Kabeh diagonal padha amarga kabeh sisi padha.
+salah! Rhombus, kaya kothak, kabeh sisi padha.
+salah! padha bisect ing tengen ngarepke derajat.
+salah! padha bisect ing 90 derajat
+salah! papat segi telu wiwit diagonal bisect.
+salah! Loro-lorone duwe diagonal bisect ing 90 derajat.
+salah! diarani paralelogram amarga ana alesan.
+salah! 90 derajat kaya kothak
+salah! Dawane padha nanging ora tansah 90 derajat.
+salah! Kabeh sudhut iku sudhut tengen.

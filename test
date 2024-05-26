@@ -1,26 +1,204 @@
-import tkinter
-import customtkinter
+import os
+from googletrans import Translator
 
-root = customtkinter.CTk()
-root.title("okkk")
-root.geometry("1280x720")
-root.minsize(width=640, height=480)
-root.maxsize(width=3840, height = 2160)
+# Define the list of languages
+language_list = {
+    "AFRIKAANS": "af", "ALBANIAN": "sq", "ARABIC": "ar", "ARMENIAN": "hy", "BASQUE": "eu", "BENGALI": "bn", 
+    "BULGARIAN": "bg", "CATALAN": "ca", "CAMBODIAN": "km", "CHINESE": "zh-CN", "CROATIAN": "hr", "CZECH": "cs", 
+    "DANISH": "da", "DUTCH": "nl", "ENGLISH": "en", "ESTONIAN": "et", "FINNISH": "fi", "FRENCH": "fr", "GEORGIAN": "ka", 
+    "GERMAN": "de", "GREEK": "el", "GUJARATI": "gu", "HEBREW": "iw", "HINDI": "hi", "HUNGARIAN": "hu", "ICELANDIC": "is", 
+    "INDONESIAN": "id", "IRISH": "ga", "ITALIAN": "it", "JAPANESE": "ja", "JAVANESE": "jw", "KOREAN": "ko", "LATIN": "la", 
+    "LATVIAN": "lv", "LITHUANIAN": "lt", "MACEDONIAN": "mk", "MALAY": "ms", "MALAYALAM": "ml", "MALTESE": "mt", "MAORI": "mi", 
+    "MARATHI": "mr", "MONGOLIAN": "mn", "NEPALI": "ne", "NORWEGIAN": "no", "PERSIAN": "fa", "POLISH": "pl", "PORTUGUESE": "pt", 
+    "PUNJABI": "pa", "ROMANIAN": "ro", "RUSSIAN": "ru", "SAMOAN": "sm", "SERBIAN": "sr", "SLOVAK": "sk", "SLOVENIAN": "sl", 
+    "SPANISH": "es", "SWAHILI": "sw", "SWEDISH": "sv", "TAMIL": "ta", "TATAR": "tt", "TELUGU": "te", "THAI": "th", 
+    "TONGA": "to", "TURKISH": "tr", "UKRAINIAN": "uk", "URDU": "ur", "UZBEK": "uz", "VIETNAMESE": "vi", "WELSH": "cy", 
+    "XHOSA": "xh"
+}
 
+# Define the text to be translated
+text = """
+GEOMETRIC PROPERTIES
+START
+OPTIONS
+EXIT
+Fullscreen
+Music
+Resolution
+Translate
+Language
+BACK
+NEXT
+Triangle
+Equilateral Triangle: An equilateral triangle has all sides of equal length, and each interior angle measures 60 degrees. Isosceles Triangle: An isosceles triangle has two sides of equal length and two congruent angles. Scalene Triangle: A scalene triangle has no sides or angles that are equal. Right Triangle: A right triangle features one right angle (90 degrees). According to the Pythagorean Theorem, the square of the hypotenuse is equal to the sum of the squares of the other two sides. Acute Triangle: An acute triangle has all its angles measuring less than 90 degrees. Obtuse Triangle: An obtuse triangle includes one angle that is greater than 90 degrees.
+Square
+A square has all sides of equal length and each interior angle is 90 degrees. Its diagonals bisect each other at right angles and are of equal length. Additionally, a square has four lines of symmetry.
+Rectangle
+A rectangle has opposite sides that are equal in length, and each interior angle is 90 degrees. The diagonals are equal in length and bisect each other, and the shape has two lines of symmetry.
+Rhombus
+A rhombus features all sides of equal length and opposite angles that are equal. The diagonals bisect each other at right angles and divide the rhombus into four congruent triangles.
+Parallelogram
+A parallelogram has opposite sides that are equal in length and parallel, with opposite angles that are equal. Its diagonals bisect each other.
+QUIZ
+FINISH
+HOME
+SCORE
+Question 1
+What is the measure of each interior angle in an equilateral triangle?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 2
+Which triangle has two sides of equal length and two congruent angles?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Right triangle
+Question 3
+Which triangle has no sides or angles equal?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Acute triangle
+Question 4
+What type of triangle has one right angle?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Right triangle
+Question 5
+What type of triangle has all angles acute?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Acute triangle
+Question 6
+Which triangle has one obtuse angle?
+A) Scalene triangle
+B) Isosceles triangle
+C) Equilateral triangle
+D) Obtuse triangle
+Question 7
+What is the measure of each interior angle in a square?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 8
+How many lines of symmetry does a square have?
+A) 2
+B) 4
+C) 6
+D) 8
+Question 9
+In a square, how do the diagonals relate to each other?
+A) They are unequal
+B) They bisect each other and are perpendicular
+C) They are parallel
+D) They do not intersect
+Question 10
+What is the length of the diagonal of a square with side length 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Question 11
+Which property is true for all squares?
+A) All angles are acute
+B) Diagonals are equal in length
+C) Only opposite sides are equal
+D) Only adjacent sides are equal
+Question 12
+What is a characteristic property of a rhombus?
+A) Only two sides are equal
+B) All sides are of equal length
+C) Only one pair of opposite sides is parallel
+D) All angles are right angles
+Question 13
+How do the diagonals of a rhombus intersect?
+A) They are equal in length
+B) They bisect each other at right angles
+C) They are parallel
+D) They do not intersect
+Question 14
+What is the measure of the angles formed where the diagonals of a rhombus intersect?
+A) 30 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 15
+In a rhombus, the diagonals divide it into how many congruent triangles?
+A) 2
+B) 3
+C) 4
+D) 6
+Question 16
+Which property is true for both rhombuses and squares?
+A) All angles are 90 degrees
+B) Diagonals bisect each other at right angles
+C) Only one pair of sides is parallel
+D) Diagonals are not equal
+Question 17
+What is the defining property of a parallelogram?
+A) Only one pair of opposite sides is parallel
+B) Both pairs of opposite sides are parallel
+C) Only adjacent sides are equal
+D) All angles are right angles
+Question 18
+What is the measure of each interior angle in a rectangle?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Question 19
+In a rectangle, how do the diagonals relate to each other?
+A) They are unequal
+B) They bisect each other and are perpendicular
+C) They are parallel
+D) They are equal in length
+Question 20
+Which property is true for both rectangles and squares?
+A) All sides are equal
+B) All angles are right angles
+C) Diagonals bisect each other at right angles
+D) Only one pair of sides is parallel
+Correct!
+Incorrect! since the angles are equal it's 180/3 = 60.
+Incorrect! Isosceles has 2 equal angles and sides.
+Incorrect! A scalene has no equal sides or angles.
+Incorrect! A right angle trinagle has a right angle.
+Incorrect! An acute triangle only has acute angles.
+Incorrect! An obtuse triangle only has an obtuse angle.
+Incorrect! All interior angles of a square are 90 degrees.
+Incorrect! A square has four lines of symmetry.
+Incorrect! They bisect at 90 degrees.
+Incorrect! find the hypotenuse: sqrt(a^2+a^2) = a sqrt(2).
+Incorrect! All diagonals are equal because all sides are equal.
+Incorrect! Rhombus, like a square has all sides equals.
+Incorrect! they bisect at right angles degrees.
+Incorrect! they bisect at 90 degrees
+Incorrect! four triangles since the diagonals bisect.
+Incorrect! Both have diagonals bisect at 90 degrees.
+Incorrect! its called parallelogram for a reason.
+Incorrect! 90 degrees like a square
+Incorrect! They are equal in length but not always 90 degrees.
+Incorrect! All angles are right angles.
+"""
 
+if not os.path.exists("translated_files"):
+    os.makedirs("translated_files")
 
+# Initialize the translator
+translator = Translator()
 
+# Translate the text into each language in language_list
+for language in language_list:
+    # Translate the text
+    translated_text = translator.translate(text, dest=language_list[language]).text
+    
+    # Write the translated text to a file
+    with open(f"translated_files/{language}.txt", "w", encoding="utf-8") as file:
+        file.write(translated_text)
 
-
-
-o1 = customtkinter.CTkButton(root, text="5")
-o1.place(x=5,y=5)
-l1 = customtkinter.CTkScrollableFrame(root)
-l1.pack()
-for x in range(20):
-    customtkinter.CTkButton(l1, text="5").pack()
-
-
-
-
-root.mainloop()
+print("Translation completed. Translated files are saved in the 'translated_files' directory.")

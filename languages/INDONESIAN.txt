@@ -1,0 +1,166 @@
+SIFAT GEOMETRIS
+AWAL
+PILIHAN
+KELUAR
+Layar penuh
+Musik
+Resolusi
+Menerjemahkan
+Bahasa
+KEMBALI
+BERIKUTNYA
+Segi tiga
+Segitiga Sama Sisi: Segitiga sama sisi memiliki semua sisi yang sama panjang, dan setiap sudut dalam berukuran 60 derajat. Segitiga Sama Kaki: Segitiga sama kaki memiliki dua sisi yang sama panjang dan dua sudut yang kongruen. Segitiga Tak Berskala: Segitiga tak sama panjang tidak memiliki sisi atau sudut yang sama besar. Segitiga Siku-siku: Segitiga siku-siku memiliki satu sudut siku-siku (90 derajat). Menurut Teorema Pythagoras, kuadrat sisi miring sama dengan jumlah kuadrat kedua sisi lainnya. Segitiga lancip : Segitiga lancip yang semua sudutnya berukuran kurang dari 90 derajat. Segitiga Tumpul: Segitiga tumpul mempunyai salah satu sudut yang besarnya lebih dari 90 derajat.
+Persegi
+Sebuah persegi mempunyai semua sisi yang sama panjang dan masing-masing sudut dalamnya 90 derajat. Diagonal-diagonalnya saling membagi dua tegak lurus dan sama panjang. Selain itu, persegi memiliki empat simetri lipat.
+Persegi panjang
+Suatu persegi panjang mempunyai sisi-sisi berhadapan yang sama panjang dan masing-masing sudut dalamnya 90 derajat. Diagonal-diagonalnya sama panjang dan saling membagi dua, serta bangun datarnya mempunyai dua simetri lipat.
+Belah ketupat
+Belah ketupat mempunyai semua sisi yang sama panjang dan sudut-sudut berhadapan yang sama besar. Diagonal-diagonalnya saling membagi dua membentuk sudut siku-siku dan membagi belah ketupat menjadi empat segitiga yang kongruen.
+Genjang
+Jajargenjang mempunyai sisi-sisi berhadapan yang sama panjang dan sejajar, serta sudut-sudut yang berhadapan sama besar. Diagonal-diagonalnya saling membagi dua.
+ULANGAN
+MENYELESAIKAN
+RUMAH
+SKOR
+pertanyaan 1
+Berapa besar masing-masing sudut dalam pada segitiga sama sisi?
+A) 45 derajat
+B) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pertanyaan 2
+Segitiga manakah yang mempunyai dua sisi yang sama panjang dan dua sudut yang kongruen?
+A) Segitiga tak sama panjang
+B) Segitiga sama kaki
+C) Segitiga sama sisi
+D) Segitiga siku-siku
+Pertanyaan 3
+Segitiga manakah yang tidak memiliki sisi atau sudut yang sama besar?
+A) Segitiga tak sama panjang
+B) Segitiga sama kaki
+C) Segitiga sama sisi
+D) Segitiga lancip
+Pertanyaan 4
+Jenis segitiga apa yang salah satu sudutnya siku-siku?
+A) Segitiga tak sama panjang
+B) Segitiga sama kaki
+C) Segitiga sama sisi
+D) Segitiga siku-siku
+Pertanyaan 5
+Jenis segitiga apa yang semua sudutnya lancip?
+A) Segitiga tak sama panjang
+B) Segitiga sama kaki
+C) Segitiga sama sisi
+D) Segitiga lancip
+Pertanyaan 6
+Segitiga manakah yang salah satu sudutnya tumpul?
+A) Segitiga tak sama panjang
+B) Segitiga sama kaki
+C) Segitiga sama sisi
+D) Segitiga tumpul
+Pertanyaan 7
+Berapa besar masing-masing sudut dalam suatu persegi?
+A) 45 derajat
+B) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pertanyaan 8
+Berapa banyak simetri lipat yang dimiliki sebuah persegi?
+A) 2
+B) 4
+B) 6
+D) 8
+Pertanyaan 9
+Pada persegi, bagaimana hubungan diagonal-diagonalnya?
+A) Mereka tidak setara
+B) Mereka membagi dua satu sama lain dan tegak lurus
+C) Mereka sejajar
+D) Mereka tidak berpotongan
+Pertanyaan 10
+Berapa panjang diagonal persegi yang panjang sisinya 'a'?
+A A
+B) 2a
+C) sebuah persegi(2)
+D) sebuah/2
+Pertanyaan 11
+Properti manakah yang benar untuk semua persegi?
+A) Semua sudut lancip
+B) Diagonal-diagonalnya sama panjang
+C) Hanya sisi-sisi yang berhadapan yang sama panjang
+D) Hanya sisi-sisi yang berdekatan yang sama panjang
+Pertanyaan 12
+Apa ciri ciri belah ketupat?
+A) Hanya dua sisi yang sama panjang
+B) Semua sisinya sama panjang
+c) Hanya sepasang sisi berhadapan yang sejajar
+D) Semua sudut siku-siku
+Pertanyaan 13
+Bagaimana diagonal-diagonal belah ketupat berpotongan?
+A) Panjangnya sama
+B) Mereka membagi dua satu sama lain pada sudut siku-siku
+C) Mereka sejajar
+D) Mereka tidak berpotongan
+Pertanyaan 14
+Berapa besar sudut yang terbentuk pada perpotongan diagonal-diagonal belah ketupat?
+A) 30 derajat
+B) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pertanyaan 15
+Pada suatu belah ketupat, diagonal-diagonalnya membaginya menjadi berapa banyak segitiga yang kongruen?
+A) 2
+B) 3
+C) 4
+D) 6
+Pertanyaan 16
+Sifat manakah yang benar untuk belah ketupat dan persegi?
+A) Semua sudutnya 90 derajat
+B) Diagonal-diagonal saling membagi dua pada sudut siku-siku
+C) Hanya sepasang sisi yang sejajar
+D) Diagonalnya tidak sama
+Pertanyaan 17
+Apa ciri khas jajar genjang?
+A) Hanya sepasang sisi berhadapan yang sejajar
+B) Kedua pasang sisi yang berhadapan sejajar
+C) Hanya sisi-sisi yang berdekatan yang sama panjang
+D) Semua sudut siku-siku
+Pertanyaan 18
+Berapa besar masing-masing sudut dalam pada persegi panjang?
+A) 45 derajat
+B) 60 derajat
+C) 90 derajat
+D) 120 derajat
+Pertanyaan 19
+Pada persegi panjang, bagaimana hubungan diagonal-diagonalnya?
+A) Mereka tidak setara
+B) Mereka membagi dua satu sama lain dan tegak lurus
+C) Mereka sejajar
+D) Panjangnya sama
+Pertanyaan 20
+Sifat manakah yang benar untuk persegi panjang dan persegi?
+A) Semua sisinya sama
+B) Semua sudut siku-siku
+C) Diagonal-diagonal saling membagi dua pada sudut siku-siku
+D) Hanya sepasang sisi yang sejajar
+Benar!
+Salah! karena sudutnya sama besar maka 180/3 = 60.
+Salah! Sama kaki mempunyai 2 sudut dan sisi yang sama besar.
+Salah! Sisi tak sama panjang tidak memiliki sisi atau sudut yang sama besar.
+Salah! Segitiga siku-siku mempunyai sudut siku-siku.
+Salah! Segitiga lancip hanya mempunyai sudut lancip.
+Salah! Segitiga tumpul hanya mempunyai sudut tumpul.
+Salah! Semua sudut dalam suatu persegi adalah 90 derajat.
+Salah! Sebuah persegi mempunyai empat simetri lipat.
+Salah! Mereka membagi dua pada 90 derajat.
+Salah! tentukan sisi miringnya: akar persegi(a^2+a^2) = akar persegi(2).
+Salah! Semua diagonalnya sama besar karena semua sisinya sama besar.
+Salah! Belah ketupat, seperti persegi, semua sisinya sama.
+Salah! mereka membagi dua pada derajat sudut siku-siku.
+Salah! mereka membagi dua pada 90 derajat
+Salah! empat buah segitiga karena diagonal-diagonalnya berpotongan dua.
+Salah! Keduanya memiliki diagonal yang berpotongan 90 derajat.
+Salah! itu disebut jajaran genjang karena suatu alasan.
+Salah! 90 derajat seperti persegi
+Salah! Panjangnya sama tetapi tidak selalu 90 derajat.
+Salah! Semua sudut adalah sudut siku-siku.

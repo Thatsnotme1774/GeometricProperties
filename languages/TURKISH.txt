@@ -1,0 +1,166 @@
+GEOMETRİK ÖZELLİKLER
+BAŞLANGIÇ
+SEÇENEKLER
+ÇIKIŞ
+Tam ekran
+Müzik
+Çözünürlük
+Çevirmek
+Dil
+GERİ
+SONRAKİ
+Üçgen
+Eşkenar Üçgen: Eşkenar üçgenin tüm kenarları eşit uzunluktadır ve her bir iç açısının ölçüsü 60 derecedir. İkizkenar Üçgen: İki kenarı eşit uzunlukta ve iki açısı birbirine eşit olan ikizkenar üçgendir. Çeşitkenar Üçgen: Çeşitkenar üçgenin kenarları veya açıları eşit değildir. Dik Üçgen: Dik üçgende bir dik açı (90 derece) bulunur. Pisagor Teoremine göre hipotenüsün karesi diğer iki kenarın karelerinin toplamına eşittir. Dar Üçgen: Dar üçgenin tüm açıları 90 dereceden küçüktür. Geniş Üçgen: Geniş bir üçgen, 90 dereceden büyük bir açı içerir.
+Kare
+Karenin tüm kenarları eşit uzunluktadır ve her bir iç açısı 90 derecedir. Köşegenleri birbirini dik açılarla ikiye böler ve eşit uzunluktadır. Ayrıca karenin dört simetri doğrusu vardır.
+Dikdörtgen
+Dikdörtgenin karşılıklı kenarları eşit uzunluktadır ve her bir iç açısı 90 derecedir. Köşegenlerin uzunlukları eşit olup birbirini ikiye böler ve şeklin iki simetri çizgisi vardır.
+Eşkenar dörtgen
+Bir eşkenar dörtgen, eşit uzunluktaki tüm kenarlara ve eşit zıt açılara sahiptir. Köşegenler birbirini dik açılarla ikiye böler ve eşkenar dörtgeni dört uyumlu üçgene böler.
+Paralelkenar
+Paralelkenarın karşıt kenarları eşit uzunlukta ve paraleldir ve karşıt açıları da eşittir. Köşegenleri birbirini ikiye böler.
+TEST
+SONA ERMEK
+EV
+GOL
+Soru 1
+Eşkenar üçgendeki her bir iç açının ölçüsü nedir?
+A) 45 derece
+B) 60 derece
+C) 90 derece
+120 derece
+soru 2
+Hangi üçgenin iki kenarı eşit uzunlukta ve iki açısı eştir?
+A) Çeşitkenar üçgen
+B) İkizkenar üçgen
+C) Eşkenar üçgen
+D) Dik üçgen
+Soru 3
+Hangi üçgenin kenarları ve açıları eşit değildir?
+A) Çeşitkenar üçgen
+B) İkizkenar üçgen
+C) Eşkenar üçgen
+D) Dar üçgen
+Soru 4
+Bir dik açısı olan üçgen türü hangisidir?
+A) Çeşitkenar üçgen
+B) İkizkenar üçgen
+C) Eşkenar üçgen
+D) Dik üçgen
+Soru 5
+Tüm açıları dar olan üçgen türü nedir?
+A) Çeşitkenar üçgen
+B) İkizkenar üçgen
+C) Eşkenar üçgen
+D) Dar üçgen
+Soru 6
+Hangi üçgenin bir geniş açısı vardır?
+A) Çeşitkenar üçgen
+B) İkizkenar üçgen
+C) Eşkenar üçgen
+D) Geniş üçgen
+Soru 7
+Karenin her bir iç açısının ölçüsü nedir?
+A) 45 derece
+B) 60 derece
+C) 90 derece
+120 derece
+Soru 8
+Bir karenin kaç tane simetri doğrusu vardır?
+A) 2
+B) 4
+C) 6
+8
+Soru 9
+Bir karede köşegenlerin birbirleriyle ilişkisi nedir?
+A) Eşit değildirler
+B) Birbirlerini ikiye bölerler ve diktirler
+C) Paraleldirler
+D) Kesişmezler
+Soru 10
+Kenar uzunluğu 'a' olan karenin köşegeninin uzunluğu nedir?
+A) bir
+B) 2a
+C) bir sqrt(2)
+D)a/2
+Soru 11
+Tüm kareler için hangi özellik doğrudur?
+A)Bütün açılar dardır
+B) Köşegen uzunlukları eşittir
+C) Sadece karşılıklı kenarlar eşittir
+D) Sadece bitişik kenarlar eşittir
+Soru 12
+Eşkenar dörtgenin karakteristik özelliği nedir?
+A) Sadece iki kenar eşittir
+B) Bütün kenarlar eşit uzunluktadır
+C) Karşılıklı kenarlardan yalnızca bir çift paraleldir
+D) Bütün açılar dik açıdır
+Soru 13
+Eşkenar dörtgenin köşegenleri nasıl kesişir?
+A) Boyları eşittir
+B) Birbirlerini dik açıyla ikiye bölerler
+C) Paraleldirler
+D) Kesişmezler
+Soru 14
+Eşkenar dörtgenin köşegenlerinin kesiştiği yerde oluşan açıların ölçüsü nedir?
+A) 30 derece
+B) 60 derece
+C) 90 derece
+120 derece
+Soru 15
+Bir eşkenar dörtgende köşegenler onu kaç eş üçgene böler?
+A) 2
+B) 3
+C) 4
+6
+Soru 16
+Hem eşkenar dörtgenler hem de kareler için hangi özellik doğrudur?
+A)Bütün açılar 90 derecedir
+B) Köşegenler birbirini dik keser
+C) Kenar çiftlerinden yalnızca biri paraleldir
+D) Köşegenler eşit değildir
+Soru 17
+Paralelkenarın tanımlayıcı özelliği nedir?
+A) Karşılıklı kenarlardan yalnızca bir çift paraleldir
+B) Karşılıklı kenar çiftlerinin her ikisi de paraleldir
+C) Sadece bitişik kenarlar eşittir
+D) Bütün açılar dik açıdır
+Soru 18
+Dikdörtgenin her bir iç açısının ölçüsü nedir?
+A) 45 derece
+B) 60 derece
+C) 90 derece
+120 derece
+Soru 19
+Bir dikdörtgende köşegenlerin birbirleriyle ilişkisi nedir?
+A) Eşit değildirler
+B) Birbirlerini ikiye bölerler ve diktirler
+C) Paraleldirler
+D) Uzunlukları eşittir
+Soru 20
+Hem dikdörtgenler hem de kareler için hangi özellik doğrudur?
+A) Bütün kenarlar eşittir
+B) Bütün açılar dik açıdır
+C) Köşegenler birbirini dik keser
+D) Kenar çiftlerinden yalnızca biri paraleldir
+Doğru!
+Yanlış! açılar eşit olduğundan 180/3 = 60 olur.
+Yanlış! İkizkenarın 2 eşit açısı ve kenarı vardır.
+Yanlış! Bir çeşitkenin eşit kenarları veya açıları yoktur.
+Yanlış! Dik açılı bir üçgenin bir dik açısı vardır.
+Yanlış! Dar bir üçgenin yalnızca dar açıları vardır.
+Yanlış! Geniş bir üçgenin yalnızca geniş bir açısı vardır.
+Yanlış! Karenin tüm iç açıları 90 derecedir.
+Yanlış! Karenin dört simetri doğrusu vardır.
+Yanlış! 90 derecede ikiye bölünürler.
+Yanlış! Hipotenüsü bulun: sqrt(a^2+a^2) = a sqrt(2).
+Yanlış! Bütün kenarlar eşit olduğundan bütün köşegenler eşittir.
+Yanlış! Eşkenar dörtgen, bir kare gibi tüm kenarları eşittir.
+Yanlış! derece dik açılarla ikiye bölünürler.
+Yanlış! 90 derecede ikiye bölünürler
+Yanlış! Köşegenler ikiye bölündüğü için dört üçgen var.
+Yanlış! Her ikisinin de köşegenleri 90 derecede ikiye bölünür.
+Yanlış! Buna bir nedenden dolayı paralelkenar deniyor.
+Yanlış! 90 derece kare gibi
+Yanlış! Uzunlukları eşittir ancak her zaman 90 derece değildir.
+Yanlış! Bütün açılar dik açıdır.

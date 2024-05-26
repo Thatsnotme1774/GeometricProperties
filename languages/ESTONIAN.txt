@@ -1,0 +1,166 @@
+GEOMEETRILISED OMADUSED
+START
+VALIKUD
+VÄLJU
+Täisekraan
+Muusika
+Resolutsioon
+Tõlgi
+Keel
+TAGASI
+JÄRGMINE
+Kolmnurk
+Võrdkülgne kolmnurk: võrdkülgse kolmnurga kõik küljed on võrdse pikkusega ja iga sisenurk on 60 kraadi. Võrdhaarne kolmnurk: Võrdhaarsel kolmnurgal on kaks võrdse pikkusega külge ja kaks kongruentset nurka. Skaleenkolmnurk: Skaalakolmnurgal pole võrdseid külgi ega nurki. Täisnurkne kolmnurk: täisnurksel kolmnurgal on üks täisnurk (90 kraadi). Pythagorase teoreemi kohaselt on hüpotenuusi ruut võrdne kahe ülejäänud külje ruutude summaga. Äge kolmnurk: terava kolmnurga kõik nurgad on väiksemad kui 90 kraadi. Nürinurkne kolmnurk: nüri kolmnurk sisaldab ühte nurka, mis on suurem kui 90 kraadi.
+Ruut
+Ruudu kõik küljed on võrdse pikkusega ja iga sisenurk on 90 kraadi. Selle diagonaalid poolitavad üksteist täisnurga all ja on võrdse pikkusega. Lisaks on ruudul neli sümmeetriajoont.
+Ristkülik
+Ristküliku vastasküljed on võrdse pikkusega ja iga sisenurk on 90 kraadi. Diagonaalid on võrdse pikkusega ja poolitavad üksteist ning kujundil on kaks sümmeetriajoont.
+Romb
+Rombi kõik küljed on võrdse pikkusega ja vastasnurgad on võrdsed. Diagonaalid poolitavad teineteist täisnurga all ja jagavad rombi neljaks ühtseks kolmnurgaks.
+Paralleelogramm
+Rööpküliku vastasküljed on võrdse pikkusega ja paralleelsed ning vastasnurgad on võrdsed. Selle diagonaalid poolitavad üksteist.
+VIKTORIIN
+LÕPETAMA
+KODU
+SKORE
+küsimus 1
+Mis on võrdkülgse kolmnurga iga sisenurga mõõt?
+A) 45 kraadi
+B) 60 kraadi
+C) 90 kraadi
+D) 120 kraadi
+2. küsimus
+Millise kolmnurga kaks külge on võrdse pikkusega ja kaks ühtlast nurka?
+A) Skaleeni kolmnurk
+B) Võrdhaarne kolmnurk
+C) Võrdkülgne kolmnurk
+D) Täisnurkne kolmnurk
+3. küsimus
+Millise kolmnurga küljed või nurgad pole võrdsed?
+A) Skaleeni kolmnurk
+B) Võrdhaarne kolmnurk
+C) Võrdkülgne kolmnurk
+D) Terav kolmnurk
+4. küsimus
+Mis tüüpi kolmnurgal on üks täisnurk?
+A) Skaleeni kolmnurk
+B) Võrdhaarne kolmnurk
+C) Võrdkülgne kolmnurk
+D) Täisnurkne kolmnurk
+5. küsimus
+Mis tüüpi kolmnurga kõik nurgad on teravad?
+A) Skaleeni kolmnurk
+B) Võrdhaarne kolmnurk
+C) Võrdkülgne kolmnurk
+D) Terav kolmnurk
+6. küsimus
+Millisel kolmnurgal on üks nürinurk?
+A) Skaleeni kolmnurk
+B) Võrdhaarne kolmnurk
+C) Võrdkülgne kolmnurk
+D) Nürinurkne kolmnurk
+7. küsimus
+Mis on ruudu iga sisenurga mõõt?
+A) 45 kraadi
+B) 60 kraadi
+C) 90 kraadi
+D) 120 kraadi
+8. küsimus
+Mitu sümmeetriajoont on ruudul?
+A) 2
+B) 4
+C) 6
+D) 8
+9. küsimus
+Kuidas on ruudu diagonaalid üksteisega seotud?
+A) Need on ebavõrdsed
+B) Nad poolitavad üksteist ja on risti
+C) Need on paralleelsed
+D) Need ei ristu
+10. küsimus
+Kui pikk on ruudu diagonaal, mille külje pikkus on 'a'?
+A) a
+B) 2a
+C) ruut (2)
+D) a/2
+11. küsimus
+Milline omadus kehtib kõigi ruutude kohta?
+A) Kõik nurgad on teravad
+B) Diagonaalid on võrdse pikkusega
+C) Ainult vastasküljed on võrdsed
+D) Ainult külgnevad küljed on võrdsed
+12. küsimus
+Mis on rombi iseloomulik omadus?
+A) Ainult kaks külge on võrdsed
+B) Kõik küljed on võrdse pikkusega
+C) Ainult üks paar vastaskülgi on paralleelsed
+D) Kõik nurgad on täisnurgad
+13. küsimus
+Kuidas ristuvad rombi diagonaalid?
+A) Need on võrdse pikkusega
+B) Nad poolitavad teineteist täisnurga all
+C) Need on paralleelsed
+D) Need ei ristu
+14. küsimus
+Kui suur on rombi diagonaalide ristumiskohas tekkivate nurkade mõõt?
+A) 30 kraadi
+B) 60 kraadi
+C) 90 kraadi
+D) 120 kraadi
+15. küsimus
+Mitmeks kongruentseks kolmnurgaks jagavad rombi diagonaalid selle?
+A) 2
+B) 3
+C) 4
+D) 6
+16. küsimus
+Milline omadus kehtib nii rombide kui ka ruutude puhul?
+A) Kõik nurgad on 90 kraadi
+B) Diagonaalid poolitavad teineteist täisnurga all
+C) Ainult üks külgede paar on paralleelsed
+D) Diagonaalid ei ole võrdsed
+17. küsimus
+Mis on rööpküliku määrav omadus?
+A) Ainult üks paar vastaskülgi on paralleelsed
+B) Mõlemad vastaskülgede paarid on paralleelsed
+C) Ainult külgnevad küljed on võrdsed
+D) Kõik nurgad on täisnurgad
+18. küsimus
+Mis on ristküliku iga sisenurga mõõt?
+A) 45 kraadi
+B) 60 kraadi
+C) 90 kraadi
+D) 120 kraadi
+19. küsimus
+Kuidas on ristküliku diagonaalid üksteisega seotud?
+A) Need on ebavõrdsed
+B) Nad poolitavad üksteist ja on risti
+C) Need on paralleelsed
+D) Need on võrdse pikkusega
+20. küsimus
+Milline omadus kehtib nii ristkülikute kui ka ruutude puhul?
+A) Kõik küljed on võrdsed
+B) Kõik nurgad on täisnurgad
+C) Diagonaalid poolitavad teineteist täisnurga all
+D) Ainult üks küljepaar on paralleelne
+Õige!
+Vale! kuna nurgad on võrdsed, on see 180/3 = 60.
+Vale! Võrdhaarsel on 2 võrdset nurka ja külge.
+Vale! Skaleenil pole võrdseid külgi ega nurki.
+Vale! Täisnurga kolmnurgal on täisnurk.
+Vale! Teravkolmnurgal on ainult teravnurgad.
+Vale! Nürikujulisel kolmnurgal on ainult nürinurk.
+Vale! Kõik ruudu sisenurgad on 90 kraadi.
+Vale! Ruudul on neli sümmeetriajoont.
+Vale! Nad poolitavad 90 kraadi.
+Vale! leidke hüpotenuus: sqrt(a^2+a^2) = a sqrt(2).
+Vale! Kõik diagonaalid on võrdsed, kuna kõik küljed on võrdsed.
+Vale! Rombi, nagu ruudu, kõik küljed on võrdsed.
+Vale! need poolitavad kraadide täisnurga all.
+Vale! nad poolitavad 90 kraadi
+Vale! neli kolmnurka, kuna diagonaalid poolitavad.
+Vale! Mõlemal on diagonaalid poolitatud 90 kraadi.
+Vale! seda kutsutakse mingil põhjusel rööpkülikuks.
+Vale! 90 kraadi nagu ruut
+Vale! Need on võrdse pikkusega, kuid mitte alati 90 kraadi.
+Vale! Kõik nurgad on täisnurgad.

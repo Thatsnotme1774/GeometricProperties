@@ -1,0 +1,166 @@
+ANOTOAGA GEOMETRI
+AMATA
+FILIFILIGA
+FA'AVAE
+Ata atoa
+Musika
+I'ugafono
+Fa'aliliu
+Gagana
+TUA
+SOSI
+Tafatolu
+Equilateral Triangle: Ose tafatolu equilateral e iai itu uma e tutusa le umi, ma o pito totonu taʻitasi e tusa ma le 60 tikeri. Tafatolu Isosceles: O se tafatolu isosceles e lua itu e tutusa le umi ma lua itu tutusa. Tafatolu Fua: O le tafatolu scalene e leai ni itu po'o ni tulimanu e tutusa. Tafatolu Taumatau: O le tafatolu sa'o e tasi le tulimanu sa'o (90 tikeri). E tusa ai ma le Pythagorean Theorem, o le sikuea o le hypotenuse e tutusa ma le aofaʻi o sikuea o isi itu e lua. Tafatolu Mata'utia: O le tafatolu mata'utia e iai ona tulimanu uma e itiiti ifo i le 90 tikeri. Tafatolu fa'ama'i: O le tafatolu fa'ama'i e aofia ai le tasi tulimanu e sili atu i le 90 tikeri.
+Square
+O le sikuea e tutusa itu uma ma le pito i totonu e 90 tikeri. O ona diagonal e vaelua le tasi i le isi i itu taumatau ma e tutusa le umi. E le gata i lea, o le sikuea e fa laina tutusa.
+Fa'atafefe
+O le tafa'afa'afa e fa'afeagai itu e tutusa le umi, ma o pito totonu ta'itasi e 90 tikeri. O diagonal e tutusa le umi ma vaeluaina le tasi ma le isi, ma o le foliga e lua laina tutusa.
+Rhombus
+O le rhombus e fa'aalia itu uma e tutusa le umi ma fa'afeagai tulimanu e tutusa. E vaevae le tasi i le isi i itu taumatau ma vaevae le rombus i tafatolu tutusa e fa.
+Paralelogram
+O le paralelogram e iai itu faafeagai e tutusa le umi ma tutusa, ma faafeagai itu e tutusa. O ona diagonal e vaelua le tasi i le isi.
+SU'ESU'EGA
+FA'AI'U
+FALE
+SIKO
+Fesili 1
+O le a le fua o tulimanu pito i totonu taitasi i se tafatolu tutusa?
+A) 45 tikeri
+B) 60 tikeri
+C) 90 tikeri
+D) 120 tikeri
+Fesili 2
+O le fea tafatolu e lua itu e tutusa le umi ma lua itu tutusa?
+A) Fa'atusa tafatolu
+B) tafatolu Isosceles
+C) tafatolu tutusa
+D) tafatolu taumatau
+Fesili 3
+O le fea tafatolu e leai ni itu po'o ni tulimanu tutusa?
+A) Fa'atusa tafatolu
+B) tafatolu Isosceles
+C) tafatolu tutusa
+D) tafatolu mata'utia
+Fesili 4
+O le a le ituaiga tafatolu e tasi le tulimanu sa'o?
+A) Fa'atusa tafatolu
+B) tafatolu Isosceles
+C) tafatolu tutusa
+D) tafatolu taumatau
+Fesili 5
+O le a le ituaiga tafatolu e matua'i uma tulimanu?
+A) Fa'atusa tafatolu
+B) tafatolu Isosceles
+C) tafatolu tutusa
+D) tafatolu mata'utia
+Fesili 6
+O le a le tafatolu e tasi le itu fa'amago?
+A) Fa'atusa tafatolu
+B) tafatolu Isosceles
+C) tafatolu tutusa
+D) tafatolu fa'a'ai
+Fesili 7
+O le a le fua o tulimanu totonu ta'itasi i le sikuea?
+A) 45 tikeri
+B) 60 tikeri
+C) 90 tikeri
+D) 120 tikeri
+Fesili 8
+E fia laina tutusa o le sikuea?
+A) 2
+B) 4
+C) 6
+D) 8
+Fesili 9
+I se sikuea, e fa'afefea ona fa'afeso'ota'i ia fa'ailoga i le tasi ma le isi?
+A) E le tutusa
+E) E vaelua le tasi ma le isi ma e sa'o
+C) E tutusa
+O) Latou te le felavasa'i
+Fesili 10
+O le a le umi o le diagonal o le sikuea ma le umi o le itu 'a'?
+A) a
+B) 2a
+C) se sqrt(2)
+D) a/2
+Fesili 11
+O le fea meatotino e sa'o mo sikuea uma?
+A) O tulimanu uma e mataʻutia
+B) E tutusa le umi o diagonal
+C) Na'o itu fa'afeagai e tutusa
+D) Na'o itu pito e tutusa
+Fesili 12
+O le a le uiga o le rhombus?
+A) E na'o itu e lua e tutusa
+B) O itu uma e tutusa le umi
+I) Na'o le tasi pea o itu fa'afeagai e tutusa
+D) O tulimanu uma o tulimanu sa'o
+Fesili 13
+E fa'afefea ona feso'ota'i diagonal o se rhombus?
+A) E tutusa le umi
+E) E vaelua le tasi i le isi i itu taumatau
+C) E tutusa
+O) Latou te le felavasa'i
+Fesili 14
+O le a le fua o tulimanu o lo'o fa'atupu i le mea o lo'o feso'ota'i ai diagonal o se rhombus?
+A) 30 tikeri
+B) 60 tikeri
+C) 90 tikeri
+D) 120 tikeri
+Fesili 15
+I le rhombus, e vaevae e le diagonal i le fia tafatolu tutusa?
+A) 2
+B) 3
+C) 4
+D) 6
+Fesili 16
+O le fea meatotino e moni mo rombuses ma sikuea?
+A) O tulimanu uma e 90 tikeri
+E) E vaelua le tasi i le isi i itu taumatau
+C) E na'o le tasi pea o itu e tutusa
+D) E le tutusa diagonal
+Fesili 17
+O le a le uiga fa'amalamalamaga o se paralelogram?
+A) Na'o le tasi pea o itu fa'afeagai e tutusa
+E) O paga uma o itu faafeagai e tutusa
+I) Na'o itu pito e tutusa
+D) O tulimanu uma o tulimanu sa'o
+Fesili 18
+O le a le fua o tulimanu pito i totonu ta'itasi i totonu ose faatafafa?
+A) 45 tikeri
+B) 60 tikeri
+C) 90 tikeri
+D) 120 tikeri
+Fesili 19
+I totonu o se faatafa'ifa'atatau, e fa'afefea ona feso'ota'i fa'ailoga o le tasi ma le isi?
+A) E le tutusa
+E) E vaelua le tasi ma le isi ma e sa'o
+I) E tutusa
+D) E tutusa le umi
+Fesili 20
+O le fea mea totino e sa'o mo fa'afa'afa'afa ma sikuea?
+A) E tutusa itu uma
+B) O tulimanu uma o tulimanu sa'o
+C) E vaelua le tasi i le isi i itu taumatau
+O) Na'o le tasi pea o itu e tutusa
+Sa'o!
+Le sa'o! talu ai e tutusa tulimanu e 180/3 = 60.
+Le sa'o! Isosceles e 2 tutusa tulimanu ma itu.
+Le sa'o! O le scalene e leai ni itu po'o ni tulimanu tutusa.
+Le sa'o! O le tafatolu tulimanu taumatau e iai lona tulimanu sa'o.
+Le sa'o! O se tafatolu mata'utia e na'o ni tulimanu mata'utia.
+Le sa'o! O le tafatolu fa'ama'i e na'o le pito fa'ama'i.
+Le sa'o! O pito totonu uma o le sikuea e 90 tikeri.
+Le sa'o! O le sikuea e fa laina tutusa.
+Le sa'o! E vaeluaina i le 90 tikeri.
+Le sa'o! saili le hypotenuse: sqrt(a^2+a^2) = a sqrt(2).
+Le sa'o! E tutusa uma diagonal aua e tutusa itu uma.
+Le sa'o! Rhombus, pei o se sikuea e tutusa itu uma.
+Le sa'o! e vaelua i itu taumatau tikeri.
+Le sa'o! e vaeluaina i le 90 tikeri
+Le sa'o! e fa tafatolu talu ona vaelua le diagonal.
+Le sa'o! E lua fa'ata'oto e ta'i lua i le 90 tikeri.
+Le sa'o! e ta'ua o le paralelogram mo se mafuaaga.
+Le sa'o! 90 tikeri pei o se sikuea
+Le sa'o! E tutusa le umi ae le o taimi uma e 90 tikeri.
+Le sa'o! O tulimanu uma o tulimanu sa'o.

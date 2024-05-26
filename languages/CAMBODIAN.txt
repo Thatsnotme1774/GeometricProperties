@@ -1,0 +1,166 @@
+PROPIETATS GEOMÈTRIQUES
+COMENÇAR
+OPCIONS
+SORTIR
+Pantalla completa
+Música
+Resolució
+Traduir
+Llenguatge
+ESQUENA
+PRÒXIM
+Triangle
+Triangle equilàter: un triangle equilàter té tots els costats de la mateixa longitud i cada angle interior mesura 60 graus. Triangle isòsceles: un triangle isòsceles té dos costats d'igual longitud i dos angles congruents. Triangle escalè: un triangle escalè no té costats ni angles iguals. Triangle rectangle: un triangle rectangle té un angle recte (90 graus). Segons el teorema de Pitàgores, el quadrat de la hipotenusa és igual a la suma dels quadrats dels altres dos costats. Triangle agut: un triangle agut té tots els seus angles que mesuren menys de 90 graus. Triangle obtús: un triangle obtús inclou un angle que és superior a 90 graus.
+Quadrat
+Un quadrat té tots els costats de la mateixa longitud i cada angle interior fa 90 graus. Les seves diagonals es divideixen en angle recte i tenen la mateixa longitud. A més, un quadrat té quatre línies de simetria.
+Rectangle
+Un rectangle té costats oposats d'igual longitud i cada angle interior fa 90 graus. Les diagonals són iguals en longitud i es bisecten, i la forma té dues línies de simetria.
+Rombe
+Un rombe té tots els costats de la mateixa longitud i angles oposats que són iguals. Les diagonals es divideixen en angle recte i divideixen el rombe en quatre triangles congruents.
+Paral·lelogram
+Un paral·lelogram té costats oposats iguals en longitud i paral·lels, amb angles oposats iguals. Les seves diagonals es divideixen entre si.
+QUIZ
+ACABAR
+CASA
+PUNTUACIÓ
+Pregunta 1
+Quina mesura cada angle interior en un triangle equilàter?
+A) 45 graus
+B) 60 graus
+C) 90 graus
+D) 120 graus
+Pregunta 2
+Quin triangle té dos costats de la mateixa longitud i dos angles congruents?
+A) Triangle escalè
+B) Triangle isòsceles
+C) Triangle equilàter
+D) Triangle rectangle
+Pregunta 3
+Quin triangle no té costats ni angles iguals?
+A) Triangle escalè
+B) Triangle isòsceles
+C) Triangle equilàter
+D) Triangle agut
+Pregunta 4
+Quin tipus de triangle té un angle recte?
+A) Triangle escalè
+B) Triangle isòsceles
+C) Triangle equilàter
+D) Triangle rectangle
+Pregunta 5
+Quin tipus de triangle tenen tots els angles aguts?
+A) Triangle escalè
+B) Triangle isòsceles
+C) Triangle equilàter
+D) Triangle agut
+Pregunta 6
+Quin triangle té un angle obtús?
+A) Triangle escalè
+B) Triangle isòsceles
+C) Triangle equilàter
+D) Triangle obtús
+Pregunta 7
+Quina mesura cada angle interior en un quadrat?
+A) 45 graus
+B) 60 graus
+C) 90 graus
+D) 120 graus
+Pregunta 8
+Quantes rectes de simetria té un quadrat?
+A) 2
+B) 4
+C) 6
+D) 8
+Pregunta 9
+En un quadrat, com es relacionen les diagonals entre si?
+a) Són desiguals
+B) Es divideixen i són perpendiculars
+C) Són paral·lels
+D) No es creuen
+Pregunta 10
+Quina és la longitud de la diagonal d'un quadrat amb la longitud del costat 'a'?
+A) a
+B) 2a
+C) un quadrat (2)
+D) a/2
+Pregunta 11
+Quina propietat és certa per a tots els quadrats?
+A) Tots els angles són aguts
+B) Les diagonals tenen la mateixa longitud
+C) Només els costats oposats són iguals
+D) Només els costats adjacents són iguals
+Pregunta 12
+Quina és una propietat característica d'un rombe?
+A) Només dos costats són iguals
+b) Tots els costats tenen la mateixa longitud
+C) Només un parell de costats oposats és paral·lel
+D) Tots els angles són rectes
+Pregunta 13
+Com es tallen les diagonals d'un rombe?
+A) Tenen la mateixa longitud
+B) Es divideixen en angle recte
+C) Són paral·lels
+D) No es creuen
+Pregunta 14
+Quina mesura tenen els angles formats on es tallen les diagonals d'un rombe?
+A) 30 graus
+B) 60 graus
+C) 90 graus
+D) 120 graus
+Pregunta 15
+En un rombe, les diagonals el divideixen en quants triangles congruents?
+A) 2
+B) 3
+C) 4
+D) 6
+Pregunta 16
+Quina propietat és certa tant per als rombes com per als quadrats?
+A) Tots els angles són de 90 graus
+B) Les diagonals es divideixen en angle recte
+C) Només un parell de costats és paral·lel
+D) Les diagonals no són iguals
+Pregunta 17
+Quina és la propietat que defineix un paral·lelogram?
+A) Només un parell de costats oposats és paral·lel
+B) Els dos parells de costats oposats són paral·lels
+C) Només els costats adjacents són iguals
+D) Tots els angles són rectes
+Pregunta 18
+Quina mesura cada angle interior d'un rectangle?
+A) 45 graus
+B) 60 graus
+C) 90 graus
+D) 120 graus
+Pregunta 19
+En un rectangle, com es relacionen les diagonals entre si?
+a) Són desiguals
+B) Es divideixen i són perpendiculars
+C) Són paral·lels
+D) Tenen la mateixa longitud
+Pregunta 20
+Quina propietat és certa tant per als rectangles com per als quadrats?
+A) Tots els costats són iguals
+b) Tots els angles són rectes
+C) Les diagonals es divideixen en angle recte
+D) Només un parell de costats és paral·lel
+Correcte!
+Incorrecte! com que els angles són iguals és 180/3 = 60.
+Incorrecte! Isòsceles té 2 angles i costats iguals.
+Incorrecte! Un escalè no té costats ni angles iguals.
+Incorrecte! Un triangle d'angle recte té un angle recte.
+Incorrecte! Un triangle agut només té angles aguts.
+Incorrecte! Un triangle obtús només té un angle obtús.
+Incorrecte! Tots els angles interiors d'un quadrat són de 90 graus.
+Incorrecte! Un quadrat té quatre línies de simetria.
+Incorrecte! Es divideixen a 90 graus.
+Incorrecte! Trobeu la hipotenusa: sqrt(a^2+a^2) = a sqrt(2).
+Incorrecte! Totes les diagonals són iguals perquè tots els costats són iguals.
+Incorrecte! El rombe, com un quadrat té tots els costats iguals.
+Incorrecte! es divideixen en graus angles rectes.
+Incorrecte! es divideixen a 90 graus
+Incorrecte! quatre triangles ja que les diagonals es divideixen.
+Incorrecte! Tots dos tenen diagonals bisectades a 90 graus.
+Incorrecte! s'anomena paral·lelogram per una raó.
+Incorrecte! 90 graus com un quadrat
+Incorrecte! Tenen la mateixa longitud però no sempre 90 graus.
+Incorrecte! Tots els angles són angles rectes.

@@ -1,0 +1,166 @@
+GEOMETRINĖS SAVYBĖS
+PRADĖTI
+GALIMYBĖS
+IŠĖJIMAS
+Per visą ekraną
+Muzika
+Rezoliucija
+Išversti
+Kalba
+ATGAL
+KITAS
+Trikampis
+Lygiakraštis trikampis: Lygiakraščio trikampio visos kraštinės yra vienodo ilgio, o kiekvienas vidinis kampas yra 60 laipsnių. Lygiašonis trikampis: Lygiašonis trikampis turi dvi vienodo ilgio kraštines ir du sutampančius kampus. Skaleninis trikampis: skalės trikampis neturi lygių kraštinių ar kampų. Statusis trikampis: Stačiakampis trikampis turi vieną stačią kampą (90 laipsnių). Pagal Pitagoro teoremą hipotenuzės kvadratas yra lygus kitų dviejų kraštinių kvadratų sumai. Ūmus trikampis: smailaus trikampio visi kampai yra mažesni nei 90 laipsnių. Bukas trikampis: bukas trikampis apima vieną kampą, kuris yra didesnis nei 90 laipsnių.
+Kvadratas
+Kvadrato visos kraštinės yra vienodo ilgio ir kiekvienas vidinis kampas yra 90 laipsnių. Jo įstrižainės dalija viena kitą stačiu kampu ir yra vienodo ilgio. Be to, kvadratas turi keturias simetrijos linijas.
+Stačiakampis
+Stačiakampis turi priešingas kraštines, kurių ilgis yra lygus, o kiekvienas vidinis kampas yra 90 laipsnių. Įstrižainės yra vienodo ilgio ir dalija viena kitą, o forma turi dvi simetrijos linijas.
+Rombas
+Rombo visos kraštinės yra vienodo ilgio ir priešingi kampai yra vienodi. Įstrižainės dalija viena kitą stačiu kampu ir padalija rombą į keturis lygiaverčius trikampius.
+Lygiagretainis
+Lygiagretainis turi priešingas kraštines, kurios yra vienodos ilgio ir lygiagrečios, o priešingi kampai yra lygūs. Jo įstrižainės dalija viena kitą.
+Viktorina
+BAIGTI
+NAMAI
+BALAI
+Klausimas 1
+Koks yra kiekvieno vidinio kampo matas lygiakraštyje trikampyje?
+A) 45 laipsnių
+B) 60 laipsnių
+C) 90 laipsnių
+D) 120 laipsnių
+2 klausimas
+Kuris trikampis turi dvi vienodo ilgio kraštines ir du lygiaverčius kampus?
+A) Skaleninis trikampis
+B) Lygiašonis trikampis
+C) Lygiakraštis trikampis
+D) Statusis trikampis
+3 klausimas
+Kuris trikampis neturi kraštinių ar lygių kampų?
+A) Skaleninis trikampis
+B) Lygiašonis trikampis
+C) Lygiakraštis trikampis
+D) Smailus trikampis
+4 klausimas
+Kokio tipo trikampis turi vieną stačią kampą?
+A) Skaleninis trikampis
+B) Lygiašonis trikampis
+C) Lygiakraštis trikampis
+D) Statusis trikampis
+5 klausimas
+Kokio tipo trikampio visi kampai yra smailūs?
+A) Skaleninis trikampis
+B) Lygiašonis trikampis
+C) Lygiakraštis trikampis
+D) Smailus trikampis
+6 klausimas
+Kuris trikampis turi vieną bukąjį kampą?
+A) Skaleninis trikampis
+B) Lygiašonis trikampis
+C) Lygiakraštis trikampis
+D) bukas trikampis
+7 klausimas
+Koks yra kiekvieno vidinio kampo kvadrate matas?
+A) 45 laipsnių
+B) 60 laipsnių
+C) 90 laipsnių
+D) 120 laipsnių
+8 klausimas
+Kiek simetrijos linijų turi kvadratas?
+A) 2
+B) 4
+C) 6
+D) 8
+9 klausimas
+Kaip kvadrato įstrižainės yra susijusios viena su kita?
+A) Jie nelygūs
+B) Jie dalijasi vienas kitą per pusę ir yra statmeni
+C) Jie yra lygiagretūs
+D) Jie nesikerta
+10 klausimas
+Koks yra kvadrato, kurio kraštinės ilgis yra 'a', įstrižainės?
+A) a
+B) 2a
+C) kvadratas (2)
+D) a/2
+11 klausimas
+Kuri savybė tinka visiems kvadratams?
+A) Visi kampai yra smailieji
+B) Įstrižainės vienodo ilgio
+C) Tik priešingos pusės yra lygios
+D) Tik gretimos kraštinės yra lygios
+12 klausimas
+Kokia būdinga rombo savybė?
+A) Tik dvi pusės yra lygios
+B) Visos kraštinės yra vienodo ilgio
+C) Tik viena priešingų kraštinių pora yra lygiagreti
+D) Visi kampai yra stačiakampiai
+13 klausimas
+Kaip susikerta rombo įstrižainės?
+A) Jie yra vienodo ilgio
+B) Jie dalija vienas kitą stačiu kampu
+C) Jie yra lygiagretūs
+D) Jie nesikerta
+14 klausimas
+Koks yra kampų, susidariusių ten, kur susikerta rombo įstrižainės, matas?
+A) 30 laipsnių
+B) 60 laipsnių
+C) 90 laipsnių
+D) 120 laipsnių
+15 klausimas
+Rombą įstrižainės padalija į kiek sutampančių trikampių?
+A) 2
+B) 3
+C) 4
+D) 6
+16 klausimas
+Kuri savybė tinka ir rombams, ir kvadratams?
+A) Visi kampai yra 90 laipsnių
+B) Įstrižainės dalija viena kitą stačiu kampu
+C) Tik viena kraštinių pora yra lygiagreti
+D) Įstrižainės nėra lygios
+17 klausimas
+Kokia yra lygiagretainio apibrėžiamoji savybė?
+A) Tik viena priešingų kraštinių pora yra lygiagreti
+B) Abi priešingų kraštinių poros yra lygiagrečios
+C) Tik gretimos kraštinės yra lygios
+D) Visi kampai yra stačiakampiai
+18 klausimas
+Koks yra kiekvieno vidinio kampo matas stačiakampyje?
+A) 45 laipsnių
+B) 60 laipsnių
+C) 90 laipsnių
+D) 120 laipsnių
+19 klausimas
+Kaip stačiakampio įstrižainės yra susijusios viena su kita?
+A) Jie nelygūs
+B) Jie dalijasi vienas kitą per pusę ir yra statmeni
+C) Jie yra lygiagretūs
+D) Jie yra vienodo ilgio
+20 klausimas
+Kuri savybė tinka ir stačiakampiams, ir kvadratams?
+A) Visos pusės yra lygios
+B) Visi kampai yra statūs
+C) Įstrižainės dalija viena kitą stačiu kampu
+D) Tik viena kraštinių pora yra lygiagreti
+Teisingai!
+Neteisinga! kadangi kampai lygūs, tai 180/3 = 60.
+Neteisinga! Lygiašonis turi 2 vienodus kampus ir kraštines.
+Neteisinga! Skalena neturi vienodų kraštinių ar kampų.
+Neteisinga! Stačiakampis trikampis turi stačią kampą.
+Neteisinga! Smailus trikampis turi tik smailiuosius kampus.
+Neteisinga! Bukas trikampis turi tik bukąjį kampą.
+Neteisinga! Visi kvadrato vidiniai kampai yra 90 laipsnių.
+Neteisinga! Kvadratas turi keturias simetrijos linijas.
+Neteisinga! Jie dalijasi 90 laipsnių kampu.
+Neteisinga! raskite hipotenuzę: sqrt(a^2+a^2) = a sqrt(2).
+Neteisinga! Visos įstrižainės yra lygios, nes visos kraštinės yra lygios.
+Neteisinga! Rombo, kaip ir kvadrato, visos kraštinės yra lygios.
+Neteisinga! jie dalijasi stačiu kampu laipsniais.
+Neteisinga! jie dalijasi 90 laipsnių kampu
+Neteisinga! keturi trikampiai, nes įstrižainės dalijasi per pusę.
+Neteisinga! Abiejų įstrižainės yra padalintos 90 laipsnių kampu.
+Neteisinga! ne veltui jis vadinamas lygiagretainiu.
+Neteisinga! 90 laipsnių kaip kvadratas
+Neteisinga! Jie yra vienodo ilgio, bet ne visada 90 laipsnių.
+Neteisinga! Visi kampai yra stačiai.

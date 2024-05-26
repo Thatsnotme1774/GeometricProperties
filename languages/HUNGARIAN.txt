@@ -1,0 +1,166 @@
+HUNGARIANGEOMETRIAI TULAJDONSÁGOK
+RAJT
+LEHETŐSÉGEK
+KIJÁRAT
+Teljes képernyő
+Zene
+Felbontás
+fordít
+Nyelv
+VISSZA
+KÖVETKEZŐ
+Háromszög
+Egyenlő oldalú háromszög: Egy egyenlő oldalú háromszög minden oldala egyenlő hosszú, és minden belső szög 60 fokos. Egyenlőszárú háromszög: Egy egyenlő szárú háromszögnek két egyenlő hosszú oldala és két egybevágó szöge van. Méretezett háromszög: A léptékű háromszögnek nincsenek egyenlő oldalai vagy szögei. Derékszögű háromszög: A derékszögű háromszögnek van egy derékszöge (90 fok). A Pitagorasz-tétel szerint a hipotenusz négyzete egyenlő a másik két oldal négyzeteinek összegével. Akut háromszög: A hegyesszögű háromszög minden szöge 90 foknál kisebb. Tompa háromszög: A tompa háromszög egy 90 foknál nagyobb szöget foglal magában.
+Négyzet
+A négyzet minden oldala egyenlő hosszú, és minden belső szöge 90 fok. Átlói derékszögben felezik egymást és egyenlő hosszúak. Ezenkívül egy négyzetnek négy szimmetriavonala van.
+Téglalap
+A téglalap szemközti oldalai egyenlő hosszúságúak, és mindegyik belső szöge 90 fok. Az átlók egyenlő hosszúságúak és felezik egymást, és az alakzatnak két szimmetriavonala van.
+Rombusz
+A rombusz minden oldala azonos hosszúságú, és a szemközti szögek egyenlőek. Az átlók derékszögben felezik egymást, és a rombuszt négy egybevágó háromszögre osztják.
+Paralelogramma
+A paralelogrammának egyenlő hosszúságú és párhuzamos oldalai vannak, a szemközti szögei pedig egyenlők. Átlói felezik egymást.
+KVÍZ
+BEFEJEZ
+ITTHON
+PONTSZÁM
+1. kérdés
+Mekkora az egyes belső szögek mértéke egy egyenlő oldalú háromszögben?
+A) 45 fok
+B) 60 fok
+C) 90 fok
+D) 120 fok
+2. kérdés
+Melyik háromszögnek van két egyenlő hosszú oldala és két egybevágó szöge?
+A) Skála háromszög
+B) Egyenlőszárú háromszög
+C) Egyenlő oldalú háromszög
+D) Derékszögű háromszög
+3. kérdés
+Melyik háromszögnek nincs oldala vagy egyenlő szögei?
+A) Skála háromszög
+B) Egyenlőszárú háromszög
+C) Egyenlő oldalú háromszög
+D) Hegyesszögű háromszög
+4. kérdés
+Milyen típusú háromszögnek van egy derékszöge?
+A) Skála háromszög
+B) Egyenlőszárú háromszög
+C) Egyenlő oldalú háromszög
+D) Derékszögű háromszög
+5. kérdés
+Milyen típusú háromszögnek minden szöge hegyes?
+A) Skála háromszög
+B) Egyenlőszárú háromszög
+C) Egyenlő oldalú háromszög
+D) Hegyesszögű háromszög
+6. kérdés
+Melyik háromszögnek van egy tompaszöge?
+A) Skála háromszög
+B) Egyenlőszárú háromszög
+C) Egyenlő oldalú háromszög
+D) Tompaszögű háromszög
+7. kérdés
+Mekkora az egyes belső szögek mértéke egy négyzetben?
+A) 45 fok
+B) 60 fok
+C) 90 fok
+D) 120 fok
+8. kérdés
+Hány szimmetriavonala van egy négyzetnek?
+A) 2
+B) 4
+C) 6
+D) 8
+9. kérdés
+Egy négyzetben hogyan viszonyulnak az átlók egymáshoz?
+A) Egyenlőtlenek
+B) Felezik egymást és merőlegesek
+C) Párhuzamosak
+D) Nem metszik egymást
+10. kérdés
+Mekkora az „a” oldalhosszúságú négyzet átlója?
+A) a
+B) 2a
+C) egy négyzetméter (2)
+D) a/2
+11. kérdés
+Melyik tulajdonság igaz minden négyzetre?
+A) Minden szög hegyesszögű
+B) Az átlók egyenlő hosszúságúak
+C) Csak a szemközti oldalak egyenlők
+D) Csak a szomszédos oldalak egyenlők
+12. kérdés
+Mi a rombusz jellemző tulajdonsága?
+A) Csak két oldal egyenlő
+B) Minden oldal egyenlő hosszú
+C) Csak egy pár szemközti oldal párhuzamos
+D) Minden szög derékszög
+13. kérdés
+Hogyan metszik egymást a rombusz átlói?
+A) Egyenlő hosszúságúak
+B) Derékszögben kettévágják egymást
+C) Párhuzamosak
+D) Nem metszik egymást
+14. kérdés
+Mekkora a rombusz átlóinak metszéspontjában kialakult szögek mértéke?
+A) 30 fok
+B) 60 fok
+C) 90 fok
+D) 120 fok
+15. kérdés
+Egy rombuszban az átlók hány egybevágó háromszögre osztják?
+A) 2
+B) 3
+C) 4
+D) 6
+16. kérdés
+Melyik tulajdonság igaz a rombuszokra és a négyzetekre?
+A) Minden szög 90 fokos
+B) Az átlók derékszögben felezik egymást
+C) Csak egy oldalpár párhuzamos
+D) Az átlók nem egyenlőek
+17. kérdés
+Mi a paralelogramma meghatározó tulajdonsága?
+A) Csak egy pár szemközti oldal párhuzamos
+B) Mindkét szemközti oldalpár párhuzamos
+C) Csak a szomszédos oldalak egyenlők
+D) Minden szög derékszög
+18. kérdés
+Mekkora az egyes belső szögek mértéke egy téglalapban?
+A) 45 fok
+B) 60 fok
+C) 90 fok
+D) 120 fok
+19. kérdés
+Egy téglalapban hogyan viszonyulnak egymáshoz az átlók?
+A) Egyenlőtlenek
+B) Felezik egymást és merőlegesek
+C) Párhuzamosak
+D) Egyenlő hosszúságúak
+20. kérdés
+Melyik tulajdonság igaz téglalapokra és négyzetekre is?
+A) Minden oldal egyenlő
+B) Minden szög derékszög
+C) Az átlók derékszögben felezik egymást
+D) Csak egy oldalpár párhuzamos
+Helyes!
+Helytelen! mivel a szögek egyenlőek, ez 180/3 = 60.
+Helytelen! Az egyenlő szárnak 2 egyenlő szöge és oldala van.
+Helytelen! A skálának nincsenek egyenlő oldalai vagy szögei.
+Helytelen! A derékszögű háromszögnek van derékszöge.
+Helytelen! Egy hegyesszögű háromszögnek csak hegyesszögei vannak.
+Helytelen! Egy tompa háromszögnek csak tompaszöge van.
+Helytelen! A négyzet minden belső szöge 90 fok.
+Helytelen! Egy négyzetnek négy szimmetriavonala van.
+Helytelen! 90 fokban felezik.
+Helytelen! keresse meg a hipotenuszt: sqrt(a^2+a^2) = a sqrt(2).
+Helytelen! Minden átló egyenlő, mert minden oldal egyenlő.
+Helytelen! A rombuszhoz hasonlóan a négyzetnek minden oldala egyenlő.
+Helytelen! fokos derékszögben felezik.
+Helytelen! 90 fokban felezik
+Helytelen! négy háromszög, mivel az átlók felezik.
+Helytelen! Mindkettő átlói 90 fokkal felezik.
+Helytelen! okkal hívják paralelogrammának.
+Helytelen! 90 fok, mint egy négyzet
+Helytelen! Egyenlő hosszúságúak, de nem mindig 90 fokosak.
+Helytelen! Minden szög derékszög.

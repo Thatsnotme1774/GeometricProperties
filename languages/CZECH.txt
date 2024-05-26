@@ -1,0 +1,166 @@
+GEOMETRICKÉ VLASTNOSTI
+START
+MOŽNOSTI
+VÝSTUP
+Celá obrazovka
+Hudba
+Rozlišení
+přeložit
+Jazyk
+ZADNÍ
+DALŠÍ
+Trojúhelník
+Rovnostranný trojúhelník: Rovnostranný trojúhelník má všechny strany stejně dlouhé a každý vnitřní úhel měří 60 stupňů. Rovnoramenný trojúhelník: Rovnoramenný trojúhelník má dvě strany stejně dlouhé a dva shodné úhly. Scalene Triangle: Scalene trojúhelník nemá žádné strany ani úhly, které by si byly stejné. Pravý trojúhelník: Pravoúhlý trojúhelník má jeden pravý úhel (90 stupňů). Podle Pythagorovy věty je druhá mocnina přepony rovna součtu čtverců ostatních dvou stran. Akutní trojúhelník: Ostrý trojúhelník má všechny úhly menší než 90 stupňů. Tupý trojúhelník: Tupý trojúhelník obsahuje jeden úhel, který je větší než 90 stupňů.
+Náměstí
+Čtverec má všechny strany stejně dlouhé a každý vnitřní úhel je 90 stupňů. Jeho úhlopříčky se navzájem půlí v pravém úhlu a jsou stejně dlouhé. Čtverec má navíc čtyři řádky symetrie.
+Obdélník
+Obdélník má protilehlé strany, které jsou stejně dlouhé, a každý vnitřní úhel je 90 stupňů. Úhlopříčky jsou stejně dlouhé a navzájem se půlí a tvar má dvě čáry symetrie.
+Kosočtverec
+Kosočtverec má všechny strany stejně dlouhé a opačné úhly, které jsou stejné. Úhlopříčky se vzájemně půlí v pravém úhlu a rozdělují kosočtverec na čtyři shodné trojúhelníky.
+Rovnoběžník
+Rovnoběžník má opačné strany, které jsou stejně dlouhé a rovnoběžné, s opačnými úhly, které jsou stejné. Jeho úhlopříčky se navzájem půlí.
+KVÍZ
+DOKONČIT
+DOMOV
+SKÓRE
+Otázka 1
+Jaká je velikost každého vnitřního úhlu v rovnostranném trojúhelníku?
+A) 45 stupňů
+B) 60 stupňů
+C) 90 stupňů
+D) 120 stupňů
+otázka 2
+Který trojúhelník má dvě strany stejně dlouhé a dva shodné úhly?
+A) Scalene trojúhelník
+B) Rovnoramenný trojúhelník
+C) Rovnostranný trojúhelník
+D) Pravoúhlý trojúhelník
+Otázka 3
+Který trojúhelník nemá stejné strany ani úhly?
+A) Scalene trojúhelník
+B) Rovnoramenný trojúhelník
+C) Rovnostranný trojúhelník
+D) Akutní trojúhelník
+Otázka 4
+Jaký typ trojúhelníku má jeden pravý úhel?
+A) Scalene trojúhelník
+B) Rovnoramenný trojúhelník
+C) Rovnostranný trojúhelník
+D) Pravoúhlý trojúhelník
+Otázka 5
+Jaký typ trojúhelníku má všechny úhly ostré?
+A) Scalene trojúhelník
+B) Rovnoramenný trojúhelník
+C) Rovnostranný trojúhelník
+D) Akutní trojúhelník
+Otázka 6
+Který trojúhelník má jeden tupý úhel?
+A) Scalene trojúhelník
+B) Rovnoramenný trojúhelník
+C) Rovnostranný trojúhelník
+D) Tupý trojúhelník
+Otázka 7
+Jaká je velikost každého vnitřního úhlu ve čtverci?
+A) 45 stupňů
+B) 60 stupňů
+C) 90 stupňů
+D) 120 stupňů
+Otázka 8
+Kolik čar symetrie má čtverec?
+A) 2
+B) 4
+C) 6
+D) 8
+Otázka 9
+Jak spolu souvisí úhlopříčky ve čtverci?
+A) Jsou nerovné
+B) Navzájem se půlí a jsou kolmé
+C) Jsou rovnoběžné
+D) Nekříží se
+Otázka 10
+Jaká je délka úhlopříčky čtverce se stranou 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Otázka 11
+Která vlastnost platí pro všechny čtverce?
+A) Všechny úhly jsou ostré
+B) Úhlopříčky jsou stejně dlouhé
+C) Pouze protilehlé strany jsou stejné
+D) Pouze sousední strany jsou stejné
+Otázka 12
+Jaká je charakteristická vlastnost kosočtverce?
+A) Pouze dvě strany jsou stejné
+B) Všechny strany jsou stejně dlouhé
+C) Pouze jeden pár protilehlých stran je rovnoběžný
+D) Všechny úhly jsou pravé
+Otázka 13
+Jak se protínají úhlopříčky kosočtverce?
+A) Jsou stejně dlouhé
+B) Vzájemně se půlí v pravém úhlu
+C) Jsou rovnoběžné
+D) Nekříží se
+Otázka 14
+Jaká je velikost úhlů vytvořených v místech, kde se protínají úhlopříčky kosočtverce?
+A) 30 stupňů
+B) 60 stupňů
+C) 90 stupňů
+D) 120 stupňů
+Otázka 15
+V kosočtverci jej úhlopříčky rozdělují na kolik shodných trojúhelníků?
+A) 2
+B) 3
+C) 4
+D) 6
+Otázka 16
+Která vlastnost platí pro kosočtverce i čtverce?
+A) Všechny úhly jsou 90 stupňů
+B) Úhlopříčky se navzájem půlí v pravém úhlu
+C) Pouze jeden pár stran je rovnoběžný
+D) Úhlopříčky nejsou stejné
+Otázka 17
+Jaká je definující vlastnost rovnoběžníku?
+A) Pouze jeden pár protilehlých stran je rovnoběžný
+B) Oba páry protilehlých stran jsou rovnoběžné
+C) Pouze sousední strany jsou stejné
+D) Všechny úhly jsou pravé
+Otázka 18
+Jaká je velikost každého vnitřního úhlu v obdélníku?
+A) 45 stupňů
+B) 60 stupňů
+C) 90 stupňů
+D) 120 stupňů
+Otázka 19
+Jak spolu souvisí úhlopříčky v obdélníku?
+A) Jsou nerovné
+B) Navzájem se půlí a jsou kolmé
+C) Jsou rovnoběžné
+D) Jsou stejně dlouhé
+Otázka 20
+Která vlastnost platí pro obdélníky i čtverce?
+A) Všechny strany jsou si rovny
+B) Všechny úhly jsou pravé
+C) Úhlopříčky se vzájemně půlí v pravém úhlu
+D) Pouze jeden pár stran je rovnoběžný
+Opravit!
+Nesprávný! protože jsou úhly stejné, je to 180/3 = 60.
+Nesprávný! Rovnoramenný má 2 stejné úhly a strany.
+Nesprávný! Škálen nemá stejné strany ani úhly.
+Nesprávný! Pravoúhlý trojúhelník má pravý úhel.
+Nesprávný! Ostrý trojúhelník má pouze ostré úhly.
+Nesprávný! Tupý trojúhelník má pouze tupý úhel.
+Nesprávný! Všechny vnitřní úhly čtverce jsou 90 stupňů.
+Nesprávný! Čtverec má čtyři řádky symetrie.
+Nesprávný! Půlí se pod úhlem 90 stupňů.
+Nesprávný! najděte přeponu: sqrt(a^2+a^2) = a sqrt(2).
+Nesprávný! Všechny úhlopříčky jsou stejné, protože všechny strany jsou stejné.
+Nesprávný! Kosočtverec, jako čtverec, má všechny strany stejné.
+Nesprávný! půlí se v pravých úhlech.
+Nesprávný! půlí se pod úhlem 90 stupňů
+Nesprávný! čtyři trojúhelníky, protože úhlopříčky se půlí.
+Nesprávný! Oba mají úhlopříčky půlící na 90 stupňů.
+Nesprávný! z nějakého důvodu se mu říká rovnoběžník.
+Nesprávný! 90 stupňů jako čtverec
+Nesprávný! Jsou stejně dlouhé, ale ne vždy 90 stupňů.
+Nesprávný! Všechny úhly jsou pravé.

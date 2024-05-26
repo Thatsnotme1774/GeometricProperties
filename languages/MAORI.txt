@@ -1,0 +1,166 @@
+NGA KAUPAPA KAUPAPA
+Timata
+NGĀ KŌWHIRINGA
+PUTAU
+Mata Katoa
+Waiata
+Whakatau
+Whakamaori
+Reo
+HOKI
+KAUPAPA
+Tapatoru
+Tapatoru Taurite: He rite tonu te roa o te tapatoru rite, he 60 nga nekehanga te roa o ia koki o roto. Tapatoru Iti: E rua nga taha o te tapatoru rite te roa, e rua nga koki rite. Tapatoru Tauine: Ko te tapatoru tauine kahore he taha, he koki ranei e rite ana. Tapatoru Matau: He tapatoru matau tetahi koki matau (90 nga nekehanga). E ai ki te Pythagorean Theorem, he rite te tapawha o te hypotenuse ki te tapeke o nga tapawha o era atu taha e rua. Tapatoru Acute: He tapatoru whakapeka ko ona koki katoa he iti iho i te 90 nga nekehanga. Tapatoru Puka: Kei roto i te tapatoru purongo tetahi koki nui ake i te 90 nga nekehanga.
+Tapawhā
+He rite nga taha katoa o te tapawha, he 90 nga nekehanga o ia koki o roto. Ko ona hauroki ka wehea tetahi ki tetahi ki nga koki tika, he rite te roa. I tua atu, e wha nga rarangi hangarite o te tapawha.
+Tapawhā
+He rite nga taha o tetahi tapawha, he rite te roa, a he 90 nga nekehanga o ia koki o roto. He rite te roa o nga hauroki me te weherua tetahi ki tetahi, a e rua nga rarangi hangarite o te hanga.
+Rhombus
+Ko te rhombus e whakaatu ana i nga taha katoa he rite te roa me nga koki rereke e rite ana. Ka wehewehea nga hauroki tetahi ki tetahi ki nga koki tika, ka wehea te rhombus kia wha nga tapatoru rite.
+Paralelogram
+He rite nga taha o te parallolegram he rite te roa me te whakarara, me nga koki e rite ana. Ko ona hauroki he weherua tetahi ki tetahi.
+PĀTAI
+OTI
+KĀINGA
+KAUPAPA
+Pātai 1
+He aha te ine o ia koki o roto o te tapatoru rite?
+A) 45 nga nekehanga
+B) 60 nga nekehanga
+C) 90 nga nekehanga
+D) 120 nga nekehanga
+Pātai 2
+Ko tehea tapatoru e rua nga taha e rite ana te roa me nga koki riterite e rua?
+A) Tapatoru tauine
+B) Tapatoru Isosceles
+C) Tapatoru rite
+D) Tapatoru matau
+Pātai 3
+Ko tehea tapatoru karekau he taha, koki ranei he rite?
+A) Tapatoru tauine
+B) Tapatoru Isosceles
+C) Tapatoru rite
+D) Tapatoru whakapeka
+Pātai 4
+He aha te momo tapatoru kotahi te koki tika?
+A) Tapatoru tauine
+B) Tapatoru Isosceles
+C) Tapatoru rite
+D) Tapatoru matau
+Pātai 5
+He aha te momo tapatoru he koki katoa nga koki?
+A) Tapatoru tauine
+B) Tapatoru Isosceles
+C) Tapatoru rite
+D) Tapatoru whakapeka
+Pātai 6
+Ko tēhea tapatoru kotahi te koki pire?
+A) Tapatoru tauine
+B) Tapatoru Isosceles
+C) Tapatoru rite
+D) Tapatoru piko
+Pātai 7
+He aha te ine o ia koki o roto o te tapawha?
+A) 45 nga nekehanga
+B) 60 nga nekehanga
+C) 90 nga nekehanga
+D) 120 nga nekehanga
+Pātai 8
+E hia nga rarangi hangarite o te tapawha?
+A) 2
+B) 4
+C) 6
+D) 8
+Pātai 9
+I roto i te tapawha, he pehea te hono o nga hauroki ki a raua?
+A) He taurite
+B) Ka wehewehea tetahi ki tetahi, ka noho tika
+C) He whakarara
+D) Kare e whiti
+Pātai 10
+He aha te roa o te hauroki o te tapawha me te roa o te taha 'a'?
+A) a
+B) 2a
+C) he tapawha(2)
+D) a/2
+Pātai 11
+Ko tēhea āhuatanga e tika ana mō ngā tapawhā katoa?
+A) He koki katoa nga koki
+B) He rite te roa o nga hauroki
+C) He rite noa nga taha taha
+D) Ko nga taha tata anake e rite ana
+Pātai 12
+He aha te ahuatanga o te rhombus?
+A) E rua anake nga taha e rite ana
+B) He rite te roa o nga taha katoa
+C) Kotahi anake nga taha takirua he whakarara
+D) He koki tika nga koki katoa
+Pātai 13
+He pehea te whitinga o nga hauroki o te rhombus?
+A) He rite te roa
+B) Ka wehewehea tetahi ki tetahi ki nga koki tika
+C) He whakarara
+D) Kare e whiti
+Pātai 14
+He aha te inenga o nga koki i hangaia i te wa e tuitui ai nga hauroki o te rhombus?
+A) 30 nga nekehanga
+B) 60 nga nekehanga
+C) 90 nga nekehanga
+D) 120 nga nekehanga
+Pātai 15
+I roto i te rhombus, ka wehewehea e nga hauroki kia hia nga tapatoru rite?
+A) 2
+B) 3
+C) 4
+D) 6
+Pātai 16
+Ko tehea ahuatanga e tika ana mo nga rombus me nga tapawha?
+A) Ko nga koki katoa he 90 nga nekehanga
+B) Ka wehewehea nga hauroki tetahi ki tetahi ki nga koki tika
+C) Kotahi anake nga taha takirua he whakarara
+D) Ko nga hauroki kaore i te rite
+Pātai 17
+He aha te āhuatanga tautuhi o te whakarara?
+A) Kotahi anake nga taha takirua he whakarara
+B) He whakarara nga takirua o nga taha e rua
+C) Ko nga taha tata anake e rite ana
+D) He koki tika nga koki katoa
+Pātai 18
+He aha te ine o ia koki o roto o te tapawhā tapawhā?
+A) 45 nga nekehanga
+B) 60 nga nekehanga
+C) 90 nga nekehanga
+D) 120 nga nekehanga
+Pātai 19
+I roto i te tapawha, he pehea te hono o nga hauroki ki a raua?
+A) He taurite
+B) Ka wehewehea tetahi ki tetahi, ka noho tika
+C) He whakarara
+D) He rite te roa
+Pātai 20
+Ko tēhea āhuatanga e tika ana mō ngā tapawhā me te tapawhā?
+A) He rite nga taha katoa
+B) He koki tika nga koki katoa
+C) Ka wehewehea nga hauroki tetahi ki tetahi ki nga koki tika
+D) Kotahi anake nga taha takirua he whakarara
+Tika!
+He hē! i te mea he rite nga koki he 180/3 = 60.
+He hē! E 2 nga koki me nga tapa riterite.
+He hē! Ko te unahi karekau he taha rite, he koki ranei.
+He hē! He koki tika to te tapatoru koki matau.
+He hē! He tapatoru whakapeka anake he koki whakapeka.
+He hē! Ko te tapatoru purongo he koki piu anake.
+He hē! Ko nga koki katoa o roto o te tapawha he 90 nga nekehanga.
+He hē! E wha nga rarangi hangarite o te tapawha.
+He hē! Ka weherua ki te 90 nga nekehanga.
+He hē! kimihia te whakapae: sqrt(a^2+a^2) = a sqrt(2).
+He hē! He rite nga hauroki katoa na te mea he rite nga taha katoa.
+He hē! Rhombus, penei i te tapawha he rite nga taha katoa.
+He hē! ka wehewehea ki nga nekehanga koki tika.
+He hē! ka wehewehea ki te 90 nga nekehanga
+He hē! e wha nga tapatoru mai i te hauroki i te haurua.
+He hē! He hauroki e rua i te 90 nga nekehanga.
+He hē! ka kiia ko te paralelogram he take.
+He hē! 90 nga nekehanga rite te tapawha
+He hē! He rite te roa engari ehara i te 90 nga nekehanga i nga wa katoa.
+He hē! He koki tika nga koki katoa.

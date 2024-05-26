@@ -1,0 +1,166 @@
+PROPRIETĂȚI GEOMETRICE
+START
+OPȚIUNI
+IEȘIRE
+Ecran complet
+Muzică
+Rezoluţie
+Traduceți
+Limba
+ÎNAPOI
+URMĂTORUL
+Triunghi
+Triunghi echilateral: Un triunghi echilateral are toate laturile de lungime egală și fiecare unghi interior măsoară 60 de grade. Triunghi isoscel: Un triunghi isoscel are două laturi de lungime egală și două unghiuri congruente. Triunghi scalen: Un triunghi scalen nu are laturi sau unghiuri egale. Triunghi dreptunghic: un triunghi dreptunghic are un unghi drept (90 de grade). Conform teoremei lui Pitagora, pătratul ipotenuzei este egal cu suma pătratelor celorlalte două laturi. Triunghi acut: Un triunghi acut are toate unghiurile sale măsurând mai puțin de 90 de grade. Triunghi obtuz: Un triunghi obtuz include un unghi care este mai mare de 90 de grade.
+Pătrat
+Un pătrat are toate laturile de lungime egală și fiecare unghi interior are 90 de grade. Diagonalele sale se traversează în unghi drept și au lungime egală. În plus, un pătrat are patru linii de simetrie.
+Dreptunghi
+Un dreptunghi are laturile opuse care sunt egale ca lungime, iar fiecare unghi interior are 90 de grade. Diagonalele sunt egale în lungime și se bisectează, iar forma are două linii de simetrie.
+Romb
+Un romb prezintă toate laturile de lungime egală și unghiuri opuse care sunt egale. Diagonalele se divide în unghi drept și împart rombul în patru triunghiuri congruente.
+Paralelogram
+Un paralelogram are laturile opuse care sunt egale în lungime și paralele, cu unghiuri opuse care sunt egale. Diagonalele sale se intersectează.
+QUIZ
+FINALIZAREA
+ACASĂ
+SCOR
+Intrebarea 1
+Care este măsura fiecărui unghi interior dintr-un triunghi echilateral?
+A) 45 de grade
+B) 60 de grade
+C) 90 de grade
+D) 120 de grade
+intrebarea 2
+Care triunghi are două laturi de lungime egală și două unghiuri congruente?
+A) Triunghiul scalen
+B) Triunghi isoscel
+C) Triunghi echilateral
+D) Triunghi dreptunghic
+Întrebarea 3
+Care triunghi nu are laturi sau unghiuri egale?
+A) Triunghiul scalen
+B) Triunghi isoscel
+C) Triunghi echilateral
+D) Triunghi acut
+Întrebarea 4
+Ce tip de triunghi are un unghi drept?
+A) Triunghiul scalen
+B) Triunghi isoscel
+C) Triunghi echilateral
+D) Triunghi dreptunghic
+Întrebarea 5
+Ce tip de triunghi au toate unghiurile acute?
+A) Triunghiul scalen
+B) Triunghi isoscel
+C) Triunghi echilateral
+D) Triunghi acut
+Întrebarea 6
+Care triunghi are un unghi obtuz?
+A) Triunghiul scalen
+B) Triunghi isoscel
+C) Triunghi echilateral
+D) Triunghi obtuz
+Întrebarea 7
+Care este măsura fiecărui unghi interior dintr-un pătrat?
+A) 45 de grade
+B) 60 de grade
+C) 90 de grade
+D) 120 de grade
+Întrebarea 8
+Câte drepte de simetrie are un pătrat?
+A) 2
+B) 4
+C) 6
+D) 8
+Întrebarea 9
+Într-un pătrat, cum se raportează diagonalele între ele?
+A) Sunt inegale
+B) Se bisectează și sunt perpendiculare
+C) Sunt paralele
+D) Nu se intersectează
+Întrebarea 10
+Care este lungimea diagonalei unui pătrat cu lungimea laturii „a”?
+A) a
+B) 2a
+C) o sqrt(2)
+D) a/2
+Întrebarea 11
+Care proprietate este adevărată pentru toate pătratele?
+A) Toate unghiurile sunt acute
+B) Diagonalele sunt egale ca lungime
+C) Numai laturile opuse sunt egale
+D) Numai laturile adiacente sunt egale
+Întrebarea 12
+Care este o proprietate caracteristică a unui romb?
+A) Doar două laturi sunt egale
+B) Toate laturile sunt de lungime egală
+C) Doar o pereche de laturi opuse este paralelă
+D) Toate unghiurile sunt unghiuri drepte
+Întrebarea 13
+Cum se intersectează diagonalele unui romb?
+A) Au lungime egală
+B) Se bisectează în unghi drept
+C) Sunt paralele
+D) Nu se intersectează
+Întrebarea 14
+Care este măsura unghiurilor formate acolo unde diagonalele unui romb se intersectează?
+A) 30 de grade
+B) 60 de grade
+C) 90 de grade
+D) 120 de grade
+Întrebarea 15
+Într-un romb, diagonalele îl împart în câte triunghiuri congruente?
+A) 2
+B) 3
+C) 4
+D) 6
+Întrebarea 16
+Care proprietate este adevărată atât pentru romburi, cât și pentru pătrate?
+A) Toate unghiurile sunt de 90 de grade
+B) Diagonalele se bisectează în unghi drept
+C) Doar o pereche de laturi este paralelă
+D) Diagonalele nu sunt egale
+Întrebarea 17
+Care este proprietatea definitorie a unui paralelogram?
+A) Doar o pereche de laturi opuse este paralelă
+B) Ambele perechi de laturi opuse sunt paralele
+C) Numai laturile adiacente sunt egale
+D) Toate unghiurile sunt unghiuri drepte
+Întrebarea 18
+Care este măsura fiecărui unghi interior dintr-un dreptunghi?
+A) 45 de grade
+B) 60 de grade
+C) 90 de grade
+D) 120 de grade
+Întrebarea 19
+Într-un dreptunghi, cum se raportează diagonalele între ele?
+A) Sunt inegale
+B) Se bisectează și sunt perpendiculare
+C) Sunt paralele
+D) Au lungime egală
+Întrebarea 20
+Care proprietate este adevărată atât pentru dreptunghiuri, cât și pentru pătrate?
+A) Toate laturile sunt egale
+B) Toate unghiurile sunt unghiuri drepte
+C) Diagonalele se bisectează în unghi drept
+D) Doar o pereche de laturi este paralelă
+Corect!
+Incorect! deoarece unghiurile sunt egale, este 180/3 = 60.
+Incorect! Isoscel are 2 unghiuri și laturi egale.
+Incorect! Un scalen nu are laturi sau unghiuri egale.
+Incorect! Un triunghi cu unghi drept are un unghi drept.
+Incorect! Un triunghi ascuțit are doar unghiuri ascuțite.
+Incorect! Un triunghi obtuz are doar un unghi obtuz.
+Incorect! Toate unghiurile interioare ale unui pătrat sunt de 90 de grade.
+Incorect! Un pătrat are patru linii de simetrie.
+Incorect! Ele bisectează la 90 de grade.
+Incorect! găsiți ipotenuza: sqrt(a^2+a^2) = a sqrt(2).
+Incorect! Toate diagonalele sunt egale deoarece toate laturile sunt egale.
+Incorect! Rombul, ca un pătrat are toate laturile egale.
+Incorect! se bisectează în grade dreptunghiulare.
+Incorect! se bisectează la 90 de grade
+Incorect! patru triunghiuri de când diagonalele bisectează.
+Incorect! Ambele au diagonale bisectate la 90 de grade.
+Incorect! se numește paralelogram dintr-un motiv.
+Incorect! 90 de grade ca un pătrat
+Incorect! Au lungime egală, dar nu întotdeauna 90 de grade.
+Incorect! Toate unghiurile sunt unghiuri drepte.

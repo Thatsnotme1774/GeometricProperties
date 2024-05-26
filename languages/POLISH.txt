@@ -1,0 +1,166 @@
+WŁAŚCIWOŚCI GEOMETRYCZNE
+POCZĄTEK
+OPCJE
+WYJŚCIE
+Pełny ekran
+Muzyka
+Rezolucja
+Tłumaczyć
+Język
+Z POWROTEM
+NASTĘPNY
+Trójkąt
+Trójkąt równoboczny: Trójkąt równoboczny ma wszystkie boki równej długości, a każdy kąt wewnętrzny ma miarę 60 stopni. Trójkąt równoramienny: Trójkąt równoramienny ma dwa boki równej długości i dwa kąty przystające. Trójkąt skalenowy: Trójkąt skalenowy nie ma równych boków ani kątów. Trójkąt prostokątny: Trójkąt prostokątny ma jeden kąt prosty (90 stopni). Zgodnie z twierdzeniem Pitagorasa kwadrat przeciwprostokątnej jest równy sumie kwadratów dwóch pozostałych boków. Ostry trójkąt: Ostry trójkąt ma wszystkie kąty mniejsze niż 90 stopni. Trójkąt rozwarty: Trójkąt rozwarty zawiera jeden kąt większy niż 90 stopni.
+Kwadrat
+Kwadrat ma wszystkie boki równej długości, a każdy kąt wewnętrzny ma miarę 90 stopni. Jego przekątne przecinają się pod kątem prostym i mają jednakową długość. Dodatkowo kwadrat ma cztery osie symetrii.
+Prostokąt
+Prostokąt ma przeciwne boki równej długości, a każdy kąt wewnętrzny ma miarę 90 stopni. Przekątne są równej długości i przecinają się na pół, a kształt ma dwie osie symetrii.
+Romb
+Romb ma wszystkie boki równej długości i przeciwne kąty, które są równe. Przekątne przecinają się pod kątem prostym i dzielą romb na cztery przystające trójkąty.
+Równoległobok
+Równoległobok ma przeciwne boki równej długości i równoległe oraz przeciwległe kąty, które są równe. Jego przekątne przecinają się na pół.
+KARTKÓWKA
+SKOŃCZYĆ
+DOM
+WYNIK
+Pytanie 1
+Jaka jest miara każdego kąta wewnętrznego w trójkącie równobocznym?
+A) 45 stopni
+B) 60 stopni
+C) 90 stopni
+D) 120 stopni
+pytanie 2
+Który trójkąt ma dwa boki równej długości i dwa kąty przystające?
+A) Trójkąt skalenowy
+B) Trójkąt równoramienny
+C) Trójkąt równoboczny
+D) Trójkąt prostokątny
+pytanie 3
+Który trójkąt nie ma równych boków i kątów?
+A) Trójkąt skalenowy
+B) Trójkąt równoramienny
+C) Trójkąt równoboczny
+D) Ostry trójkąt
+Pytanie 4
+Jaki typ trójkąta ma jeden kąt prosty?
+A) Trójkąt skalenowy
+B) Trójkąt równoramienny
+C) Trójkąt równoboczny
+D) Trójkąt prostokątny
+Pytanie 5
+W jakim typie trójkąta wszystkie kąty są ostre?
+A) Trójkąt skalenowy
+B) Trójkąt równoramienny
+C) Trójkąt równoboczny
+D) Ostry trójkąt
+Pytanie 6
+Który trójkąt ma jeden kąt rozwarty?
+A) Trójkąt skalenowy
+B) Trójkąt równoramienny
+C) Trójkąt równoboczny
+D) Trójkąt rozwarty
+Pytanie 7
+Jaka jest miara każdego kąta wewnętrznego w kwadracie?
+A) 45 stopni
+B) 60 stopni
+C) 90 stopni
+D) 120 stopni
+Pytanie 8
+Ile osi symetrii ma kwadrat?
+2
+B) 4
+C) 6
+D) 8
+Pytanie 9
+W kwadracie, jak przekątne odnoszą się do siebie?
+A) Są nierówne
+B) Przecinają się na pół i są prostopadłe
+C) Są równoległe
+D) Nie przecinają się
+Pytanie 10
+Jaka jest długość przekątnej kwadratu o boku „a”?
+A) za
+B) 2a
+C) sqrt(2)
+D) a/2
+Pytanie 11
+Która własność jest prawdziwa dla wszystkich kwadratów?
+A) Wszystkie kąty są ostre
+B) Przekątne są równej długości
+C) Tylko przeciwne strony są równe
+D) Tylko sąsiednie boki są równe
+Pytanie 12
+Jaka jest charakterystyczna właściwość rombu?
+A) Tylko dwie strony są równe
+B) Wszystkie boki mają jednakową długość
+C) Tylko jedna para przeciwległych boków jest równoległa
+D) Wszystkie kąty są kątami prostymi
+Pytanie 13
+Jak przecinają się przekątne rombu?
+A) Mają równą długość
+B) Przecinają się pod kątem prostym
+C) Są równoległe
+D) Nie przecinają się
+Pytanie 14
+Jaka jest miara kątów utworzonych w miejscu przecięcia przekątnych rombu?
+A) 30 stopni
+B) 60 stopni
+C) 90 stopni
+D) 120 stopni
+Pytanie 15
+W rombie przekątne dzielą go na ile przystających trójkątów?
+2
+B) 3
+C) 4
+D) 6
+Pytanie 16
+Która własność jest prawdziwa zarówno w przypadku rombów, jak i kwadratów?
+a) Wszystkie kąty mają po 90 stopni
+B) Przekątne przecinają się pod kątem prostym
+C) Tylko jedna para boków jest równoległa
+D) Przekątne nie są równe
+Pytanie 17
+Jaka jest charakterystyczna właściwość równoległoboku?
+A) Tylko jedna para przeciwległych boków jest równoległa
+B) Obie pary przeciwległych boków są równoległe
+C) Tylko sąsiednie boki są równe
+D) Wszystkie kąty są kątami prostymi
+Pytanie 18
+Jaka jest miara każdego kąta wewnętrznego w prostokącie?
+A) 45 stopni
+B) 60 stopni
+C) 90 stopni
+D) 120 stopni
+Pytanie 19
+W prostokącie, jak przekątne odnoszą się do siebie?
+A) Są nierówne
+B) Przecinają się na pół i są prostopadłe
+C) Są równoległe
+D) Są równej długości
+Pytanie 20
+Która własność jest prawdziwa zarówno dla prostokątów, jak i kwadratów?
+A) Wszystkie strony są równe
+B) Wszystkie kąty są kątami prostymi
+C) Przekątne przecinają się pod kątem prostym
+D) Tylko jedna para boków jest równoległa
+Prawidłowy!
+Błędny! ponieważ kąty są równe, wynosi to 180/3 = 60.
+Błędny! Równramienny ma 2 równe kąty i boki.
+Błędny! Skalen nie ma równych boków ani kątów.
+Błędny! Trójkąt prostokątny ma kąt prosty.
+Błędny! Ostry trójkąt ma tylko ostre kąty.
+Błędny! Trójkąt rozwarty ma tylko kąt rozwarty.
+Błędny! Wszystkie kąty wewnętrzne kwadratu mają po 90 stopni.
+Błędny! Kwadrat ma cztery osie symetrii.
+Błędny! Przecinają się pod kątem 90 stopni.
+Błędny! znajdź przeciwprostokątną: sqrt(a^2+a^2) = a sqrt(2).
+Błędny! Wszystkie przekątne są równe, ponieważ wszystkie boki są równe.
+Błędny! Romb, podobnie jak kwadrat, ma wszystkie boki równe.
+Błędny! przecinają się pod kątem prostym w stopniach.
+Błędny! przecinają się pod kątem 90 stopni
+Błędny! cztery trójkąty, ponieważ przekątne przecinają się na pół.
+Błędny! Obie przekątne przecinają się pod kątem 90 stopni.
+Błędny! Nie bez powodu nazywa się to równoległobokiem.
+Błędny! 90 stopni jak kwadrat
+Błędny! Mają równą długość, ale nie zawsze mają 90 stopni.
+Błędny! Wszystkie kąty są kątami prostymi.

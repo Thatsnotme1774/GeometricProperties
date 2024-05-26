@@ -1,0 +1,166 @@
+PROPRIEDADES GEOMÉTRICAS
+COMEÇAR
+OPÇÕES
+SAÍDA
+Tela cheia
+Música
+Resolução
+Traduzir
+Linguagem
+VOLTAR
+PRÓXIMO
+Triângulo
+Triângulo Equilátero: Um triângulo equilátero tem todos os lados de igual comprimento e cada ângulo interno mede 60 graus. Triângulo Isósceles: Um triângulo isósceles tem dois lados de igual comprimento e dois ângulos congruentes. Triângulo Escaleno: Um triângulo escaleno não tem lados ou ângulos iguais. Triângulo Retângulo: Um triângulo retângulo apresenta um ângulo reto (90 graus). Segundo o Teorema de Pitágoras, o quadrado da hipotenusa é igual à soma dos quadrados dos outros dois lados. Triângulo Agudo: Um triângulo agudo tem todos os seus ângulos medindo menos de 90 graus. Triângulo Obtuso: Um triângulo obtuso inclui um ângulo maior que 90 graus.
+Quadrado
+Um quadrado tem todos os lados de igual comprimento e cada ângulo interno mede 90 graus. Suas diagonais se dividem em ângulos retos e têm o mesmo comprimento. Além disso, um quadrado possui quatro linhas de simetria.
+Retângulo
+Um retângulo tem lados opostos de comprimento igual e cada ângulo interno mede 90 graus. As diagonais têm comprimento igual e se dividem ao meio, e a forma tem duas linhas de simetria.
+Losango
+Um losango apresenta todos os lados de igual comprimento e ângulos opostos iguais. As diagonais se dividem em ângulos retos e dividem o losango em quatro triângulos congruentes.
+Paralelogramo
+Um paralelogramo tem lados opostos iguais em comprimento e paralelos, com ângulos opostos iguais. Suas diagonais se dividem.
+QUESTIONÁRIO
+TERMINAR
+LAR
+PONTUAÇÃO
+Questão 1
+Qual é a medida de cada ângulo interno em um triângulo equilátero?
+A) 45 graus
+B) 60 graus
+B) 90 graus
+D) 120 graus
+Questão 2
+Qual triângulo tem dois lados de comprimento igual e dois ângulos congruentes?
+A) Triângulo escaleno
+B) Triângulo isósceles
+C) Triângulo Equilátero
+D) Triângulo retângulo
+Questão 3
+Qual triângulo não tem lados ou ângulos iguais?
+A) Triângulo escaleno
+B) Triângulo isósceles
+C) Triângulo Equilátero
+D) Triângulo agudo
+Pergunta 4
+Que tipo de triângulo tem um ângulo reto?
+A) Triângulo escaleno
+B) Triângulo isósceles
+C) Triângulo Equilátero
+D) Triângulo retângulo
+Pergunta 5
+Que tipo de triângulo tem todos os ângulos agudos?
+A) Triângulo escaleno
+B) Triângulo isósceles
+C) Triângulo Equilátero
+D) Triângulo agudo
+Pergunta 6
+Qual triângulo tem um ângulo obtuso?
+A) Triângulo escaleno
+B) Triângulo isósceles
+C) Triângulo Equilátero
+D) Triângulo obtuso
+Pergunta 7
+Qual é a medida de cada ângulo interno de um quadrado?
+A) 45 graus
+B) 60 graus
+B) 90 graus
+D) 120 graus
+Pergunta 8
+Quantas linhas de simetria um quadrado tem?
+A) 2
+B) 4
+C) 6
+D) 8
+Pergunta 9
+Num quadrado, como as diagonais se relacionam entre si?
+A) Eles são desiguais
+B) Eles se dividem e são perpendiculares
+C) Eles são paralelos
+D) Eles não se cruzam
+Pergunta 10
+Qual é o comprimento da diagonal de um quadrado com comprimento de lado 'a'?
+A) uma
+B) 2a
+C) um quadrado (2)
+D) a/2
+Pergunta 11
+Qual propriedade é verdadeira para todos os quadrados?
+A) Todos os ângulos são agudos
+B) As diagonais têm comprimentos iguais
+C) Apenas os lados opostos são iguais
+D) Apenas os lados adjacentes são iguais
+Pergunta 12
+Qual é a propriedade característica de um losango?
+A) Apenas dois lados são iguais
+B) Todos os lados têm o mesmo comprimento
+C) Apenas um par de lados opostos é paralelo
+D) Todos os ângulos são retos
+Pergunta 13
+Como as diagonais de um losango se cruzam?
+A) Eles são iguais em comprimento
+B) Eles se dividem em ângulos retos
+C) Eles são paralelos
+D) Eles não se cruzam
+Pergunta 14
+Qual é a medida dos ângulos formados onde as diagonais de um losango se cruzam?
+A) 30 graus
+B) 60 graus
+B) 90 graus
+D) 120 graus
+Pergunta 15
+Num losango as diagonais o dividem em quantos triângulos congruentes?
+A) 2
+B)3
+C) 4
+D) 6
+Pergunta 16
+Qual propriedade é verdadeira para losangos e quadrados?
+A) Todos os ângulos são de 90 graus
+B) As diagonais se dividem em ângulos retos
+C) Apenas um par de lados é paralelo
+D) As diagonais não são iguais
+Pergunta 17
+Qual é a propriedade definidora de um paralelogramo?
+A) Apenas um par de lados opostos é paralelo
+B) Ambos os pares de lados opostos são paralelos
+C) Apenas os lados adjacentes são iguais
+D) Todos os ângulos são retos
+Pergunta 18
+Qual é a medida de cada ângulo interno de um retângulo?
+A) 45 graus
+B) 60 graus
+B) 90 graus
+D) 120 graus
+Pergunta 19
+Em um retângulo, como as diagonais se relacionam?
+A) Eles são desiguais
+B) Eles se dividem e são perpendiculares
+C) Eles são paralelos
+D) Eles são iguais em comprimento
+Pergunta 20
+Qual propriedade é verdadeira para retângulos e quadrados?
+A) Todos os lados são iguais
+B) Todos os ângulos são retos
+C) As diagonais se dividem em ângulos retos
+D) Apenas um par de lados é paralelo
+Correto!
+Incorreta! como os ângulos são iguais, é 180/3 = 60.
+Incorreta! Isósceles tem 2 ângulos e lados iguais.
+Incorreta! Um escaleno não tem lados ou ângulos iguais.
+Incorreta! Um triángulo de ângulo reto tem um ângulo reto.
+Incorreta! Um triângulo agudo possui apenas ângulos agudos.
+Incorreta! Um triângulo obtuso possui apenas um ângulo obtuso.
+Incorreta! Todos os ângulos internos de um quadrado medem 90 graus.
+Incorreta! Um quadrado tem quatro linhas de simetria.
+Incorreta! Eles se dividem em 90 graus.
+Incorreta! encontre a hipotenusa: sqrt(a^2+a^2) = a sqrt(2).
+Incorreta! Todas as diagonais são iguais porque todos os lados são iguais.
+Incorreta! Losango, como um quadrado tem todos os lados iguais.
+Incorreta! eles se dividem em ângulos retos.
+Incorreta! eles se dividem em 90 graus
+Incorreta! quatro triângulos desde a bissecção das diagonais.
+Incorreta! Ambos têm diagonais divididas em 90 graus.
+Incorreta! é chamado de paralelogramo por uma razão.
+Incorreta! 90 graus como um quadrado
+Incorreta! Eles têm o mesmo comprimento, mas nem sempre têm 90 graus.
+Incorreta! Todos os ângulos são ângulos retos.

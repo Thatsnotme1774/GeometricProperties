@@ -1,0 +1,166 @@
+GEOMETRISKE EGENSKAPER
+START
+ALTERNATIVER
+EXIT
+Full skjerm
+Musikk
+Vedtak
+Oversette
+Språk
+TILBAKE
+NESTE
+Triangel
+Likesidet trekant: En likesidet trekant har alle sider like lange, og hver indre vinkel måler 60 grader. Likebenet trekant: En likebent trekant har to like lange sider og to kongruente vinkler. Skalentriangel: En skalatrekant har ingen sider eller vinkler som er like. Rett trekant: En rettvinklet trekant har én rett vinkel (90 grader). I følge Pythagoras teorem er kvadratet på hypotenusen lik summen av kvadratene på de to andre sidene. Akutt trekant: En spiss trekant har alle vinklene som er mindre enn 90 grader. Stump trekant: En stump trekant inkluderer en vinkel som er større enn 90 grader.
+Torget
+En firkant har alle sider like lange og hver indre vinkel er 90 grader. Dens diagonaler halverer hverandre i rette vinkler og er like lange. I tillegg har en firkant fire symmetrilinjer.
+Rektangel
+Et rektangel har motsatte sider som er like lange, og hver indre vinkel er 90 grader. Diagonalene er like lange og halverer hverandre, og formen har to symmetrilinjer.
+Rombe
+En rombe har alle like lange sider og motsatte vinkler som er like. Diagonalene halverer hverandre i rette vinkler og deler romben i fire kongruente trekanter.
+Parallelogram
+Et parallellogram har motsatte sider som er like lange og parallelle, med motsatte vinkler som er like. Dens diagonaler halverer hverandre.
+QUIZ
+BLI FERDIG
+HJEM
+SCORE
+Spørsmål 1
+Hva er målet for hver indre vinkel i en likesidet trekant?
+A) 45 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Spørsmål 2
+Hvilken trekant har to like lange sider og to kongruente vinkler?
+A) Skala trekant
+B) Likebenet trekant
+C) Likesidet trekant
+D) Rettvinklet trekant
+Spørsmål 3
+Hvilken trekant har ingen sider eller vinkler like?
+A) Skala trekant
+B) Likebenet trekant
+C) Likesidet trekant
+D) Akutt trekant
+Spørsmål 4
+Hvilken type trekant har én rett vinkel?
+A) Skala trekant
+B) Likebenet trekant
+C) Likesidet trekant
+D) Rettvinklet trekant
+Spørsmål 5
+Hvilken type trekant har alle vinkler spisse?
+A) Skala trekant
+B) Likebenet trekant
+C) Likesidet trekant
+D) Akutt trekant
+Spørsmål 6
+Hvilken trekant har én stump vinkel?
+A) Skala trekant
+B) Likebenet trekant
+C) Likesidet trekant
+D) Stump trekant
+Spørsmål 7
+Hva er målet for hver indre vinkel i en firkant?
+A) 45 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Spørsmål 8
+Hvor mange symmetrilinjer har et kvadrat?
+A) 2
+B) 4
+C) 6
+D) 8
+Spørsmål 9
+I et kvadrat, hvordan forholder diagonalene seg til hverandre?
+A) De er ulik
+B) De deler hverandre og er vinkelrett
+C) De er parallelle
+D) De krysser ikke hverandre
+Spørsmål 10
+Hva er lengden på diagonalen til et kvadrat med sidelengden 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Spørsmål 11
+Hvilken egenskap er sann for alle ruter?
+A) Alle vinkler er spisse
+B) Diagonaler er like lange
+C) Bare motsatte sider er like
+D) Bare tilstøtende sider er like
+Spørsmål 12
+Hva er en karakteristisk egenskap til en rombe?
+A) Bare to sider er like
+B) Alle sider er like lange
+C) Bare ett par motsatte sider er parallelle
+D) Alle vinkler er rette vinkler
+Spørsmål 13
+Hvordan skjærer diagonalene til en rombe?
+A) De er like lange
+B) De halverer hverandre i rette vinkler
+C) De er parallelle
+D) De krysser ikke hverandre
+Spørsmål 14
+Hva er målet på vinklene som dannes der diagonalene til en rombe skjærer hverandre?
+A) 30 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Spørsmål 15
+I en rombe deler diagonalene den inn i hvor mange kongruente trekanter?
+A) 2
+B) 3
+C) 4
+D) 6
+Spørsmål 16
+Hvilken egenskap er sann for både romber og firkanter?
+A) Alle vinkler er 90 grader
+B) Diagonaler halverer hverandre i rette vinkler
+C) Bare ett par sider er parallelle
+D) Diagonaler er ikke like
+Spørsmål 17
+Hva er den definerende egenskapen til et parallellogram?
+A) Bare ett par motsatte sider er parallelle
+B) Begge parene med motsatte sider er parallelle
+C) Bare tilstøtende sider er like
+D) Alle vinkler er rette vinkler
+Spørsmål 18
+Hva er målet for hver indre vinkel i et rektangel?
+A) 45 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Spørsmål 19
+Hvordan forholder diagonalene seg til hverandre i et rektangel?
+A) De er ulik
+B) De deler hverandre og er vinkelrett
+C) De er parallelle
+D) De er like lange
+Spørsmål 20
+Hvilken egenskap er sann for både rektangler og firkanter?
+A) Alle sider er like
+B) Alle vinkler er rette vinkler
+C) Diagonaler halverer hverandre i rette vinkler
+D) Bare ett par sider er parallelle
+Riktig!
+Stemmer ikke! siden vinklene er like er det 180/3 = 60.
+Stemmer ikke! Likebenet har 2 like vinkler og sider.
+Stemmer ikke! En skala har ingen like sider eller vinkler.
+Stemmer ikke! En rettvinklet trekant har en rett vinkel.
+Stemmer ikke! En spiss trekant har bare spisse vinkler.
+Stemmer ikke! En stump trekant har bare en stump vinkel.
+Stemmer ikke! Alle indre vinkler av en firkant er 90 grader.
+Stemmer ikke! Et kvadrat har fire symmetrilinjer.
+Stemmer ikke! De deler seg i 90 grader.
+Stemmer ikke! finn hypotenusen: sqrt(a^2+a^2) = a sqrt(2).
+Stemmer ikke! Alle diagonaler er like fordi alle sider er like.
+Stemmer ikke! Rombe, som en firkant har alle sider like.
+Stemmer ikke! de deler seg i rette vinkler grader.
+Stemmer ikke! de deler seg i 90 grader
+Stemmer ikke! fire trekanter siden diagonalene halverer seg.
+Stemmer ikke! Begge har diagonaler halverer i 90 grader.
+Stemmer ikke! det kalles parallellogram av en grunn.
+Stemmer ikke! 90 grader som en firkant
+Stemmer ikke! De er like lange, men ikke alltid 90 grader.
+Stemmer ikke! Alle vinkler er rette vinkler.

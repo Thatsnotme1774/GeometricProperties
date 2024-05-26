@@ -1,0 +1,166 @@
+FINNISHGEOMETRISET OMINAISUUDET
+ALKAA
+VAIHTOEHDOT
+POISTU
+Koko näyttö
+Musiikki
+Resoluutio
+Kääntää
+Kieli
+TAKAISIN
+SEURAAVA
+Kolmio
+Tasasivuinen kolmio: Tasasivuisen kolmion kaikki sivut ovat yhtä pitkiä, ja jokainen sisäkulma on 60 astetta. Tasakylkinen kolmio: Tasakylkisellä kolmiolla on kaksi yhtä pitkää sivua ja kaksi yhteneväistä kulmaa. Skaalauskolmio: Skaalauskolmiolla ei ole yhtä suuria sivuja tai kulmia. Oikea kolmio: Suorakulmaisessa kolmiossa on yksi suora kulma (90 astetta). Pythagoraan lauseen mukaan hypotenuusan neliö on yhtä suuri kuin kahden muun sivun neliöiden summa. Akuutti kolmio: Terävän kolmion kaikki kulmat ovat alle 90 astetta. Tylsä kolmio: Tylsä kolmio sisältää yhden kulman, joka on suurempi kuin 90 astetta.
+Neliö
+Neliön kaikki sivut ovat yhtä pitkiä ja jokainen sisäkulma on 90 astetta. Sen diagonaalit jakavat toisensa suorassa kulmassa ja ovat yhtä pitkiä. Lisäksi neliössä on neljä symmetriaviivaa.
+Suorakulmio
+Suorakulmion vastakkaiset sivut ovat yhtä pitkiä, ja jokainen sisäkulma on 90 astetta. Diagonaalit ovat yhtä pitkiä ja jakavat toisensa, ja muodossa on kaksi symmetriaviivaa.
+Rombi
+Rombin kaikki sivut ovat yhtä pitkät ja vastakkaiset kulmat ovat yhtä suuret. Diagonaalit jakavat toisensa suorassa kulmassa ja jakavat rombin neljään yhteneväiseen kolmioon.
+Suunnikas
+Suunnikkaalla on vastakkaiset sivut, jotka ovat yhtä pitkiä ja yhdensuuntaisia, ja vastakkaiset kulmat ovat yhtä suuret. Sen diagonaalit jakavat toisensa.
+TIETOKILPAILU
+SUORITTAA LOPPUUN
+KOTI
+PISTEET
+Kysymys 1
+Mikä on tasasivuisen kolmion jokaisen sisäkulman mitta?
+A) 45 astetta
+B) 60 astetta
+C) 90 astetta
+D) 120 astetta
+Kysymys 2
+Millä kolmiolla on kaksi yhtä pitkää sivua ja kaksi yhteneväistä kulmaa?
+A) Scaleenikolmio
+B) Tasakylkinen kolmio
+C) Tasasivuinen kolmio
+D) Suorakulmainen kolmio
+Kysymys 3
+Millä kolmiolla ei ole yhtä suuria sivuja tai kulmia?
+A) Scaleenikolmio
+B) Tasakylkinen kolmio
+C) Tasasivuinen kolmio
+D) Terävä kolmio
+Kysymys 4
+Minkä tyyppisellä kolmiolla on yksi suora kulma?
+A) Scaleenikolmio
+B) Tasakylkinen kolmio
+C) Tasasivuinen kolmio
+D) Suorakulmainen kolmio
+Kysymys 5
+Minkä tyyppisen kolmion kaikki kulmat ovat teräviä?
+A) Scaleenikolmio
+B) Tasakylkinen kolmio
+C) Tasasivuinen kolmio
+D) Terävä kolmio
+Kysymys 6
+Millä kolmiolla on yksi tylppä kulma?
+A) Scaleenikolmio
+B) Tasakylkinen kolmio
+C) Tasasivuinen kolmio
+D) Tylsä kolmio
+Kysymys 7
+Mikä on neliön kunkin sisäkulman mitta?
+A) 45 astetta
+B) 60 astetta
+C) 90 astetta
+D) 120 astetta
+Kysymys 8
+Kuinka monta symmetriaviivaa neliöllä on?
+A) 2
+B) 4
+C) 6
+D) 8
+Kysymys 9
+Miten neliön diagonaalit liittyvät toisiinsa?
+A) Ne ovat eriarvoisia
+B) Ne puolittavat toisensa ja ovat kohtisuorassa
+C) Ne ovat yhdensuuntaisia
+D) Ne eivät leikkaa toisiaan
+Kysymys 10
+Mikä on neliön, jonka sivun pituus on 'a', diagonaalin pituus?
+A) a
+B) 2a
+C) neliömetri (2)
+D) a/2
+Kysymys 11
+Mikä ominaisuus on totta kaikille neliöille?
+A) Kaikki kulmat ovat teräviä
+B) Diagonaalit ovat yhtä pitkiä
+C) Vain vastakkaiset sivut ovat yhtä suuret
+D) Vain vierekkäiset sivut ovat yhtä suuret
+Kysymys 12
+Mikä on rombin ominaisuus?
+A) Vain kaksi puolta ovat yhtä suuret
+B) Kaikki sivut ovat yhtä pitkiä
+C) Vain yksi vastakkaisten sivujen pari on yhdensuuntainen
+D) Kaikki kulmat ovat suoria
+Kysymys 13
+Miten rombin lävistäjät leikkaavat?
+A) Ne ovat yhtä pitkiä
+B) Ne jakavat toisensa suorassa kulmassa
+C) Ne ovat yhdensuuntaisia
+D) Ne eivät leikkaa toisiaan
+Kysymys 14
+Mikä on niiden kulmien mitta, jotka muodostuvat rombin lävistäjien leikkaamiseen?
+A) 30 astetta
+B) 60 astetta
+C) 90 astetta
+D) 120 astetta
+Kysymys 15
+Kuinka moneksi yhteneväksi kolmioksi rombuksen diagonaalit jakavat sen?
+A) 2
+B) 3
+C) 4
+D) 6
+Kysymys 16
+Mikä ominaisuus on totta sekä rombille että neliöille?
+A) Kaikki kulmat ovat 90 astetta
+B) Diagonaalit jakavat toisensa suorassa kulmassa
+C) Vain yksi sivupari on yhdensuuntainen
+D) Diagonaalit eivät ole yhtä suuret
+Kysymys 17
+Mikä on suuntaviivan määrittelevä ominaisuus?
+A) Vain yksi vastakkaisten sivujen pari on yhdensuuntainen
+B) Molemmat vastakkaisten sivujen parit ovat yhdensuuntaiset
+C) Vain vierekkäiset sivut ovat yhtä suuret
+D) Kaikki kulmat ovat suoria kulmia
+Kysymys 18
+Mikä on kunkin suorakulmion sisäkulman mitta?
+A) 45 astetta
+B) 60 astetta
+C) 90 astetta
+D) 120 astetta
+Kysymys 19
+Miten suorakulmion lävistäjät liittyvät toisiinsa?
+A) Ne ovat eriarvoisia
+B) Ne puolittavat toisensa ja ovat kohtisuorassa
+C) Ne ovat yhdensuuntaisia
+D) Ne ovat yhtä pitkiä
+Kysymys 20
+Mikä ominaisuus pätee sekä suorakulmioihin että neliöihin?
+A) Kaikki puolet ovat yhtä suuret
+B) Kaikki kulmat ovat suoria kulmia
+C) Diagonaalit jakavat toisensa suorassa kulmassa
+D) Vain yksi sivupari on yhdensuuntainen
+Oikea!
+Väärä! koska kulmat ovat yhtä suuret, se on 180/3 = 60.
+Väärä! Tasakylkisellä on 2 yhtäläistä kulmaa ja sivua.
+Väärä! Skaalalla ei ole yhtäläisiä sivuja tai kulmia.
+Väärä! Suorakulmaisella kolmiolla on suora kulma.
+Väärä! Terävällä kolmiolla on vain teräviä kulmia.
+Väärä! Typällä kolmiolla on vain tylppä kulma.
+Väärä! Kaikki neliön sisäkulmat ovat 90 astetta.
+Väärä! Neliössä on neljä symmetriaviivaa.
+Väärä! Ne puolittuvat 90 astetta.
+Väärä! etsi hypotenuusa: sqrt(a^2+a^2) = a sqrt(2).
+Väärä! Kaikki diagonaalit ovat yhtä suuria, koska kaikki sivut ovat yhtä suuret.
+Väärä! Rombin, kuten neliön, kaikki sivut ovat yhtä suuret.
+Väärä! ne puolittuvat suorassa kulmassa astetta.
+Väärä! ne puolittavat 90 astetta
+Väärä! neljä kolmiota, koska lävistäjät puolittavat.
+Väärä! Molempien diagonaalit ovat puolittuneet 90 astetta.
+Väärä! sitä kutsutaan suuntaviivaksi syystä.
+Väärä! 90 astetta kuin neliö
+Väärä! Ne ovat yhtä pitkiä, mutta eivät aina 90 astetta.
+Väärä! Kaikki kulmat ovat suoria kulmia.

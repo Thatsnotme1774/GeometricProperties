@@ -1,0 +1,166 @@
+GEOMETRISCHE EIGENSCHAPPEN
+BEGIN
+OPTIES
+UITGANG
+Volledig scherm
+Muziek
+Oplossing
+Vertalen
+Taal
+RUG
+VOLGENDE
+Driehoek
+Gelijkzijdige driehoek: Een gelijkzijdige driehoek heeft alle zijden van gelijke lengte en elke binnenhoek meet 60 graden. Gelijkbenige driehoek: Een gelijkbenige driehoek heeft twee zijden van gelijke lengte en twee congruente hoeken. Scalene-driehoek: Een ongelijkzijdige driehoek heeft geen zijden of hoeken die gelijk zijn. Rechte driehoek: Een rechthoekige driehoek heeft één rechte hoek (90 graden). Volgens de stelling van Pythagoras is het kwadraat van de hypotenusa gelijk aan de som van de kwadraten van de andere twee zijden. Acute driehoek: Een acute driehoek heeft alle hoeken die kleiner zijn dan 90 graden. Stompe driehoek: Een stompe driehoek heeft één hoek die groter is dan 90 graden.
+Vierkant
+Een vierkant heeft alle zijden van gelijke lengte en elke binnenhoek is 90 graden. De diagonalen snijden elkaar loodrecht en zijn even lang. Bovendien heeft een vierkant vier symmetrielijnen.
+Rechthoek
+Een rechthoek heeft tegenoverliggende zijden die even lang zijn, en elke binnenhoek is 90 graden. De diagonalen zijn even lang en halveren elkaar, en de vorm heeft twee symmetrielijnen.
+Ruit
+Een ruit heeft alle zijden van gelijke lengte en tegenovergestelde hoeken die gelijk zijn. De diagonalen snijden elkaar in een rechte hoek en verdelen de ruit in vier congruente driehoeken.
+Parallellogram
+Een parallellogram heeft tegenoverliggende zijden die even lang en evenwijdig zijn, met tegenoverliggende hoeken die gelijk zijn. De diagonalen doorsnijden elkaar.
+QUIZ
+FINISH
+THUIS
+SCORE
+Vraag 1
+Wat is de maat van elke binnenhoek in een gelijkzijdige driehoek?
+A) 45 graden
+B) 60 graden
+C) 90 graden
+D) 120 graden
+vraag 2
+Welke driehoek heeft twee zijden van gelijke lengte en twee congruente hoeken?
+A) Scalene-driehoek
+B) Gelijkbenige driehoek
+C) Gelijkzijdige driehoek
+D) Rechthoekige driehoek
+vraag 3
+Welke driehoek heeft geen gelijke zijden of hoeken?
+A) Scalene-driehoek
+B) Gelijkbenige driehoek
+C) Gelijkzijdige driehoek
+D) Acute driehoek
+Vraag 4
+Welk type driehoek heeft één rechte hoek?
+A) Scalene-driehoek
+B) Gelijkbenige driehoek
+C) Gelijkzijdige driehoek
+D) Rechthoekige driehoek
+Vraag 5
+Bij welk type driehoek zijn alle hoeken scherp?
+A) Scalene-driehoek
+B) Gelijkbenige driehoek
+C) Gelijkzijdige driehoek
+D) Acute driehoek
+Vraag 6
+Welke driehoek heeft één stompe hoek?
+A) Scalene-driehoek
+B) Gelijkbenige driehoek
+C) Gelijkzijdige driehoek
+D) Stompe driehoek
+Vraag 7
+Wat is de maat van elke binnenhoek in een vierkant?
+A) 45 graden
+B) 60 graden
+C) 90 graden
+D) 120 graden
+Vraag 8
+Hoeveel symmetrielijnen heeft een vierkant?
+EEN) 2
+B) 4
+C) 6
+D) 8
+Vraag 9
+Hoe verhouden de diagonalen zich in een vierkant tot elkaar?
+A) Ze zijn ongelijk
+B) Ze delen elkaar in tweeën en staan ​​loodrecht
+C) Ze zijn parallel
+D) Ze kruisen elkaar niet
+Vraag 10
+Wat is de lengte van de diagonaal van een vierkant met zijdelengte 'a'?
+A) een
+B) 2a
+C) een sqrt(2)
+D) een/2
+Vraag 11
+Welke eigenschap geldt voor alle vierkanten?
+A) Alle hoeken zijn scherp
+B) Diagonalen zijn even lang
+C) Alleen tegenoverliggende zijden zijn gelijk
+D) Alleen aangrenzende zijden zijn gelijk
+Vraag 12
+Wat is een karakteristieke eigenschap van een ruit?
+A) Slechts twee zijden zijn gelijk
+B) Alle zijden zijn even lang
+C) Slechts één paar tegenoverliggende zijden is evenwijdig
+D) Alle hoeken zijn rechte hoeken
+Vraag 13
+Hoe snijden de diagonalen van een ruit elkaar?
+A) Ze zijn even lang
+B) Ze snijden elkaar in een rechte hoek
+C) Ze zijn parallel
+D) Ze kruisen elkaar niet
+Vraag 14
+Wat is de maat van de hoeken die worden gevormd op het punt waar de diagonalen van een ruit elkaar snijden?
+A) 30 graden
+B) 60 graden
+C) 90 graden
+D) 120 graden
+Vraag 15
+In hoeveel congruente driehoeken verdelen de diagonalen de ruit in een ruit?
+EEN) 2
+B) 3
+C) 4
+D) 6
+Vraag 16
+Welke eigenschap geldt voor zowel ruiten als vierkanten?
+A) Alle hoeken zijn 90 graden
+B) Diagonalen snijden elkaar in een rechte hoek
+C) Slechts één paar zijden is evenwijdig
+D) Diagonalen zijn niet gelijk
+Vraag 17
+Wat is de bepalende eigenschap van een parallellogram?
+A) Slechts één paar tegenoverliggende zijden is evenwijdig
+B) Beide paren tegenoverliggende zijden zijn evenwijdig
+C) Alleen aangrenzende zijden zijn gelijk
+D) Alle hoeken zijn rechte hoeken
+Vraag 18
+Wat is de maat van elke binnenhoek in een rechthoek?
+A) 45 graden
+B) 60 graden
+C) 90 graden
+D) 120 graden
+Vraag 19
+Hoe verhouden de diagonalen zich tot elkaar in een rechthoek?
+A) Ze zijn ongelijk
+B) Ze delen elkaar in tweeën en staan ​​loodrecht
+C) Ze zijn parallel
+D) Ze zijn even lang
+Vraag 20
+Welke eigenschap geldt voor zowel rechthoeken als vierkanten?
+A) Alle zijden zijn gelijk
+B) Alle hoeken zijn rechte hoeken
+C) Diagonalen snijden elkaar in een rechte hoek
+D) Slechts één paar zijden is evenwijdig
+Juist!
+Niet correct! aangezien de hoeken gelijk zijn, is het 180/3 = 60.
+Niet correct! Gelijkbenig heeft 2 gelijke hoeken en zijden.
+Niet correct! Een scalene heeft geen gelijke zijden of hoeken.
+Niet correct! Een rechthoekige driehoek heeft een rechte hoek.
+Niet correct! Een scherpe driehoek heeft alleen scherpe hoeken.
+Niet correct! Een stompe driehoek heeft alleen een stompe hoek.
+Niet correct! Alle binnenhoeken van een vierkant zijn 90 graden.
+Niet correct! Een vierkant heeft vier symmetrielijnen.
+Niet correct! Ze snijden elkaar in een hoek van 90 graden.
+Niet correct! zoek de hypotenusa: sqrt(a^2+a^2) = a sqrt(2).
+Niet correct! Alle diagonalen zijn gelijk omdat alle zijden gelijk zijn.
+Niet correct! Ruit heeft, net als een vierkant, alle zijden gelijk.
+Niet correct! ze snijden elkaar in een rechte hoek in graden.
+Niet correct! ze snijden elkaar in een hoek van 90 graden
+Niet correct! vier driehoeken sinds de diagonalen zich in tweeën delen.
+Niet correct! Beide hebben diagonalen die in tweeën snijden op 90 graden.
+Niet correct! het wordt niet voor niets parallellogram genoemd.
+Niet correct! 90 graden als een vierkant
+Niet correct! Ze zijn even lang, maar niet altijd 90 graden.
+Niet correct! Alle hoeken zijn rechte hoeken.

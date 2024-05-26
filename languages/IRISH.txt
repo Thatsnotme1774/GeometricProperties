@@ -1,0 +1,166 @@
+MAOINE GEOMETRIC
+TÚS
+ROGHANNA
+AN SLÍ AMACH
+Scáileán iomlán
+Ceol
+Rún
+Aistrigh
+Teanga
+AR AIS
+Ar Aghaidh
+Triantán
+Triantán Comhshleasach: Tá gach slios ar chomhfhad ag triantán comhshleasach, agus tá gach uillinn inmheánach 60 céim. Triantán Comhchosach: Tá dhá shlios ar comhfhad agus dhá uillinn chomhchosúla ag triantán comhchosach. Triantán Scála: Níl aon sleasa ná uillinneacha cothroma ag triantán scála. Triantán ar Dheas: Tá dronuillinn amháin (90 céim) i dtriantán ceart. De réir na Teoirim Phíotagaráis, tá cearnóg an taobhagán cothrom le suim chearnóg an dá shlios eile. Géarthriantán: Tá a uillinneacha uile níos lú ná 90 céim ag triantán géar. Triantán Maol: Áirítear le triantán maol uillinn amháin atá níos mó ná 90 céim.
+Cearnóg
+Tá gach slios ar chomhfhad ag cearnóg agus tá gach uillinn istigh 90 céim. Déroinneann a trasnáin a chéile go dronuilleach agus tá siad ar comhfhad. Ina theannta sin, tá ceithre líne siméadrachta ag cearnóg.
+Dronuilleog
+Tá sleasa urchomhaireacha ag dronuilleog atá comhionann ar fad, agus tá gach uillinn istigh 90 céim. Tá na trasnáin ar cóimhéid agus déroinneann siad a chéile, agus tá dhá líne shiméadrachta ag an gcruth.
+Rombas
+Tá gach sleasa ar comhfhad agus uillinneacha urchomhaireacha comhionann le rombas. Déroinneann na trasnáin a chéile go dronuilleach agus roinneann siad an rombas ina cheithre thriantán iomchuí.
+Comhthreomharán
+Tá sleasa urchomhaireacha ag comhthreomharán atá ar comhfhad agus comhthreomhar, agus uillinneacha urchomhaireacha ar comhfhad. Déroinneann a trasnáin a chéile.
+QUIZ
+Críochnaigh
+BAILE
+SCÓR
+Ceist 1
+Cad é tomhas gach uillinne istigh i dtriantán comhshleasach?
+A) 45 céim
+B) 60 céim
+C) 90 céim
+D) 120 céim
+Ceist 2
+Cén triantán a bhfuil dhá shlios ar comhfhad agus dhá uillinn chomhthreomhara aige?
+A) Triantán scálach
+B) Triantán comhchosach
+C) Triantán comhshleasach
+D) Triantán ar dheis
+Ceist 3
+Cén triantán nach bhfuil aon sleasa nó uillinneacha cothrom aige?
+A) Triantán scálach
+B) Triantán comhchosach
+C) Triantán comhshleasach
+D) Triantán géar
+Ceist 4
+Cén cineál triantáin a bhfuil dronuillinn amháin aige?
+A) Triantán scálach
+B) Triantán comhchosach
+C) Triantán comhshleasach
+D) Triantán ar dheis
+Ceist 5
+Cén cineál triantáin a bhfuil géar uillinneacha aige?
+A) Triantán scálach
+B) Triantán comhchosach
+C) Triantán comhshleasach
+D) Triantán géar
+Ceist 6
+Cén triantán a bhfuil uillinn maol amháin aige?
+A) Triantán scálach
+B) Triantán comhchosach
+C) Triantán comhshleasach
+D) Triantán maol
+Ceist 7
+Cad é tomhas gach uillinne istigh i gcearnóg?
+A) 45 céim
+B) 60 céim
+C) 90 céim
+D) 120 céim
+Ceist 8
+Cé mhéad líne siméadrachta atá ag cearnóg?
+A)2
+B)4
+C)6
+D)8
+Ceist 9
+I gcearnóg, cén bhaint atá ag na trasnáin lena chéile?
+A) Tá siad éagothrom
+B) Déroinneann siad a chéile agus tá siad ingearach
+C) Tá siad comhthreomhar
+D) Ní thrasnaíonn siad
+Ceist 10
+Cad é fad an trasnáin de chearnóg dar sliosfhad 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Ceist 11
+Cén mhaoin atá fíor do na cearnóga uile?
+A) Tá gach uillinn géar
+B) Tá trasnáin ar comhfhad
+C) Níl ach na sleasa urchomhaireacha cothrom
+D) Níl ach taobhanna cóngaracha cothrom
+Ceist 12
+Cad is airí sainiúil ag rombas?
+A) Níl ach dhá thaobh ar cóimhéid
+B) Tá gach taobh ar comhfhad
+C) Níl ach péire taobhanna urchomhaireacha comhthreomhar
+D) Is dronuillinn iad gach uillinn
+Ceist 13
+Conas a thrasnaíonn trasnáin rombas?
+A) Tá siad comhionann ó thaobh fad
+B) Déroinneann siad a chéile go dronuilleach
+C) Tá siad comhthreomhar
+D) Ní thrasnaíonn siad
+Ceist 14
+Cad é tomhas na n-uillinneacha a fhoirmítear nuair a thrasnaíonn trasnáin rombas?
+A) 30 céim
+B) 60 céim
+C) 90 céim
+D) 120 céim
+Ceist 15
+I rombas, roinneann na trasnáin é ina líon triantán iomchuí?
+A)2
+B)3
+C)4
+D)6
+Ceist 16
+Cén airí atá fíor i gcás rombas agus cearnóga?
+A) Tá gach uillinn 90 céim
+B) Déroinneann trasnáin a chéile go dronuilleach
+C) Níl ach péire sleasa amháin comhthreomhar
+D) Níl trasnáin comhionann
+Ceist 17
+Cad é an t-airí sainithe atá ag comhthreomharán?
+A) Níl ach péire sleasa urchomhaireacha comhthreomhar
+B) Tá an dá phéire sleasa urchomhaireacha comhthreomhar
+C) Níl ach taobhanna cóngaracha cothrom
+D) Is dronuillinn iad gach uillinn
+Ceist 18
+Cad é tomhas gach uillinne istigh i dronuilleog?
+A) 45 céim
+B) 60 céim
+C) 90 céim
+D) 120 céim
+Ceist 19
+I dronuilleog, cén bhaint atá ag na trasnáin lena chéile?
+A) Tá siad éagothrom
+B) Déroinneann siad a chéile agus tá siad ingearach
+C) Tá siad comhthreomhar
+D) Tá siad ar comhfhad
+Ceist 20
+Cén t-airí atá fíor do dhronuilleoga agus do chearnóga araon?
+A) Tá gach taobh cothrom
+B) Is dronuillinn iad gach uillinn
+C) Déroinneann trasnáin a chéile go dronuilleach
+D) Níl ach péire sleasa amháin comhthreomhar
+Ceart!
+mícheart! toisc go bhfuil na huillinneacha ar cóimhéid tá sé 180/3 = 60.
+mícheart! Tá 2 uillinn agus shlios chomhchosúla ag na comhchosacha.
+mícheart! Níl aon sleasa ná uillinneacha cothroma ag scála.
+mícheart! Tá dronuillinn ag triantán dronuilleach.
+mícheart! Níl ach géaruillinneacha ag triantán géar.
+mícheart! Níl ach maoluillinn ag triantán maol.
+mícheart! Tá gach uillinn istigh de chearnóg 90 céim.
+mícheart! Tá ceithre líne shiméadrachta ag cearnóg.
+mícheart! Déroinneann siad ag 90 céim.
+mícheart! faigh an taobhagán: sqrt(a^2+a^2) = a sqrt(2).
+mícheart! Tá gach trasnán ar cóimhéid toisc go bhfuil gach taobh cothrom.
+mícheart! Tá gach taobh ar aon dul le Rhombus, cosúil le cearnóg.
+mícheart! déroinneann siad ag céimeanna dronuillinneacha.
+mícheart! déroinneann siad ag 90 céim
+mícheart! ceithre thriantán ó dhéroinneann na trasnáin.
+mícheart! Tá trasnáin déroinnte ag an dá cheann ag 90 céim.
+mícheart! comhthreomharán a thugtar air ar chúis.
+mícheart! 90 céim cosúil le cearnóg
+mícheart! Tá siad comhionann ar fad ach ní i gcónaí 90 céim.
+mícheart! Is dronuillinn iad gach uillinn.

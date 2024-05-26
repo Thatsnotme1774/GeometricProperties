@@ -1,0 +1,166 @@
+IIPROPATI ZEJometri
+QALA
+UKHETHO
+PHUMA
+Isikrini esiphelele
+Umculo
+Isigqibo
+Guqulela
+Ulwimi
+BUYELA
+OKULANDELAYO
+Unxantathu
+Unxantathu olinganayo: Unxantathu olinganayo unamacala onke anobude obulinganayo, kwaye i-engile nganye yangaphakathi ilinganisa ama-60 degrees. Unxantathu we-Isosceles: Unxantathu we-isosceles unamacala amabini ubude obulinganayo kunye nee-engile ezidibeneyo. Unxantathu weScalene: Unxantathu wesikali akanamacala okanye iiengile ezilinganayo. Unxantathu wasekunene: Unxantathu wasekunene uneengile enye yasekunene (ama-90 degrees). Ngokutsho kweTheorem yePythagorean, isikwere se-hypotenuse silingana nenani lezikwere zamanye amacala amabini. Unxantathu oAcute: Unxantathu obukhali uneengile zawo zonke ezinomlinganiselo ongaphantsi kwama-90 degrees. I-Obtuse Triangle: Unxantathu oyi-obtuse uquka i-engile enye engaphezu kwama-90 degrees.
+Isikwere
+Isikwere sinamacala onke anobude obulinganayo kwaye i-engile nganye yangaphakathi inama-90 degrees. Ii-diagonals zayo zinqumle enye kwenye kwii-engile ezichanekileyo kwaye zinobude obulinganayo. Ukongeza, isikwere sinemigca emine yolingano.
+Uxande
+Uxande unamacala aphikisanayo alingana ngobude, kwaye i-angle nganye yangaphakathi i-90 degrees. I-diagonals ilingana ngobude kwaye idibanisa enye kwenye, kwaye imilo inemigca emibini ye-symmetry.
+Irhombus
+I-rhombus ibonisa onke amacala alinganayo ubude kunye nee-engile ezichaseneyo ezilinganayo. Ii-diagonals zidibanisa enye kwenye kwii-engile ezichanekileyo kwaye zahlula i-rhombus zibe zinxantathu ezine-congruent.
+IParallelogram
+Ipharalelogram inamacala ajongeneyo alinganayo ngobude naxananayo, aneengile ezichaseneyo ezilinganayo. Iidayagonali zayo zicande kabini enye kwenye.
+UMBUZO
+GQIBELA
+EKHAYA
+INQAKU
+Umbuzo woku-1
+Uthini umlinganiselo we-engile nganye yangaphakathi kunxantathu olinganayo?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Umbuzo wesi-2
+Ngowuphi unxantathu onamacala amabini anobude obulinganayo nee-engile ezidibanisayo ezimbini?
+A) Unxantathu wesikali
+B) Unxantathu we-Isosceles
+C) Unxantathu olinganayo
+D) Unxantathu wasekunene
+Umbuzo wesi-3
+Ngowuphi unxantathu ongenamacala okanye iiengile ezilinganayo?
+A) Unxantathu wesikali
+B) Unxantathu we-Isosceles
+C) Unxantathu olinganayo
+D) Unxantathu obukhali
+Umbuzo 4
+Loluphi uhlobo lukanxantathu oneengile enye ekunene?
+A) Unxantathu wesikali
+B) Unxantathu we-Isosceles
+C) Unxantathu olinganayo
+D) Unxantathu wasekunene
+Umbuzo wesi-5
+Loluphi uhlobo lukanxantathu oluneengile ezibukhali?
+A) Unxantathu wesikali
+B) Unxantathu we-Isosceles
+C) Unxantathu olinganayo
+D) Unxantathu obukhali
+Umbuzo wesi-6
+Ngowuphi unxantathu oneengile enye?
+A) Unxantathu wesikali
+B) Unxantathu we-Isosceles
+C) Unxantathu olinganayo
+D) Unxantathu ogobileyo
+Umbuzo 7
+Uthini umlinganiselo we-engile nganye yangaphakathi kwisikwere?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Umbuzo wesi-8
+Mingaphi imigca yolingano macala isikwere?
+A) 2
+B) 4
+C) 6
+D) 8
+Umbuzo 9
+Kwisikwere, ii-diagonals zinxulumana njani enye kwenye?
+A) Azilingani
+B) Zicanda kabini enye kwenye kwaye zi-perpendicular
+C) Ziyahambelana
+D) Azidibanisi
+Umbuzo we-10
+Buthini ubude bediagonal yesikwere esinobude obusecaleni 'a'?
+A) a
+B) 2a
+C) isqrt(2)
+D) a/2
+Umbuzo 11
+Yeyiphi ipropati eyinyani kuzo zonke izikwere?
+A) Zonke ii-engile zibukhali
+B) Iidiagonal ziyalingana ngobude
+C) Ngamacala achaseneyo kuphela alinganayo
+D) Ngamacala ameleneyo kuphela alinganayo
+Umbuzo 12
+Yintoni ipropati ephawulekayo ye-rhombus?
+A) Mabini kuphela amacala alinganayo
+B) Onke amacala anobude obulinganayo
+C) Isibini kuphela samacala achaseneyo ahambelanayo
+D) Zonke ii-engile zii-engile ezichanekileyo
+Umbuzo 13
+Iidiagonals zerhombus ziwela njani?
+A) Ziyalingana ngobude
+B) Zinqunqa ii-engile ezichanekileyo
+C) Ziyahambelana
+D) Azidibanisi
+Umbuzo 14
+Uthini umlinganiselo wee-angles ezenziweyo apho i-diagonals ye-rhombus idibanisa?
+A) 30 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Umbuzo we-15
+Kwi-rhombus, i-diagonals iyahlula ibe bangaphi oonxantathu abadibanisayo?
+A) 2
+B) 3
+C) 4
+D) 6
+Umbuzo 16
+Yeyiphi ipropati eyinyani kuzo zombini iirhombusi kunye nezikwere?
+A) Zonke ii-engile ziyi-90 degrees
+B) Ii-diagonals zinqumle kabini enye kwenye kwii-engile ezichanekileyo
+C) Isibini kuphela samacala ahambelanayo
+D) Iidiagonal azilingani
+Umbuzo 17
+Yintoni ipropathi echazayo yepharalelogram?
+A) Isibini kuphela samacala achaseneyo ahambelanayo
+B) Zombini izibini zamacala ajongeneyo ziyahambelana
+C) Kuphela amacala ameleneyo alinganayo
+D) Zonke ii-engile zii-engile ezichanekileyo
+Umbuzo 18
+Uthini umlinganiselo we-engile nganye yangaphakathi kuxande?
+A) 45 degrees
+B) 60 degrees
+C) 90 degrees
+D) 120 degrees
+Umbuzo we-19
+Kuxande, ii-diagonals zinxulumana njani enye kwenye?
+A) Azilingani
+B) Zicanda kabini enye kwenye kwaye zi-perpendicular
+C) Ziyahambelana
+D) Ziyalingana ngobude
+Umbuzo wama-20
+Yeyiphi ipropathi eyinyani kuzo zombini iingxande kunye nezikwere?
+A) Onke amacala ayalingana
+B) Zonke ii-engile zii-engile ezichanekileyo
+C) Ii-diagonals zinqumle enye kwenye kwii-engile ezichanekileyo
+D) Isibini kuphela samacala ahambelanayo
+Kulungile!
+Ayilunganga! kuba iiengile ziyalingana ngu 180/3 = 60.
+Ayilunganga! I-Isosceles ineengile ezi-2 ezilinganayo kunye namacala.
+Ayilunganga! I-scalene ayinamacala alinganayo okanye ii-engile.
+Ayilunganga! I-engile yasekunene ineengile ekunene.
+Ayilunganga! Unxantathu obukhali uneengile ezibukhali kuphela.
+Ayilunganga! Unxantathu oyi-obtuse une-engile e-obtuse kuphela.
+Ayilunganga! Zonke ii-engile zangaphakathi zesikwere zi-90 degrees.
+Ayilunganga! Isikwere sinemigca emine yolingano macala.
+Ayilunganga! Bacanda kabini ngamadigri angama-90.
+Ayilunganga! fumana ihypotenuse: sqrt(a^2+a^2) = a sqrt(2).
+Ayilunganga! Zonke iidiagonal ziyalingana kuba onke amacala ayalingana.
+Ayilunganga! I-Rhombus, njengesikwere sinamacala onke alinganayo.
+Ayilunganga! bacanda kabini ngee-engile ezichanekileyo.
+Ayilunganga! bacanda kabini ngamadigri angama-90
+Ayilunganga! oonxantathu abane ukususela kwidayagonali bacanda kabini.
+Ayilunganga! Zombini zinediagonal ezicande kabini kumadigri angama-90.
+Ayilunganga! ibizwa ngokuba yiparalelogram ngesizathu.
+Ayilunganga! 90 degrees njengesikwere
+Ayilunganga! Ziyalingana ngobude kodwa azisoloko ziyi-90 degrees.
+Ayilunganga! Zonke iiengile zii-engile ezichanekileyo.

@@ -1,0 +1,166 @@
+SIFAT GEOMETRI
+MULAKAN
+PILIHAN
+KELUAR
+Skrin penuh
+Muzik
+Resolusi
+Terjemah
+Bahasa
+KEMBALI
+SETERUSNYA
+Segi tiga
+Segi Tiga Sama: Segitiga sama mempunyai semua sisi sama panjang, dan setiap sudut pedalaman berukuran 60 darjah. Segitiga Sama Kaki: Segitiga sama kaki mempunyai dua sisi yang sama panjang dan dua sudut yang kongruen. Segitiga Skala: Segitiga skala tidak mempunyai sisi atau sudut yang sama. Segi Tiga Tepat: Segi tiga tepat mempunyai satu sudut tegak (90 darjah). Menurut Teorem Pythagoras, kuasa dua hipotenus adalah sama dengan jumlah kuasa dua dua sisi yang lain. Segitiga Akut: Segitiga akut mempunyai semua sudutnya berukuran kurang daripada 90 darjah. Segitiga Obtuse: Segi tiga tumpul termasuk satu sudut yang lebih besar daripada 90 darjah.
+Segi empat
+Segi empat sama mempunyai semua sisi yang sama panjang dan setiap sudut pedalaman ialah 90 darjah. Diagonalnya membelah antara satu sama lain pada sudut tepat dan sama panjang. Selain itu, segi empat sama mempunyai empat garis simetri.
+segi empat tepat
+Segi empat tepat mempunyai sisi bertentangan yang sama panjang, dan setiap sudut pedalaman ialah 90 darjah. Diagonal adalah sama panjang dan membelah antara satu sama lain, dan bentuknya mempunyai dua garis simetri.
+Ketupat
+Rombus mempunyai semua sisi yang sama panjang dan sudut bertentangan yang sama. Diagonal membelah antara satu sama lain pada sudut tepat dan membahagikan rombus kepada empat segi tiga yang kongruen.
+segi empat selari
+Jajaran selari mempunyai sisi bertentangan yang sama panjang dan selari, dengan sudut bertentangan yang sama. Diagonalnya membelah antara satu sama lain.
+KUIZ
+SELESAI
+RUMAH
+SKOR
+soalan 1
+Apakah ukuran bagi setiap sudut pedalaman dalam segi tiga sama sisi?
+A) 45 darjah
+B) 60 darjah
+C) 90 darjah
+D) 120 darjah
+Soalan 2
+Segitiga yang manakah mempunyai dua sisi yang sama panjang dan dua sudut yang kongruen?
+A) Segitiga skala
+B) Segitiga sama kaki
+C) segi tiga sama sisi
+D) Segitiga kanan
+Soalan 3
+Segi tiga yang manakah tidak mempunyai sisi atau sudut yang sama?
+A) Segitiga skala
+B) Segitiga sama kaki
+C) segi tiga sama sisi
+D) Segitiga akut
+Soalan 4
+Apakah jenis segitiga yang mempunyai satu sudut tegak?
+A) Segitiga skala
+B) Segitiga sama kaki
+C) segi tiga sama sisi
+D) Segitiga kanan
+Soalan 5
+Apakah jenis segitiga yang mempunyai semua sudut lancip?
+A) Segitiga skala
+B) Segitiga sama kaki
+C) segi tiga sama sisi
+D) Segitiga akut
+Soalan 6
+Segi tiga yang manakah mempunyai satu sudut tumpul?
+A) Segitiga skala
+B) Segitiga sama kaki
+C) segi tiga sama sisi
+D) Segitiga tumpul
+Soalan 7
+Apakah ukuran setiap sudut pedalaman dalam segi empat sama?
+A) 45 darjah
+B) 60 darjah
+C) 90 darjah
+D) 120 darjah
+Soalan 8
+Berapakah bilangan garis simetri pada segi empat sama?
+A) 2
+B) 4
+C) 6
+D) 8
+Soalan 9
+Dalam segi empat sama, bagaimanakah pepenjuru berkaitan antara satu sama lain?
+A) Mereka tidak sama rata
+B) Mereka membelah antara satu sama lain dan berserenjang
+C) Mereka selari
+D) Mereka tidak bersilang
+Soalan 10
+Berapakah panjang pepenjuru segi empat sama dengan panjang sisi 'a'?
+A) a
+B) 2a
+C) persegi(2)
+D) a/2
+Soalan 11
+Sifat manakah yang benar untuk semua segi empat sama?
+A) Semua sudut adalah akut
+B) Diagonal adalah sama panjang
+C) Hanya sisi bertentangan adalah sama
+D) Hanya sisi bersebelahan sahaja yang sama
+Soalan 12
+Apakah sifat ciri bagi rombus?
+A) Hanya dua sisi yang sama
+B) Semua sisi adalah sama panjang
+C) Hanya sepasang sisi bertentangan adalah selari
+D) Semua sudut ialah sudut tegak
+Soalan 13
+Bagaimanakah pepenjuru bagi rombus bersilang?
+A) Mereka sama panjang
+B) Mereka membelah antara satu sama lain pada sudut tepat
+C) Mereka selari
+D) Mereka tidak bersilang
+Soalan 14
+Apakah ukuran sudut yang terbentuk di mana pepenjuru bagi rombus bersilang?
+A) 30 darjah
+B) 60 darjah
+C) 90 darjah
+D) 120 darjah
+Soalan 15
+Dalam rombus, pepenjuru membahagikannya kepada berapa banyak segi tiga yang kongruen?
+A) 2
+B) 3
+C) 4
+D) 6
+Soalan 16
+Sifat manakah yang benar untuk kedua-dua belah ketupat dan segi empat sama?
+A) Semua sudut ialah 90 darjah
+B) Diagonal membelah antara satu sama lain pada sudut tegak
+C) Hanya sepasang sisi adalah selari
+D) Diagonal tidak sama
+Soalan 17
+Apakah sifat penentu bagi segi empat selari?
+A) Hanya sepasang sisi bertentangan adalah selari
+B) Kedua-dua pasangan sisi bertentangan adalah selari
+C) Hanya sisi bersebelahan sahaja yang sama
+D) Semua sudut ialah sudut tegak
+Soalan 18
+Apakah ukuran bagi setiap sudut pedalaman dalam segi empat tepat?
+A) 45 darjah
+B) 60 darjah
+C) 90 darjah
+D) 120 darjah
+Soalan 19
+Dalam segi empat tepat, bagaimanakah pepenjuru berkaitan antara satu sama lain?
+A) Mereka tidak sama rata
+B) Mereka membelah antara satu sama lain dan berserenjang
+C) Mereka selari
+D) Mereka sama panjang
+Soalan 20
+Sifat manakah yang benar untuk segi empat tepat dan segi empat sama?
+A) Semua sisi adalah sama
+B) Semua sudut ialah sudut tegak
+C) Diagonal membelah antara satu sama lain pada sudut tegak
+D) Hanya sepasang sisi adalah selari
+Betul!
+tak betul! kerana sudutnya sama maka 180/3 = 60.
+tak betul! Sama kaki mempunyai 2 sudut dan sisi yang sama.
+tak betul! Skala tidak mempunyai sisi atau sudut yang sama.
+tak betul! Segi tiga sudut tegak mempunyai sudut tegak.
+tak betul! Segitiga akut hanya mempunyai sudut akut.
+tak betul! Segi tiga tumpul hanya mempunyai sudut tumpul.
+tak betul! Semua sudut pedalaman segi empat sama ialah 90 darjah.
+tak betul! Segi empat sama mempunyai empat garis simetri.
+tak betul! Mereka membelah dua pada 90 darjah.
+tak betul! cari hipotenus: sqrt(a^2+a^2) = a sqrt(2).
+tak betul! Semua pepenjuru adalah sama kerana semua sisi adalah sama.
+tak betul! Rhombus, seperti segi empat sama mempunyai semua sisi sama.
+tak betul! mereka membahagi dua pada darjah sudut tepat.
+tak betul! mereka membelah dua pada 90 darjah
+tak betul! empat segi tiga sejak pepenjuru terbahagi dua.
+tak betul! Kedua-duanya mempunyai pepenjuru dua belah pada 90 darjah.
+tak betul! ia dipanggil selari dengan sebab.
+tak betul! 90 darjah seperti segi empat sama
+tak betul! Panjangnya sama tetapi tidak selalunya 90 darjah.
+tak betul! Semua sudut adalah sudut tegak.

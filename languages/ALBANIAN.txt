@@ -1,0 +1,166 @@
+VETITË GJEOMETRIKE
+FILLO
+OPSIONE
+DALJE
+Ekran i plotë
+Muzikë
+Rezolucioni
+Përkthejeni
+Gjuhe
+PRAPA
+TJETËR
+Trekëndëshi
+Trekëndëshi barabrinjës: Një trekëndësh barabrinjës ka të gjitha anët me gjatësi të barabartë, dhe çdo kënd i brendshëm mat 60 gradë. Trekëndëshi dykëndësh: Një trekëndësh dykëndësh ka dy brinjë me gjatësi të barabartë dhe dy kënde kongruente. Trekëndëshi i shkallës: Një trekëndësh i shkallëzuar nuk ka brinjë ose kënde të barabarta. Trekëndëshi kënddrejtë: Një trekëndësh kënddrejtë përmban një kënd të drejtë (90 gradë). Sipas teoremës së Pitagorës, katrori i hipotenuzës është i barabartë me shumën e katrorëve të dy anëve të tjera. Trekëndëshi akut: Një trekëndësh i mprehtë i ka të gjitha këndet e tij më pak se 90 gradë. Trekëndëshi i mpirë: Një trekëndësh i mpirë përfshin një kënd që është më i madh se 90 gradë.
+Sheshi
+Një katror ka të gjitha anët me gjatësi të barabartë dhe çdo kënd i brendshëm është 90 gradë. Diagonalet e tij përgjysmojnë njëra-tjetrën në kënde të drejta dhe janë me gjatësi të barabartë. Për më tepër, një katror ka katër vija simetrie.
+Drejtkëndësh
+Një drejtkëndësh ka anët e kundërta që janë të barabarta në gjatësi dhe çdo kënd i brendshëm është 90 gradë. Diagonalet janë të barabarta në gjatësi dhe përgjysmojnë njëra-tjetrën, dhe forma ka dy vija simetrie.
+Rombi
+Një romb përmban të gjitha anët me gjatësi të barabartë dhe kënde të kundërta që janë të barabarta. Diagonalet përgjysmojnë njëra-tjetrën në kënde të drejta dhe e ndajnë rombin në katër trekëndësha kongruentë.
+Paralelogrami
+Një paralelogram ka brinjë të kundërta që janë të barabarta në gjatësi dhe paralele, me kënde të kundërta që janë të barabarta. Diagonalet e tij përgjysmojnë njëra-tjetrën.
+KUIZI
+FUND
+SHTËPI
+REZULTATI
+pyetja 1
+Sa është masa e secilit kënd të brendshëm në një trekëndësh barabrinjës?
+A) 45 gradë
+B) 60 gradë
+C) 90 gradë
+D) 120 gradë
+Pyetja 2
+Cili trekëndësh ka dy brinjë me gjatësi të barabartë dhe dy kënde kongruentë?
+A) Trekëndëshi i shkallës
+B) Trekëndëshi dykëndësh
+C) Trekëndësh barabrinjës
+D) trekëndësh kënddrejtë
+Pyetja 3
+Cili trekëndësh nuk ka brinjë apo kënd të barabartë?
+A) Trekëndëshi i shkallës
+B) Trekëndëshi dykëndësh
+C) Trekëndësh barabrinjës
+D) Trekëndëshi akut
+Pyetja 4
+Cili lloj trekëndëshi ka një kënd të drejtë?
+A) Trekëndëshi i shkallës
+B) Trekëndëshi dykëndësh
+C) Trekëndësh barabrinjës
+D) Trekëndësh kënddrejtë
+Pyetja 5
+Çfarë lloj trekëndëshi ka të gjithë këndet akute?
+A) Trekëndëshi i shkallës
+B) Trekëndëshi dykëndësh
+C) Trekëndësh barabrinjës
+D) Trekëndëshi akut
+Pyetja 6
+Cili trekëndësh ka një kënd të mpirë?
+A) Trekëndëshi i shkallës
+B) Trekëndëshi dykëndësh
+C) Trekëndësh barabrinjës
+D) Trekëndëshi i trashë
+Pyetja 7
+Sa është masa e çdo këndi të brendshëm në një katror?
+A) 45 gradë
+B) 60 gradë
+C) 90 gradë
+D) 120 gradë
+Pyetja 8
+Sa drejtëza simetrie ka një katror?
+A) 2
+B) 4
+C) 6
+D) 8
+Pyetja 9
+Në një katror, ​​si lidhen diagonalet me njëra-tjetrën?
+A) Janë të pabarabarta
+B) Përgjysmojnë njëra-tjetrën dhe janë pingul
+C) Janë paralele
+D) Nuk kryqëzohen
+Pyetja 10
+Sa është gjatësia e diagonales së një katrori me gjatësinë e brinjës 'a'?
+A) a
+B) 2a
+C) një sqrt (2)
+D) a/2
+Pyetja 11
+Cila veti është e vërtetë për të gjitha katrorët?
+A) Të gjitha këndet janë akute
+B) Diagonalet janë të barabarta në gjatësi
+C) Vetëm anët e kundërta janë të barabarta
+D) Vetëm anët ngjitur janë të barabarta
+Pyetja 12
+Cila është vetia karakteristike e rombit?
+A) Vetëm dy anë janë të barabarta
+B) Të gjitha anët janë me gjatësi të barabartë
+C) Vetëm një palë brinjë të kundërta është paralele
+D) Të gjitha këndet janë kënde të drejta
+Pyetja 13
+Si kryqëzohen diagonalet e rombit?
+A) Janë të barabarta në gjatësi
+B) Përgjysmojnë njëra-tjetrën në kënde të drejta
+C) Janë paralele
+D) Nuk kryqëzohen
+Pyetja 14
+Sa është masa e këndeve të formuara ku kryqëzohen diagonalet e rombit?
+A) 30 gradë
+B) 60 gradë
+C) 90 gradë
+D) 120 gradë
+Pyetja 15
+Në një romb, diagonalet e ndajnë atë në sa trekëndësha kongruentë?
+A) 2
+B) 3
+C) 4
+D) 6
+Pyetja 16
+Cila veti është e vërtetë si për rombët ashtu edhe për katrorët?
+A) Të gjitha këndet janë 90 gradë
+B) Diagonalet përgjysmojnë njëra-tjetrën në kënde të drejta
+C) Vetëm një palë brinjë është paralele
+D) Diagonalet nuk janë të barabarta
+Pyetja 17
+Cila është vetia përcaktuese e një paralelogrami?
+A) Vetëm një palë brinjë të kundërta është paralele
+B) Të dy palët e brinjëve të kundërta janë paralele
+C) Vetëm anët ngjitur janë të barabarta
+D) Të gjitha këndet janë kënde të drejta
+Pyetja 18
+Sa është masa e secilit kënd të brendshëm në një drejtkëndësh?
+A) 45 gradë
+B) 60 gradë
+C) 90 gradë
+D) 120 gradë
+Pyetja 19
+Në një drejtkëndësh, si lidhen diagonalet me njëra-tjetrën?
+A) Janë të pabarabarta
+B) Përgjysmojnë njëra-tjetrën dhe janë pingul
+C) Janë paralele
+D) Janë të barabarta në gjatësi
+Pyetja 20
+Cila veti është e vërtetë si për drejtkëndëshat ashtu edhe për katrorët?
+A) Të gjitha anët janë të barabarta
+B) Të gjitha këndet janë kënde të drejta
+C) Diagonalet përgjysmojnë njëra-tjetrën në kënde të drejta
+D) Vetëm një palë brinjë është paralele
+E sakte!
+E pasaktë! meqenëse këndet janë të barabartë është 180/3 = 60.
+E pasaktë! Isosceles ka 2 kënde dhe brinjë të barabarta.
+E pasaktë! Një skalen nuk ka brinjë ose kënde të barabarta.
+E pasaktë! Një trekëndësh me kënd të drejtë ka një kënd të drejtë.
+E pasaktë! Një trekëndësh akut ka vetëm kënde akute.
+E pasaktë! Një trekëndësh i mpirë ka vetëm një kënd të mpirë.
+E pasaktë! Të gjitha këndet e brendshme të një katrori janë 90 gradë.
+E pasaktë! Një katror ka katër vija simetrie.
+E pasaktë! Ata përgjysmohen në 90 gradë.
+E pasaktë! gjeni hipotenuzën: sqrt(a^2+a^2) = a sqrt(2).
+E pasaktë! Të gjitha diagonalet janë të barabarta sepse të gjitha anët janë të barabarta.
+E pasaktë! Rombi, si një katror i ka të gjitha anët të barabarta.
+E pasaktë! ato përgjysmohen në kënde të drejta gradë.
+E pasaktë! ato përgjysmohen në 90 gradë
+E pasaktë! katër trekëndësha pasi diagonalet përgjysmohen.
+E pasaktë! Të dyja kanë diagonale të dyfishta në 90 gradë.
+E pasaktë! quhet paralelogram për një arsye.
+E pasaktë! 90 gradë si një katror
+E pasaktë! Ata janë të barabartë në gjatësi, por jo gjithmonë 90 gradë.
+E pasaktë! Të gjitha këndet janë kënde të drejta.

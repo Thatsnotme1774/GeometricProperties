@@ -1,0 +1,166 @@
+MEETKUNDIGE EIENSKAPPE
+BEGIN
+OPSIES
+VERLAAT
+Volskerm
+Musiek
+Resolusie
+Vertaal
+Taal
+TERUG
+VOLGENDE
+Driehoek
+Gelyksydige Driehoek: 'n Gelyksydige driehoek het alle sye van gelyke lengte, en elke binnehoek meet 60 grade. Gelykbenige driehoek: 'n Gelykbenige driehoek het twee sye van gelyke lengte en twee kongruente hoeke. Skaaldriehoek: 'n Skaaldriehoek het geen sye of hoeke wat gelyk is nie. Regte Driehoek: 'n Regte driehoek het een regte hoek (90 grade). Volgens die Pythagoras-stelling is die kwadraat van die skuinssy gelyk aan die som van die vierkante van die ander twee sye. Skerp driehoek: 'n Skerp driehoek het al sy hoeke wat minder as 90 grade meet. Stompe driehoek: 'n Stompe driehoek sluit een hoek in wat groter as 90 grade is.
+Vierkantig
+'n Vierkant het alle sye van gelyke lengte en elke binnehoek is 90 grade. Sy hoeklyne halveer mekaar reghoekig en is ewe lank. Daarbenewens het 'n vierkant vier lyne van simmetrie.
+Reghoek
+’n Reghoek het teenoorstaande sye wat ewe lank is, en elke binnehoek is 90 grade. Die hoeklyne is ewe lank en halveer mekaar, en die vorm het twee simmetrielyne.
+Ruit
+'n Ruim het alle sye van gelyke lengte en teenoorstaande hoeke wat gelyk is. Die hoeklyne halveer mekaar reghoekig en verdeel die ruit in vier kongruente driehoeke.
+Parallelogram
+'n Parallelogram het teenoorstaande sye wat ewe lank en ewewydig is, met teenoorgestelde hoeke wat gelyk is. Sy hoeklyne halveer mekaar.
+VASVRA
+KLAAR
+TUIS
+TELLING
+Vraag 1
+Wat is die maatstaf van elke binnehoek in 'n gelyksydige driehoek?
+A) 45 grade
+B) 60 grade
+C) 90 grade
+D) 120 grade
+Vraag 2
+Watter driehoek het twee sye van gelyke lengte en twee kongruente hoeke?
+A) Skaal driehoek
+B) Gelykbenige driehoek
+C) Gelyksydige driehoek
+D) Regte driehoek
+Vraag 3
+Watter driehoek het geen sye of hoeke gelyk nie?
+A) Skaal driehoek
+B) Gelykbenige driehoek
+C) Gelyksydige driehoek
+D) Akute driehoek
+Vraag 4
+Watter tipe driehoek het een regte hoek?
+A) Skaal driehoek
+B) Gelykbenige driehoek
+C) Gelyksydige driehoek
+D) Regte driehoek
+Vraag 5
+Watter tipe driehoek het alle hoeke skerp?
+A) Skaal driehoek
+B) Gelykbenige driehoek
+C) Gelyksydige driehoek
+D) Akute driehoek
+Vraag 6
+Watter driehoek het een stomp hoek?
+A) Skaal driehoek
+B) Gelykbenige driehoek
+C) Gelyksydige driehoek
+D) Stompe driehoek
+Vraag 7
+Wat is die maat van elke binnehoek in 'n vierkant?
+A) 45 grade
+B) 60 grade
+C) 90 grade
+D) 120 grade
+Vraag 8
+Hoeveel simmetrielyne het 'n vierkant?
+A) 2
+B) 4
+C) 6
+D) 8
+Vraag 9
+Hoe hou die hoeklyne in 'n vierkant verband met mekaar?
+A) Hulle is ongelyk
+B) Hulle halveer mekaar en is loodreg
+C) Hulle is parallel
+D) Hulle sny nie
+Vraag 10
+Wat is die lengte van die diagonaal van 'n vierkant met sylengte 'a'?
+A) a
+B) 2a
+C) 'n sqrt(2)
+D) a/2
+Vraag 11
+Watter eienskap is waar vir alle vierkante?
+A) Alle hoeke is skerp
+B) Diagonale is ewe lank
+C) Slegs teenoorstaande sye is gelyk
+D) Slegs aangrensende sye is gelyk
+Vraag 12
+Wat is 'n kenmerkende eienskap van 'n ruit?
+A) Slegs twee sye is gelyk
+B) Alle sye is ewe lank
+C) Slegs een paar teenoorstaande sye is parallel
+D) Alle hoeke is regte hoeke
+Vraag 13
+Hoe sny die hoeklyne van 'n ruit?
+A) Hulle is ewe lank
+B) Hulle halveer mekaar reghoekig
+C) Hulle is parallel
+D) Hulle sny nie
+Vraag 14
+Wat is die maat van die hoeke wat gevorm word waar die hoeklyne van 'n ruit sny?
+A) 30 grade
+B) 60 grade
+C) 90 grade
+D) 120 grade
+Vraag 15
+In 'n ruit verdeel die hoeklyne dit in hoeveel kongruente driehoeke?
+A) 2
+B) 3
+C) 4
+D) 6
+Vraag 16
+Watter eienskap is waar vir beide ruite en vierkante?
+A) Alle hoeke is 90 grade
+B) Diagonale halveer mekaar reghoekig
+C) Slegs een paar sye is parallel
+D) Diagonale is nie gelyk nie
+Vraag 17
+Wat is die definiërende eienskap van 'n parallelogram?
+A) Slegs een paar teenoorstaande sye is parallel
+B) Beide pare teenoorstaande sye is parallel
+C) Slegs aangrensende sye is gelyk
+D) Alle hoeke is regte hoeke
+Vraag 18
+Wat is die maat van elke binnehoek in 'n reghoek?
+A) 45 grade
+B) 60 grade
+C) 90 grade
+D) 120 grade
+Vraag 19
+Hoe hou die hoeklyne in 'n reghoek verband met mekaar?
+A) Hulle is ongelyk
+B) Hulle halveer mekaar en is loodreg
+C) Hulle is parallel
+D) Hulle is ewe lank
+Vraag 20
+Watter eienskap is waar vir beide reghoeke en vierkante?
+A) Alle sye is gelyk
+B) Alle hoeke is regte hoeke
+C) Diagonale halveer mekaar reghoekig
+D) Slegs een paar sye is parallel
+Korrek!
+Verkeerd! aangesien die hoeke gelyk is, is dit 180/3 = 60.
+Verkeerd! Gelykbenig het 2 gelyke hoeke en sye.
+Verkeerd! 'n Skaal het geen gelyke sye of hoeke nie.
+Verkeerd! 'n Reghoekige driehoek het 'n regte hoek.
+Verkeerd! 'n Skerp driehoek het net skerp hoeke.
+Verkeerd! 'n Stomp driehoek het net 'n stomp hoek.
+Verkeerd! Alle binnehoeke van 'n vierkant is 90 grade.
+Verkeerd! 'n Vierkant het vier simmetrielyne.
+Verkeerd! Hulle halveer teen 90 grade.
+Verkeerd! vind die skuinssy: sqrt(a^2+a^2) = a sqrt(2).
+Verkeerd! Alle hoeklyne is gelyk omdat alle sye gelyk is.
+Verkeerd! Rombus, soos 'n vierkant het alle sye gelyk.
+Verkeerd! hulle halveer teen reghoekige grade.
+Verkeerd! hulle halveer teen 90 grade
+Verkeerd! vier driehoeke sedert die hoeklyne halveer.
+Verkeerd! Albei het diagonale halveer teen 90 grade.
+Verkeerd! dit word vir 'n rede parallelogram genoem.
+Verkeerd! 90 grade soos 'n vierkant
+Verkeerd! Hulle is ewe lank maar nie altyd 90 grade nie.
+Verkeerd! Alle hoeke is regte hoeke.

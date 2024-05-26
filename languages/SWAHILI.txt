@@ -1,0 +1,166 @@
+MALI ZA JIometri
+ANZA
+CHAGUO
+UTGÅNG
+Skrini nzima
+Muziki
+Azimio
+Tafsiri
+Lugha
+NYUMA
+INAYOFUATA
+Pembetatu
+Pembetatu ya Equilateral: Pembetatu ya usawa ina pande zote za urefu sawa, na kila pembe ya ndani hupima digrii 60. Pembetatu ya Isosceles: Pembetatu ya isosceles ina pande mbili za urefu sawa na pembe mbili za mshikamano. Pembetatu ya Scalene: Pembetatu ya mizani haina pande au pembe ambazo ni sawa. Pembetatu ya Kulia: Pembetatu ya kulia ina pembe moja ya kulia (digrii 90). Kulingana na nadharia ya Pythagorean, mraba wa hypotenuse ni sawa na jumla ya miraba ya pande zingine mbili. Pembetatu Mkali: Pembetatu ya papo hapo ina pembe zake zote zenye chini ya digrii 90. Pembetatu ya Obtuse: Pembetatu iliyofifia inajumuisha pembe moja ambayo ni kubwa kuliko digrii 90.
+Mraba
+Mraba ina pande zote za urefu sawa na kila pembe ya ndani ni digrii 90. Milalo yake hugawanyika kila mmoja kwa pembe za kulia na zina urefu sawa. Zaidi ya hayo, mraba una mistari minne ya ulinganifu.
+Mstatili
+Mstatili una pande tofauti ambazo ni sawa kwa urefu, na kila pembe ya mambo ya ndani ni digrii 90. Ulalo ni sawa kwa urefu na hutengana kila mmoja, na sura ina mistari miwili ya ulinganifu.
+Rhombus
+Rombus ina pande zote za urefu sawa na pembe tofauti ambazo ni sawa. Ulalo hugawanyika kila mmoja kwa pembe za kulia na kugawanya rhombus katika pembetatu nne zinazofanana.
+Parallelogram
+Sambamba ina pande tofauti ambazo ni sawa kwa urefu na sambamba, na pembe tofauti ambazo ni sawa. Milalo yake hugawanyika kila mmoja.
+QUIZ
+MALIZA
+NYUMBANI
+Alama
+swali 1
+Ni kipimo gani cha kila pembe ya mambo ya ndani katika pembetatu ya usawa?
+A) digrii 45
+B) digrii 60
+C) digrii 90
+D) digrii 120
+Swali la 2
+Je, ni pembetatu gani iliyo na pande mbili za urefu sawa na pembe mbili zinazofanana?
+A) Pembetatu ya ukubwa
+B) Pembetatu ya isosceles
+C) Pembetatu ya usawa
+D) Pembetatu ya kulia
+Swali la 3
+Ni pembetatu gani isiyo na pande au pembe sawa?
+A) Pembetatu ya ukubwa
+B) Pembetatu ya isosceles
+C) Pembetatu ya usawa
+D) Pembetatu ya papo hapo
+Swali la 4
+Ni aina gani ya pembetatu iliyo na pembe moja ya kulia?
+A) Pembetatu ya ukubwa
+B) Pembetatu ya isosceles
+C) Pembetatu ya usawa
+D) Pembetatu ya kulia
+Swali la 5
+Ni aina gani ya pembetatu ina pembe zote zenye ukali?
+A) Pembetatu ya ukubwa
+B) Pembetatu ya isosceles
+C) Pembetatu ya usawa
+D) Pembetatu ya papo hapo
+Swali la 6
+Ni pembetatu gani iliyo na pembe moja butu?
+A) Pembetatu ya ukubwa
+B) Pembetatu ya isosceles
+C) Pembetatu ya usawa
+D) Pembetatu ya nyuma
+Swali la 7
+Ni kipimo gani cha kila pembe ya mambo ya ndani katika mraba?
+A) digrii 45
+B) digrii 60
+C) digrii 90
+D) digrii 120
+Swali la 8
+Je, mraba ina mistari mingapi ya ulinganifu?
+A) 2
+B) 4
+C) 6
+D) 8
+Swali la 9
+Katika mraba, diagonal zinahusianaje?
+A) Hawana usawa
+B) Zinatofautiana kila mmoja na ziko pembezoni
+C) Zinalingana
+D) Haziingiliani
+Swali la 10
+Urefu wa ulalo wa mraba wenye urefu wa upande 'a' ni upi?
+A) a
+B) 2a
+C) sqrt (2)
+D) a/2
+Swali la 11
+Ni mali gani ambayo ni kweli kwa miraba yote?
+A) Pembe zote ni za papo hapo
+B) Diagonal ni sawa kwa urefu
+C) Pande zinazopingana tu ndizo zinazolingana
+D) Pande zilizo karibu tu ndizo zinazolingana
+Swali la 12
+Ni mali gani ya tabia ya rhombus?
+A) Pande mbili pekee ndizo zinazolingana
+B) Pande zote zina urefu sawa
+C) Jozi moja tu ya pande tofauti ni sambamba
+D) Pembe zote ni pembe za kulia
+Swali la 13
+Je, diagonals ya rhombus huingilianaje?
+A) Wana urefu sawa
+B) Wanagawanya kila mmoja kwa pembe za kulia
+C) Zinalingana
+D) Haziingiliani
+Swali la 14
+Je, ni kipimo gani cha pembe zinazoundwa ambapo diagonals ya rhombus huingiliana?
+A) digrii 30
+B) digrii 60
+C) digrii 90
+D) digrii 120
+Swali la 15
+Katika rhombus, diagonal huigawanya katika pembetatu ngapi za mshikamano?
+A) 2
+B) 3
+C) 4
+D) 6
+Swali la 16
+Ni mali gani ni kweli kwa rhombusi na miraba?
+A) Pembe zote ni digrii 90
+B) Milalo hugawanyika kila mmoja kwa pembe za kulia
+C) Jozi moja tu ya pande ni sambamba
+D) Diagonal si sawa
+Swali la 17
+Ni nini sifa ya kufafanua ya parallelogram?
+A) Jozi moja tu ya pande tofauti ni sambamba
+B) Jozi zote mbili za pande tofauti zinalingana
+C) Pande zilizo karibu tu ndizo zinazolingana
+D) Pembe zote ni pembe za kulia
+Swali la 18
+Ni kipimo gani cha kila pembe ya mambo ya ndani katika mstatili?
+A) digrii 45
+B) digrii 60
+C) digrii 90
+D) digrii 120
+Swali la 19
+Katika mstatili, ni jinsi gani diagonal inahusiana?
+A) Hawana usawa
+B) Zinatofautiana kila mmoja na ziko pembezoni
+C) Zinalingana
+D) Wana urefu sawa
+Swali la 20
+Ni mali gani ambayo ni kweli kwa mistatili na miraba?
+A) Pande zote ni sawa
+B) Pembe zote ni pembe za kulia
+C) Milalo kugawanyika katika pembe za kulia
+D) Jozi moja tu ya pande ni sambamba
+Sahihi!
+Si sahihi! kwani pembe ni sawa ni 180/3 = 60.
+Si sahihi! Isosceles ina pembe 2 sawa na pande.
+Si sahihi! Mizani haina pande au pembe sawa.
+Si sahihi! Pembetatu ya pembe ya kulia ina pembe ya kulia.
+Si sahihi! Pembetatu ya papo hapo ina pembe za papo hapo tu.
+Si sahihi! Pembetatu ya buti ina pembe ya butu pekee.
+Si sahihi! Pembe zote za ndani za mraba ni digrii 90.
+Si sahihi! Mraba ina mistari minne ya ulinganifu.
+Si sahihi! Wanagawanyika kwa digrii 90.
+Si sahihi! pata hypotenuse: sqrt(a^2+a^2) = sqrt(2).
+Si sahihi! Ulalo wote ni sawa kwa sababu pande zote ni sawa.
+Si sahihi! Rhombus, kama mraba ina pande zote sawa.
+Si sahihi! wanagawanyika katika digrii za pembe za kulia.
+Si sahihi! wanagawanyika kwa digrii 90
+Si sahihi! pembetatu nne tangu diagonal kugawanywa mara mbili.
+Si sahihi! Zote mbili zina diagonal zilizogawanywa katika digrii 90.
+Si sahihi! inaitwa parallelogram kwa sababu.
+Si sahihi! digrii 90 kama mraba
+Si sahihi! Urefu wao ni sawa, lakini sio digrii 90 kila wakati.
+Si sahihi! Pembe zote ni pembe za kulia.

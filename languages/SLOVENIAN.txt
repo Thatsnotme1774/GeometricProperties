@@ -1,0 +1,166 @@
+GEOMETRIJSKE LASTNOSTI
+START
+OPCIJE
+IZHOD
+Celozaslonski način
+Glasba
+Resolucija
+Prevesti
+Jezik
+NAZAJ
+NASLEDNJI
+Trikotnik
+Enakostranični trikotnik: Enakostranični trikotnik ima vse stranice enako dolge in vsak notranji kot meri 60 stopinj. Enakokraki trikotnik: Enakokraki trikotnik ima dve strani enako dolge in dva skladna kota. Trikotnik skale: trikotnik skale nima enakih stranic ali kotov. Pravokotni trikotnik: Pravokotni trikotnik ima en pravi kot (90 stopinj). Po Pitagorejskem izreku je kvadrat hipotenuze enak vsoti kvadratov drugih dveh stranic. Ostrokotni trikotnik: Vsi koti ostrokotnega trikotnika merijo manj kot 90 stopinj. Tupi trikotnik: Tupi trikotnik vključuje en kot, ki je večji od 90 stopinj.
+kvadrat
+Kvadrat ima vse stranice enako dolge in vsak notranji kot je 90 stopinj. Njegove diagonale se medsebojno razpolavljajo pod pravim kotom in so enako dolge. Poleg tega ima kvadrat štiri simetrične črte.
+Pravokotnik
+Pravokotnik ima nasprotne stranice, ki so enake dolžine, vsak notranji kot pa je 90 stopinj. Diagonali sta enaki po dolžini in se razpolovita, oblika pa ima dve simetrični črti.
+Romb
+Romb ima vse stranice enako dolge in nasprotne kote, ki so enaki. Diagonali se pravokotno razpolovita in delita romb na štiri skladne trikotnike.
+Paralelogram
+Paralelogram ima nasprotne stranice, ki so enake dolžine in vzporedne, z nasprotnimi koti, ki so enaki. Njene diagonale se med seboj razpolavljajo.
+KVIZ
+KONČAJ
+DOMOV
+TOČKA
+Vprašanje 1
+Kakšna je mera vsakega notranjega kota v enakostraničnem trikotniku?
+A) 45 stopinj
+B) 60 stopinj
+C) 90 stopinj
+D) 120 stopinj
+2. vprašanje
+Kateri trikotnik ima dve enako dolgi strani in dva enaka kota?
+A) Skalni trikotnik
+B) Enakokraki trikotnik
+C) Enakostranični trikotnik
+D) Pravokotni trikotnik
+3. vprašanje
+Kateri trikotnik nima enakih stranic ali kotov?
+A) Skalni trikotnik
+B) Enakokraki trikotnik
+C) Enakostranični trikotnik
+D) Ostrokotni trikotnik
+4. vprašanje
+Katera vrsta trikotnika ima en pravi kot?
+A) Skalni trikotnik
+B) Enakokraki trikotnik
+C) Enakostranični trikotnik
+D) Pravokotni trikotnik
+5. vprašanje
+Pri kateri vrsti trikotnika so vsi koti ostri?
+A) Skalni trikotnik
+B) Enakokraki trikotnik
+C) Enakostranični trikotnik
+D) Ostrokotni trikotnik
+6. vprašanje
+Kateri trikotnik ima en top kot?
+A) Skalni trikotnik
+B) Enakokraki trikotnik
+C) Enakostranični trikotnik
+D) Topokotni trikotnik
+7. vprašanje
+Kakšna je mera vsakega notranjega kota v kvadratu?
+A) 45 stopinj
+B) 60 stopinj
+C) 90 stopinj
+D) 120 stopinj
+8. vprašanje
+Koliko simetričnih črt ima kvadrat?
+A) 2
+B) 4
+C) 6
+D) 8
+vprašanje 9
+Kako so diagonale v kvadratu povezane med seboj?
+A) So neenaki
+B) Med seboj se razpolovita in sta pravokotna
+C) Sta vzporedna
+D) Ne sekata se
+vprašanje 10
+Kolikšna je dolžina diagonale kvadrata s stranico 'a'?
+A) a
+B) 2a
+C) sqrt (2)
+D) a/2
+vprašanje 11
+Katera lastnost velja za vse kvadrate?
+A) Vsi koti so ostri
+B) Diagonali sta enako dolgi
+C) Samo nasprotni strani sta enaki
+D) Enaki sta samo sosednji stranici
+vprašanje 12
+Kaj je značilna lastnost romba?
+A) Samo dve stranici sta enaki
+B) Vse stranice so enako dolge
+C) Le en par nasprotnih stranic je vzporeden
+D) Vsi koti so pravi koti
+vprašanje 13
+Kako se sekata diagonali romba?
+A) Po dolžini sta enaki
+B) Med seboj se razpolovita pod pravim kotom
+C) Sta vzporedna
+D) Ne sekata se
+14. vprašanje
+Kakšna je mera kotov, ki nastanejo, kjer se sekata diagonali romba?
+A) 30 stopinj
+B) 60 stopinj
+C) 90 stopinj
+D) 120 stopinj
+15. vprašanje
+Na koliko skladnih trikotnikov ga delijo diagonale v rombu?
+A) 2
+B) 3
+C) 4
+D) 6
+16. vprašanje
+Katera lastnost velja tako za romb kot za kvadrat?
+A) Vsi koti so 90 stopinj
+B) Diagonale se med seboj pravokotno razpolavljajo
+C) Le en par stranic je vzporeden
+D) Diagonali nista enaki
+17. vprašanje
+Kaj je značilna lastnost paralelograma?
+A) Le en par nasprotnih stranic je vzporeden
+B) Oba para nasprotnih stranic sta vzporedna
+C) Enaki sta samo sosednji stranici
+D) Vsi koti so pravi koti
+18. vprašanje
+Kakšna je mera vsakega notranjega kota v pravokotniku?
+A) 45 stopinj
+B) 60 stopinj
+C) 90 stopinj
+D) 120 stopinj
+vprašanje 19
+Kako so diagonale med seboj povezane v pravokotniku?
+A) So neenaki
+B) Med seboj se razpolovita in sta pravokotna
+C) Sta vzporedna
+D) Po dolžini sta enaki
+20. vprašanje
+Katera lastnost velja tako za pravokotnike kot za kvadrate?
+A) Vse stranice so enake
+B) Vsi koti so pravi koti
+C) Diagonale se med seboj pravokotno razpolavljajo
+D) Samo en par stranic je vzporeden
+Pravilno!
+Napačno! ker sta kota enaka, je 180/3 = 60.
+Napačno! Enakokraki ima 2 enaka kota in stranice.
+Napačno! Skala nima enakih stranic ali kotov.
+Napačno! Pravokotni trikotnik ima pravi kot.
+Napačno! Ostrokotni trikotnik ima samo ostre kote.
+Napačno! Tupi trikotnik ima samo top kot.
+Napačno! Vsi notranji koti kvadrata so 90 stopinj.
+Napačno! Kvadrat ima štiri simetrične črte.
+Napačno! Razpolovijo se pod kotom 90 stopinj.
+Napačno! poiščite hipotenuzo: sqrt(a^2+a^2) = a sqrt(2).
+Napačno! Vse diagonale so enake, ker so vse stranice enake.
+Napačno! Romb, tako kot kvadrat, ima vse stranice enake.
+Napačno! razpolovijo pod pravim kotom stopinj.
+Napačno! razpolavljajo pod kotom 90 stopinj
+Napačno! štirje trikotniki, saj se diagonali razpolovita.
+Napačno! Oba imata diagonali razpolovljeni pod kotom 90 stopinj.
+Napačno! z razlogom se imenuje paralelogram.
+Napačno! 90 stopinj kot kvadrat
+Napačno! Po dolžini sta enaki, vendar ne vedno 90 stopinj.
+Napačno! Vsi koti so pravi koti.

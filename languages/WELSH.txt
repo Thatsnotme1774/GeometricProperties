@@ -1,0 +1,166 @@
+EIDDO GEOMETRIG
+DECHRAU
+OPSIYNAU
+YMADAEL
+Sgrin llawn
+Cerddoriaeth
+Datrysiad
+Cyfieithwch
+Iaith
+CEFN
+NESAF
+Triongl
+Triongl hafalochrog: Mae gan driongl hafalochrog bob ochr o hyd cyfartal, ac mae pob ongl fewnol yn mesur 60 gradd. Triongl Isosgeles: Mae gan driongl isosgeles ddwy ochr o hyd cyfartal a dwy ongl gyfath. Triongl Graddfa: Nid oes gan driongl scalene unrhyw ochrau nac onglau sy'n hafal. Triongl De: Mae triongl sgwâr yn cynnwys un ongl sgwâr (90 gradd). Yn ôl y Theorem Pythagorean, mae sgwâr yr hypotenws yn hafal i swm sgwariau'r ddwy ochr arall. Triongl Acíwt: Mae gan driongl acíwt ei holl onglau yn mesur llai na 90 gradd. Triongl aflem: Mae triongl aflem yn cynnwys un ongl sy'n fwy na 90 gradd.
+Sgwâr
+Mae gan sgwâr bob ochr o hyd cyfartal ac mae pob ongl fewnol yn 90 gradd. Mae ei groeslinau yn haneru ei gilydd ar onglau sgwâr ac maent o hyd cyfartal. Yn ogystal, mae gan sgwâr bedair llinell cymesuredd.
+Petryal
+Mae gan betryal ochrau dirgroes sy'n hafal o ran hyd, ac mae pob ongl fewnol yn 90 gradd. Mae'r croeslinau yn hafal o ran hyd ac yn haneru ei gilydd, ac mae gan y siâp ddwy linell cymesuredd.
+Rhombus
+Mae rhombws yn cynnwys pob ochr o hyd cyfartal ac onglau dirgroes sy'n hafal. Mae'r croeslinau'n haneru ei gilydd ar ongl sgwâr ac yn rhannu'r rhombws yn bedwar triongl cyfath.
+Paralelogram
+Mae gan baralelogram ochrau dirgroes sy'n hafal o ran hyd ac yn baralel, gydag onglau dirgroes sy'n hafal. Mae ei letraws yn haneru ei gilydd.
+CWIS
+GORFFEN
+CARTREF
+SGÔR
+Cwestiwn 1
+Beth yw mesuriad pob ongl fewnol mewn triongl hafalochrog?
+A) 45 gradd
+B) 60 gradd
+C) 90 gradd
+D) 120 gradd
+Cwestiwn 2
+Pa driongl sydd â dwy ochr o hyd cyfartal a dwy ongl gyfath?
+A) triongl Scalene
+B) Triongl isosgeles
+C) triongl hafalochrog
+D) Triongl de
+Cwestiwn 3
+Pa driongl sydd heb unrhyw ochrau neu onglau yn hafal?
+A) triongl Scalene
+B) Triongl isosgeles
+C) triongl hafalochrog
+D) Triongl llym
+Cwestiwn 4
+Pa fath o driongl sydd ag un ongl sgwâr?
+A) triongl Scalene
+B) Triongl isosgeles
+C) triongl hafalochrog
+D) Triongl de
+Cwestiwn 5
+Pa fath o driongl sydd â phob ongl aciwt?
+A) triongl Scalene
+B) Triongl isosgeles
+C) triongl hafalochrog
+D) Triongl llym
+Cwestiwn 6
+Pa driongl sydd ag un ongl aflem?
+A) triongl Scalene
+B) Triongl isosgeles
+C) triongl hafalochrog
+D) Triongl aflem
+Cwestiwn 7
+Beth yw mesur pob ongl fewnol mewn sgwâr?
+A) 45 gradd
+B) 60 gradd
+C) 90 gradd
+D) 120 gradd
+Cwestiwn 8
+Sawl llinell cymesuredd sydd gan sgwâr?
+A)2
+B)4
+C) 6
+D)8
+Cwestiwn 9
+Mewn sgwâr, sut mae'r croeslinau'n perthyn i'w gilydd?
+A) Maent yn anghyfartal
+B) Maent yn haneru ei gilydd ac yn berpendicwlar
+C) Maent yn gyfochrog
+D) Nid ydynt yn croestorri
+Cwestiwn 10
+Beth yw hyd croeslin sgwâr gyda hyd ochr 'a'?
+A) a
+B) 2a
+C) sgwrt(2)
+D) a/2
+Cwestiwn 11
+Pa eiddo sy'n wir ar gyfer pob sgwâr?
+A) Mae pob ongl yn llym
+B) Mae croeslinau yn hafal o ran hyd
+C) Dim ond ochrau cyferbyn sy'n gyfartal
+D) Dim ond ochrau cyfagos sy'n gyfartal
+Cwestiwn 12
+Beth yw priodwedd nodweddiadol rhombws?
+A) Dim ond dwy ochr sy'n gyfartal
+B) Mae pob ochr yr un hyd
+C) Dim ond un pâr o ochrau cyferbyn sy'n gyfochrog
+D) Mae pob ongl yn onglau sgwâr
+Cwestiwn 13
+Sut mae croeslinau rhombws yn croestorri?
+A) Maent yn hafal o ran hyd
+B) Maen nhw'n haneru ei gilydd ar ongl sgwâr
+C) Maent yn gyfochrog
+D) Nid ydynt yn croestorri
+Cwestiwn 14
+Beth yw mesur yr onglau sy'n cael eu ffurfio lle mae croeslinau rhombws yn croestorri?
+A) 30 gradd
+B) 60 gradd
+C) 90 gradd
+D) 120 gradd
+Cwestiwn 15
+Mewn rhombws, mae'r croeslinau yn ei rannu'n sawl triongl cyfath?
+A)2
+B)3
+C) 4
+D)6
+Cwestiwn 16
+Pa briodwedd sy'n wir ar gyfer rhombuses a sgwariau?
+A) Mae pob ongl yn 90 gradd
+B) Mae croeslinau yn haneru ei gilydd ar ongl sgwâr
+C) Dim ond un pâr o ochrau sy'n gyfochrog
+D) Nid yw croeslinau yn gyfartal
+Cwestiwn 17
+Beth yw priodwedd diffiniol paralelogram?
+A) Dim ond un pâr o ochrau cyferbyn sy'n gyfochrog
+B) Mae'r ddau bâr o ochrau cyferbyn yn gyfochrog
+C) Dim ond ochrau cyfagos sy'n gyfartal
+D) Mae pob ongl yn onglau sgwâr
+Cwestiwn 18
+Beth yw mesur pob ongl fewnol mewn petryal?
+A) 45 gradd
+B) 60 gradd
+C) 90 gradd
+D) 120 gradd
+Cwestiwn 19
+Mewn petryal, sut mae'r croeslinau'n perthyn i'w gilydd?
+A) Maent yn anghyfartal
+B) Maent yn haneru ei gilydd ac yn berpendicwlar
+C) Maent yn gyfochrog
+D) Maent yn hafal o ran hyd
+Cwestiwn 20
+Pa briodwedd sy'n wir ar gyfer petryalau a sgwariau?
+A) Mae pob ochr yn gyfartal
+B) Mae pob ongl yn onglau sgwâr
+C) Mae croeslinau yn haneru ei gilydd ar ongl sgwâr
+D) Dim ond un pâr o ochrau sy'n gyfochrog
+Cywir!
+Anghywir! gan fod yr onglau yn hafal mae'n 180/3 = 60.
+Anghywir! Mae gan isosgeles 2 onglau ac ochrau cyfartal.
+Anghywir! Nid oes gan glorian unrhyw ochrau nac onglau cyfartal.
+Anghywir! Mae gan drinagl ongl sgwâr ongl sgwâr.
+Anghywir! Dim ond onglau llym sydd gan driongl acíwt.
+Anghywir! Dim ond ongl aflem sydd gan driongl aflem.
+Anghywir! Mae holl onglau mewnol sgwâr yn 90 gradd.
+Anghywir! Mae gan sgwâr bedair llinell cymesuredd.
+Anghywir! Maent yn haneru ar 90 gradd.
+Anghywir! darganfyddwch yr hypotenws: sqrt(a^2+a^2) = sqrt(2).
+Anghywir! Mae pob croeslin yn hafal oherwydd bod pob ochr yn gyfartal.
+Anghywir! Mae gan Rhombus, fel sgwâr, bob ochr yn hafal.
+Anghywir! maent yn haneru ar raddau ongl sgwâr.
+Anghywir! maent yn haneru ar 90 gradd
+Anghywir! pedwar triongl ers i'r croeslinau haneru.
+Anghywir! Mae gan y ddau groeslin yn haneru ar 90 gradd.
+Anghywir! paralelogram yw'r enw arno am reswm.
+Anghywir! 90 gradd fel sgwâr
+Anghywir! Maent yn gyfartal o ran hyd ond nid bob amser yn 90 gradd.
+Anghywir! Mae pob ongl yn onglau sgwâr.

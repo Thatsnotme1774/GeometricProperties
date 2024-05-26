@@ -1,0 +1,166 @@
+GEOMETRIK XUSUSIYATLAR
+START
+VARIANTLAR
+CHIQISH
+To'liq ekran
+Musiqa
+Rezolyutsiya
+Tarjima
+Til
+ORQA
+KEYINGISI
+Uchburchak
+Teng tomonli uchburchak: Teng tomonli uchburchakning barcha tomonlari teng uzunlikka ega va har bir ichki burchak 60 darajaga teng. Izosceles uchburchagi: Teng yon tomonli uchburchakning uzunligi bir xil bo'lgan ikki tomoni va ikkita mos burchakka ega. Skalenli uchburchak: Masshtabli uchburchakning teng tomonlari yoki burchaklari yo'q. To'g'ri uchburchak: To'g'ri uchburchakda bitta to'g'ri burchak (90 daraja) mavjud. Pifagor teoremasiga ko'ra, gipotenuzaning kvadrati boshqa ikki tomonning kvadratlari yig'indisiga teng. O'tkir uchburchak: O'tkir uchburchakning barcha burchaklari 90 darajadan kichik bo'ladi. Ommaviy uchburchak: O'tkir uchburchak 90 darajadan katta bo'lgan bitta burchakni o'z ichiga oladi.
+Kvadrat
+Kvadratning barcha tomonlari bir xil uzunlikda va har bir ichki burchak 90 daraja. Uning diagonallari bir-birini to'g'ri burchak ostida ikkiga bo'ladi va bir xil uzunlikda. Bundan tashqari, kvadrat to'rtta simmetriya chizig'iga ega.
+To'rtburchak
+To'rtburchakning qarama-qarshi tomonlari bor, ularning uzunligi teng va har bir ichki burchak 90 daraja. Diagonallar uzunligi bo'yicha teng va bir-birini ikkiga bo'ladi va shakl ikkita simmetriya chizig'iga ega.
+Romb
+Rombning uzunligi bir xil bo'lgan barcha tomonlari va qarama-qarshi burchaklari tengdir. Diagonallar bir-birini to'g'ri burchak ostida ikkiga bo'ladi va rombni to'rtta mos keladigan uchburchakka bo'ladi.
+Paralelogramma
+Paralelogrammaning qarama-qarshi tomonlari teng uzunlik va parallel, qarama-qarshi burchaklari esa teng. Uning diagonallari bir-birini ikkiga bo'ladi.
+QUIZ
+TUGASH
+UY
+XOL
+Savol 1
+Teng yonli uchburchakdagi har bir ichki burchakning o‘lchami nimaga teng?
+A) 45 daraja
+B) 60 daraja
+C) 90 daraja
+D) 120 daraja
+2-savol
+Qaysi uchburchakning ikki tomoni teng uzunlikdagi va ikkita teng burchakli?
+A) Masshtabli uchburchak
+B) Teng yon tomonli uchburchak
+C) Teng tomonli uchburchak
+D) To‘g‘ri burchakli uchburchak
+3-savol
+Qaysi uchburchakning tomonlari ham, burchaklari ham teng emas?
+A) Masshtabli uchburchak
+B) Teng yon tomonli uchburchak
+C) Teng tomonli uchburchak
+D) O'tkir uchburchak
+4-savol
+Qaysi turdagi uchburchakda bitta to'g'ri burchak bor?
+A) Masshtabli uchburchak
+B) Teng yon tomonli uchburchak
+C) Teng tomonli uchburchak
+D) To‘g‘ri burchakli uchburchak
+5-savol
+Qaysi turdagi uchburchaklar barcha burchaklari o'tkir?
+A) Masshtabli uchburchak
+B) Teng yon tomonli uchburchak
+C) Teng tomonli uchburchak
+D) O'tkir uchburchak
+6-savol
+Qaysi uchburchakda bir dona burchak bor?
+A) Masshtabli uchburchak
+B) Teng yon tomonli uchburchak
+C) Teng tomonli uchburchak
+D) Do‘lma uchburchak
+7-savol
+Kvadratdagi har bir ichki burchakning o‘lchami nimaga teng?
+A) 45 daraja
+B) 60 daraja
+C) 90 daraja
+D) 120 daraja
+8-savol
+Kvadrat nechta simmetriya chizig'iga ega?
+A) 2
+B) 4
+C) 6
+D) 8
+9-savol
+Kvadratda diagonallar bir-biriga qanday bog'liq?
+A) Ular teng emas
+B) Ular bir-birini ikkiga bo'lib, perpendikulyar
+C) Ular parallel
+D) Ular kesishmaydi
+10-savol
+Tomonining uzunligi “a” bo‘lgan kvadratning diagonalining uzunligi qancha?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+11-savol
+Qaysi xususiyat barcha kvadratlar uchun to'g'ri?
+A) Hamma burchaklar o‘tkirdir
+B) Diagonallarning uzunligi teng
+C) Faqat qarama-qarshi tomonlar teng
+D) Faqat qo‘shni tomonlar teng
+12-savol
+Rombning o'ziga xos xususiyati nimada?
+A) Faqat ikki tomon teng
+B) Hamma tomonlari teng uzunlikda
+C) Faqat bir juft qarama-qarshi tomonlar parallel
+D) Hamma burchaklar to‘g‘ri burchakdir
+13-savol
+Rombning diagonallari qanday kesishadi?
+A) Ularning uzunligi teng
+B) Ular bir-birini to‘g‘ri burchak ostida ikkiga bo‘ladi
+C) Ular parallel
+D) Ular kesishmaydi
+14-savol
+Romb diagonallari kesishgan joyda hosil bo'lgan burchaklarning o'lchami qanday?
+A) 30 daraja
+B) 60 daraja
+C) 90 daraja
+D) 120 daraja
+15-savol
+Rombda diagonallar uni nechta mos uchburchakka ajratadi?
+A) 2
+B) 3
+C) 4
+D) 6
+16-savol
+Romblar va kvadratlar uchun qaysi xususiyat to'g'ri?
+A) Barcha burchaklar 90 gradus
+B) Diagonallar bir-birini to‘g‘ri burchak ostida ikkiga bo‘ladi
+C) Faqat bir juft tomon parallel
+D) Diagonallar teng emas
+17-savol
+Paralelogrammaning aniqlovchi xususiyati nima?
+A) Faqat bir juft qarama-qarshi tomonlar parallel
+B) Qarama-qarshi tomonlarning ikkala jufti parallel
+C) Faqat qo‘shni tomonlar teng
+D) Hamma burchaklar to‘g‘ri burchakdir
+18-savol
+To'rtburchakning har bir ichki burchagining o'lchami nimaga teng?
+A) 45 daraja
+B) 60 daraja
+C) 90 daraja
+D) 120 daraja
+19-savol
+To'rtburchakda diagonallar bir-biri bilan qanday bog'liq?
+A) Ular teng emas
+B) Ular bir-birini ikkiga bo'lib, perpendikulyar
+C) Ular parallel
+D) Ularning uzunligi teng
+20-savol
+To'rtburchaklar va kvadratlar uchun qaysi xususiyat to'g'ri?
+A) Barcha tomonlar teng
+B) Barcha burchaklar to‘g‘ri burchakdir
+C) Diagonallar bir-birini to‘g‘ri burchak ostida ikkiga bo‘ladi
+D) Faqat bir juft tomon parallel
+To'g'ri!
+Noto'g'ri! Burchaklar teng bo'lgani uchun u 180/3 = 60 ga teng.
+Noto'g'ri! Izoscellar 2 ta teng burchak va tomonlarga ega.
+Noto'g'ri! Skalenaning teng tomonlari yoki burchaklari yo'q.
+Noto'g'ri! To'g'ri burchakli uchburchak to'g'ri burchakka ega.
+Noto'g'ri! O'tkir uchburchakda faqat o'tkir burchaklar mavjud.
+Noto'g'ri! O'tkir uchburchak faqat o'tkir burchakka ega.
+Noto'g'ri! Kvadratning barcha ichki burchaklari 90 daraja.
+Noto'g'ri! Kvadrat to'rtta simmetriya chizig'iga ega.
+Noto'g'ri! Ular 90 daraja burchak ostida ikkiga bo'linadi.
+Noto'g'ri! gipotenuzani toping: sqrt(a^2+a^2) = a sqrt(2).
+Noto'g'ri! Barcha diagonallar teng, chunki barcha tomonlar teng.
+Noto'g'ri! Romb, xuddi kvadrat kabi, barcha tomonlari teng.
+Noto'g'ri! ular to'g'ri burchak ostida ikkiga bo'linadi.
+Noto'g'ri! ular 90 daraja burchak ostida ikkiga bo'linadi
+Noto'g'ri! diagonallari ikkiga bo'lingandan beri to'rtta uchburchak.
+Noto'g'ri! Ikkala diagonal 90 gradusda ikkiga bo'lingan.
+Noto'g'ri! bir sababga ko'ra parallelogramm deb ataladi.
+Noto'g'ri! Kvadrat kabi 90 daraja
+Noto'g'ri! Ular uzunligi teng, lekin har doim ham 90 daraja emas.
+Noto'g'ri! Barcha burchaklar to'g'ri burchaklardir.

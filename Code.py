@@ -4,6 +4,7 @@ from PIL import Image, ImageTk
 import customtkinter
 import pygame
 import pyttsx3
+import os
 
 root = customtkinter.CTk()
 root.title("okkk")
@@ -20,6 +21,7 @@ pygame.mixer.music.load("music\music1.mp3")
 pygame.mixer.music.play(loops=-1)
 fullscreen_on = False #a flag varialbe to indicate that fullscreen is off
 music_on = True
+language_name= "ENGLISH"
 #functions
 
 
@@ -558,6 +560,10 @@ def resize_image(number):
             option_backbutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
             fullscreenbutton.configure(font=("Ariel", 40*relative_scale), width = 10*relativex, height = 10*relativey)
             music_box.configure(font=("Ariel", 40*relative_scale), width=10*relativex, height=10*relativey)
+
+            language_box.configure(font=("Arial", 30*relative_scale),width=200*relativex )
+            confirm_button.configure(font=("Arial", 30*relative_scale),width=0*relativex )
+            confirm_button.configure(image=ImageTk.PhotoImage(Image.open("button_images\\REVERSE.png").resize((int(40 * relativex), int(40 * relativey)))))
         except: 
             pass
     if learning_display == True:
@@ -608,15 +614,27 @@ def resize_image(number):
             tts_quiz_button.configure(image=ImageTk.PhotoImage(Image.open("button_images\\TTS.png").resize((int(40 * relativex), int(40 * relativey)))))
         except: pass
 def list_file():
-    global text_list
-    file = open("languages\ENGLISH.txt")
-
+    global text_list, language_name
     text_list = []
-
+    try:
+        language_name = language_box.get()
+    except: pass
+    file_directory = "languages/"+language_name+".txt"
+    file = open(file_directory, encoding="utf-8")
     for i in file.readlines():
-        text = i.replace("\n", "")
-        text_list.append(text)
-    
+        add = i.replace("Ã·","÷")
+        add = add.replace("\n","")
+        text_list.append(add)
+    try:
+        music_box.configure(text=text_list[5])
+        option_text.configure(text=text_list[2])
+        fullscreenbutton.configure(text=text_list[4])
+        option_backbutton.configure(text=text_list[9])
+    except: pass
+
+
+    return text_list
+
 def tts():
     engine = pyttsx3.init()
     if learning_display == True:
@@ -626,7 +644,7 @@ def tts():
         engine.say(Question_list[questionnumber+1])
         engine.runAndWait()
 def option():
-    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, option_backbutton, O_image, O_copy_of_image, O_photo, O_label
+    global option_display, start_display, quiz_display, learning_display, copy_of_image, option_text, music_box, music_check, fullscreenbutton, fullscreen_check, option_backbutton, O_image, O_copy_of_image, O_photo, O_label, language_box, language_list, confirm_button
     option_display = True
     start_display = False
     quiz_display = False
@@ -671,11 +689,13 @@ def option():
     option_backbutton.place(relx =0.01, rely = 0.01)
 
     language_list = ["AFRIKAANS", "ALBANIAN", "ARABIC", "ARMENIAN", "BASQUE", "BENGALI", "BULGARIAN", "CATALAN", "CAMBODIAN", "CHINESE", "CROATIAN", "CZECH", "DANISH", "DUTCH", "ENGLISH", "ESTONIAN", "FINNISH", "FRENCH", "GEORGIAN", "GERMAN", "GREEK", "GUJARATI", "HEBREW", "HINDI", "HUNGARIAN", "ICELANDIC", "INDONESIAN", "IRISH", "ITALIAN", "JAPANESE", "JAVANESE", "KOREAN", "LATIN", "LATVIAN", "LITHUANIAN", "MACEDONIAN", "MALAY", "MALAYALAM", "MALTESE", "MAORI", "MARATHI", "MONGOLIAN", "NEPALI", "NORWEGIAN", "PERSIAN", "POLISH", "PORTUGUESE", "PUNJABI", "ROMANIAN", "RUSSIAN", "SAMOAN", "SERBIAN", "SLOVAK", "SLOVENIAN", "SPANISH", "SWAHILI", "SWEDISH", "TAMIL", "TATAR", "TELUGU", "THAI", "TONGA", "TURKISH", "UKRAINIAN", "URDU", "UZBEK", "VIETNAMESE", "WELSH", "XHOSA"]
-    language_box = customtkinter.CTkComboBox(root, value = language_list, width=50)
-    language_box.set("ENGLISH")
+    language_box = customtkinter.CTkComboBox(root, values = language_list, width=200)
+    language_box.set(language_name)
     language_box.place(relx = 0.01, rely = 0.55)
+    confirm_button = customtkinter.CTkButton(root, image= option_backbutton_image, text="", width = 10, height = 10, command=list_file)
+    confirm_button.place(relx = 0.12, rely = 0.55)
 def learning():
-    global option_display,start_display,quiz_display, learning_display, L_image, L_copy_of_image, L_photo, L_label, Shape_label, shape_info_label, learning_backbutton, learning_nextbutton, shapenumber, Shape_name, shape_info, Shapeimagedirectory, Shapeimage, tts_image, tts_learning_button
+    global option_display,start_display,quiz_display, learning_display, L_image, L_copy_of_image, L_photo, L_label, Shape_label, shape_info_label, learning_backbutton, learning_nextbutton, shapenumber, Shape_name, shape_info, Shapeimagedirectory, Shapeimage, tts_image, tts_learning_button, learning_nextbutton_image
     option_display = False
     start_display = False
     quiz_display = False

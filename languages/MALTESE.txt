@@ -1,0 +1,166 @@
+PROPRJETAJIET ĠEOMETRIĊI
+BIDU
+GĦAŻLIET
+ĦRUĠ
+Skrin sħiħ
+Mużika
+Riżoluzzjoni
+Ittraduċi
+Lingwa
+LURA
+LI JMISS
+Trijangolu
+Trijangolu ekwilaterali: Trijangolu ekwilaterali għandu n-naħat kollha ta 'tul ugwali, u kull angolu ta' ġewwa jkejjel 60 grad. Trijangolu iżoċeli: Trijangolu iżoċeli għandu żewġ naħat ta 'tul ugwali u żewġ angoli kongruwenti. Trijangolu Scalene: Trijangolu scalene m'għandux naħat jew angoli li huma ugwali. Trijangolu rett: Trijangolu rett fih angolu rett wieħed (90 grad). Skont it-Teorema ta' Pitagora, il-kwadru tal-ipotenuża huwa ugwali għas-somma tal-kwadri taż-żewġ naħat l-oħra. Trijangolu Akut: Trijangolu akut għandu l-angoli kollha tiegħu li jkejlu inqas minn 90 grad. Trijangolu ottuż: Trijangolu ottuż jinkludi angolu wieħed li huwa akbar minn 90 grad.
+Kwadra
+Kwadru għandu n-naħat kollha ta 'tul ugwali u kull angolu ta' ġewwa huwa 90 grad. Id-djagonali tiegħu jqassmu lil xulxin f'angoli retti u huma ta' tul ugwali. Barra minn hekk, kwadru għandu erba 'linji ta' simetrija.
+Rettangolu
+Rettangolu għandu naħat opposti li huma ugwali fit-tul, u kull angolu ta 'ġewwa huwa ta' 90 grad. Id-djagonali huma ndaqs fit-tul u jaqsmu xulxin, u l-forma għandha żewġ linji ta 'simetrija.
+Rombu
+Rombu fih in-naħat kollha ta' tul ugwali u angoli opposti li huma ugwali. Id-djagonali jaqsmu xulxin f'angoli retti u jaqsmu r-rhombus f'erba' triangoli kongruwenti.
+Parallelogramma
+Parallelogramma għandu naħat opposti li huma ugwali fit-tul u paralleli, b'angoli opposti li huma ugwali. Id-djagonali tagħha jinqasmu lil xulxin.
+QUIZZ
+TERMINA
+HOME
+PUNTEĠĠ
+Mistoqsija 1
+X'inhu l-kejl ta' kull angolu ta' ġewwa fi trijangolu ekwilaterali?
+A) 45 grad
+B) 60 grad
+C) 90 grad
+D) 120 grad
+Mistoqsija 2
+Liema trijangolu għandu żewġ naħat ta' tul ugwali u żewġ angoli kongruwenti?
+A) Trijangolu Scalene
+B) Trijangolu iżoċeli
+C) Trijangolu ekwilaterali
+D) Trijangolu rettangolo
+Mistoqsija 3
+Liema trijangolu m'għandux naħat jew angoli ugwali?
+A) Trijangolu Scalene
+B) Trijangolu iżoċeli
+C) Trijangolu ekwilaterali
+D) Trijangolu akut
+Mistoqsija 4
+Liema tip ta 'trijangolu għandu angolu rett wieħed?
+A) Trijangolu Scalene
+B) Trijangolu iżoċeli
+C) Trijangolu ekwilaterali
+D) Trijangolu rettangolo
+Mistoqsija 5
+Liema tip ta 'trijangolu għandu l-angoli kollha akuti?
+A) Trijangolu Scalene
+B) Trijangolu iżoċeli
+C) Trijangolu ekwilaterali
+D) Trijangolu akut
+Mistoqsija 6
+Liema trijangolu għandu angolu wieħed ottuż?
+A) Trijangolu Scalene
+B) Trijangolu iżoċeli
+C) Trijangolu ekwilaterali
+D) Trijangolu ottuż
+Mistoqsija 7
+X'inhu l-kejl ta' kull angolu ta' ġewwa fi kwadru?
+A) 45 grad
+B) 60 grad
+C) 90 grad
+D) 120 grad
+Mistoqsija 8
+Kemm għandu linji ta' simetrija kwadru?
+A) 2
+B) 4
+Ċ) 6
+D) 8
+Mistoqsija 9
+Fi kwadru, id-djagonali kif jirrelataw ma’ xulxin?
+A) Huma mhux ugwali
+B) Huma jaqsmu xulxin u huma perpendikolari
+C) Huma paralleli
+D) Ma jaqsmux
+Mistoqsija 10
+X'inhu t-tul tad-dijagonali ta' kwadru b'tul tal-ġenb 'a'?
+A) a
+B) 2a
+C) sqrt (2)
+D) a/2
+Mistoqsija 11
+Liema proprjetà hija vera għall-kwadri kollha?
+A) L-angoli kollha huma akuti
+B) Id-dijagonali huma ugwali fit-tul
+C) In-naħat opposti biss huma ugwali
+D) Ġnub biswit biss huma ugwali
+Mistoqsija 12
+X'inhi proprjetà karatteristika ta 'rhombus?
+A) Żewġ naħat biss huma ugwali
+B) In-naħat kollha huma ta 'tul ugwali
+C) Par wieħed biss ta 'naħat opposti huwa parallel
+D) L-angoli kollha huma angoli retti
+Mistoqsija 13
+Kif jaqsmu d-dijagonali ta 'rhombus?
+A) Huma ndaqs fit-tul
+B) Huma jaqsmu xulxin f'angoli retti
+C) Huma paralleli
+D) Ma jaqsmux
+Mistoqsija 14
+X'inhu l-kejl ta' l-angoli ffurmati fejn id-djagonali ta 'rhombus jaqsmu?
+A) 30 grad
+B) 60 grad
+C) 90 grad
+D) 120 grad
+Mistoqsija 15
+F'rhombus, id-djagonali jaqsmuh f'kemm triangoli kongruwenti?
+A) 2
+B) 3
+Ċ) 4
+D) 6
+Mistoqsija 16
+Liema proprjetà hija vera kemm għar-rhombus kif ukoll għall-kwadri?
+A) L-angoli kollha huma 90 grad
+B) Id-dijagonali jaqsmu xulxin f'angoli retti
+C) Par naħa waħda biss hija parallela
+D) Id-dijagonali mhumiex ugwali
+Mistoqsija 17
+X'inhi l-proprjetà li tiddefinixxi ta' parallelogramma?
+A) Par wieħed biss ta' naħat opposti huwa parallel
+B) Iż-żewġ pari ta' naħat opposti huma paralleli
+C) Ġnub biswit biss huma ugwali
+D) L-angoli kollha huma angoli retti
+Mistoqsija 18
+X'inhu l-kejl ta' kull angolu ta' ġewwa f'rettangolu?
+A) 45 grad
+B) 60 grad
+C) 90 grad
+D) 120 grad
+Mistoqsija 19
+F'rettangolu, kif jirrelataw id-djagonali ma' xulxin?
+A) Huma mhux ugwali
+B) Huma jaqsmu xulxin u huma perpendikolari
+C) Huma paralleli
+D) Huma ndaqs fit-tul
+Mistoqsija 20
+Liema proprjetà hija vera kemm għar-rettangoli kif ukoll għall-kwadri?
+A) In-naħat kollha huma ugwali
+B) L-angoli kollha huma angoli retti
+C) Id-dijagonali jaqsmu xulxin f'angoli retti
+D) Par naħa waħda biss hija parallela
+Ikkoreġi!
+Mhux korrett! peress li l-angoli huma ugwali huwa 180/3 = 60.
+Mhux korrett! Iżoċeli għandu 2 angoli u naħat ugwali.
+Mhux korrett! Scale m'għandux naħat jew angoli ugwali.
+Mhux korrett! Triangle ta' angolu rett għandu angolu rett.
+Mhux korrett! Trijangolu akut għandu biss angoli akuti.
+Mhux korrett! Trijangolu ottuż għandu biss angolu ottuż.
+Mhux korrett! L-angoli interni kollha ta 'kwadru huma 90 grad.
+Mhux korrett! Kwadru għandu erba' linji ta' simetrija.
+Mhux korrett! Huma bisect f'90 grad.
+Mhux korrett! sib l-ipotenuse: sqrt(a^2+a^2) = a sqrt(2).
+Mhux korrett! Id-djagonali kollha huma ugwali għax in-naħat kollha huma ugwali.
+Mhux korrett! Rhombus, bħal kwadru għandu n-naħat kollha ugwali.
+Mhux korrett! huma bisect fi gradi angoli retti.
+Mhux korrett! huma bisect f'90 grad
+Mhux korrett! erba triangoli peress li l-djagonali bisect.
+Mhux korrett! It-tnejn għandhom dijagonali bisect f'90 grad.
+Mhux korrett! huwa msejjaħ parallelogram għal raġuni.
+Mhux korrett! 90 grad bħal kwadru
+Mhux korrett! Huma ndaqs fit-tul iżda mhux dejjem 90 grad.
+Mhux korrett! L-angoli kollha huma angoli retti.

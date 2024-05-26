@@ -1,0 +1,166 @@
+PROPRIETÀ GEOMETRICHE
+INIZIO
+OPZIONI
+USCITA
+A schermo intero
+Musica
+Risoluzione
+Tradurre
+Lingua
+INDIETRO
+PROSSIMO
+Triangolo
+Triangolo equilatero: Un triangolo equilatero ha tutti i lati della stessa lunghezza e ciascun angolo interno misura 60 gradi. Triangolo isoscele: Un triangolo isoscele ha due lati di uguale lunghezza e due angoli congruenti. Triangolo scaleno: Un triangolo scaleno non ha lati né angoli uguali. Triangolo rettangolo: un triangolo rettangolo presenta un angolo retto (90 gradi). Secondo il Teorema di Pitagora il quadrato dell'ipotenusa è uguale alla somma dei quadrati degli altri due cateti. Triangolo acuto: un triangolo acuto ha tutti gli angoli inferiori a 90 gradi. Triangolo ottuso: un triangolo ottuso comprende un angolo maggiore di 90 gradi.
+Piazza
+Un quadrato ha tutti i lati della stessa lunghezza e ciascun angolo interno misura 90 gradi. Le sue diagonali si intersecano ad angolo retto e hanno la stessa lunghezza. Inoltre, un quadrato ha quattro assi di simmetria.
+Rettangolo
+Un rettangolo ha i lati opposti di uguale lunghezza e ciascun angolo interno misura 90 gradi. Le diagonali sono uguali in lunghezza e si bisecano a vicenda, e la forma ha due linee di simmetria.
+Rombo
+Un rombo ha tutti i lati di uguale lunghezza e gli angoli opposti uguali. Le diagonali si bisecano ad angolo retto e dividono il rombo in quattro triangoli congruenti.
+Parallelogramma
+Un parallelogramma ha i lati opposti uguali in lunghezza e paralleli, con gli angoli opposti uguali. Le sue diagonali si bisecano a vicenda.
+QUIZ
+FINE
+CASA
+PUNTO
+Domanda 1
+Quanto misura ogni angolo interno di un triangolo equilatero?
+R) 45 gradi
+B) 60 gradi
+C) 90 gradi
+D) 120 gradi
+Domanda 2
+Quale triangolo ha due lati di uguale lunghezza e due angoli congruenti?
+A) Triangolo scaleno
+B) Triangolo isoscele
+C) Triangolo equilatero
+D) Triangolo rettangolo
+Domanda 3
+Quale triangolo non ha né lati né angoli uguali?
+A) Triangolo scaleno
+B) Triangolo isoscele
+C) Triangolo equilatero
+D) Triangolo acuto
+Domanda 4
+Che tipo di triangolo ha un angolo retto?
+A) Triangolo scaleno
+B) Triangolo isoscele
+C) Triangolo equilatero
+D) Triangolo rettangolo
+Domanda 5
+Che tipo di triangolo ha tutti gli angoli acuti?
+A) Triangolo scaleno
+B) Triangolo isoscele
+C) Triangolo equilatero
+D) Triangolo acuto
+Domanda 6
+Quale triangolo ha un angolo ottuso?
+A) Triangolo scaleno
+B) Triangolo isoscele
+C) Triangolo equilatero
+D) Triangolo ottuso
+Domanda 7
+Quanto misura ogni angolo interno di un quadrato?
+R) 45 gradi
+B) 60 gradi
+C) 90 gradi
+D) 120 gradi
+Domanda 8
+Quanti assi di simmetria ha un quadrato?
+A) 2
+B)4
+C)6
+D)8
+Domanda 9
+In un quadrato, che rapporto hanno tra loro le diagonali?
+A) Sono disuguali
+B) Si bisecano tra loro e sono perpendicolari
+C) Sono paralleli
+D) Non si intersecano
+Domanda 10
+Qual è la lunghezza della diagonale di un quadrato avente il lato 'a'?
+Aa
+B)2a
+C) un quadrato(2)
+D)a/2
+Domanda 11
+Quale proprietà è vera per tutti i quadrati?
+A) Tutti gli angoli sono acuti
+B) Le diagonali hanno la stessa lunghezza
+C) Solo i lati opposti sono uguali
+D) Solo i lati adiacenti sono uguali
+Domanda 12
+Qual è la proprietà caratteristica del rombo?
+A) Solo due lati sono uguali
+B) Tutti i lati hanno la stessa lunghezza
+C) Solo una coppia di lati opposti è parallela
+D) Tutti gli angoli sono retti
+Domanda 13
+Come si intersecano le diagonali di un rombo?
+R) Hanno la stessa lunghezza
+B) Si bisecano ad angolo retto
+C) Sono paralleli
+D) Non si intersecano
+Domanda 14
+Quanto misurano gli angoli formati all'intersezione delle diagonali di un rombo?
+R) 30 gradi
+B) 60 gradi
+C) 90 gradi
+D) 120 gradi
+Domanda 15
+In un rombo le diagonali lo dividono in quanti triangoli congruenti?
+A) 2
+B)3
+C)4
+D)6
+Domanda 16
+Quale proprietà è vera sia per i rombi che per i quadrati?
+A) Tutti gli angoli sono di 90 gradi
+B) Le diagonali si intersecano ad angolo retto
+C) Solo una coppia di lati è parallela
+D) Le diagonali non sono uguali
+Domanda 17
+Qual è la proprietà che definisce un parallelogramma?
+A) Solo una coppia di lati opposti è parallela
+B) Entrambe le coppie di lati opposti sono parallele
+C) Solo i lati adiacenti sono uguali
+D) Tutti gli angoli sono retti
+Domanda 18
+Quanto misura ogni angolo interno di un rettangolo?
+R) 45 gradi
+B) 60 gradi
+C) 90 gradi
+D) 120 gradi
+Domanda 19
+In un rettangolo, che rapporto hanno tra loro le diagonali?
+A) Sono disuguali
+B) Si bisecano tra loro e sono perpendicolari
+C) Sono paralleli
+D) Hanno la stessa lunghezza
+Domanda 20
+Quale proprietà è vera sia per i rettangoli che per i quadrati?
+A) Tutti i lati sono uguali
+B) Tutti gli angoli sono retti
+C) Le diagonali si intersecano ad angolo retto
+D) Solo una coppia di lati è parallela
+Corretto!
+Errato! poiché gli angoli sono uguali è 180/3 = 60.
+Errato! Isoscele ha 2 angoli e lati uguali.
+Errato! Uno scaleno non ha né lati né angoli uguali.
+Errato! Un trigono ad angolo retto ha un angolo retto.
+Errato! Un triangolo acuto ha solo angoli acuti.
+Errato! Un triangolo ottuso ha solo un angolo ottuso.
+Errato! Tutti gli angoli interni di un quadrato sono di 90 gradi.
+Errato! Un quadrato ha quattro assi di simmetria.
+Errato! Si dividono in due a 90 gradi.
+Errato! trova l'ipotenusa: sqrt(a^2+a^2) = a sqrt(2).
+Errato! Tutte le diagonali sono uguali perché tutti i lati sono uguali.
+Errato! Il rombo, come un quadrato, ha tutti i lati uguali.
+Errato! si dividono in gradi ad angolo retto.
+Errato! si dividono in due a 90 gradi
+Errato! quattro triangoli poiché le diagonali si dividono in due.
+Errato! Entrambi hanno le diagonali bisecate a 90 gradi.
+Errato! si chiama parallelogramma per un motivo.
+Errato! 90 gradi come un quadrato
+Errato! Hanno la stessa lunghezza ma non sempre sono di 90 gradi.
+Errato! Tutti gli angoli sono retti.

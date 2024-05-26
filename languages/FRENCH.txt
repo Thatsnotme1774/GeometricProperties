@@ -1,0 +1,166 @@
+FRENCHPROPRIÉTÉS GÉOMÉTRIQUES
+COMMENCER
+OPTIONS
+SORTIE
+Plein écran
+Musique
+Résolution
+Traduire
+Langue
+DOS
+SUIVANT
+Triangle
+Triangle équilatéral : Un triangle équilatéral a tous les côtés de même longueur et chaque angle intérieur mesure 60 degrés. Triangle isocèle : Un triangle isocèle a deux côtés de même longueur et deux angles congrus. Triangle scalène : Un triangle scalène n’a ni côtés ni angles égaux. Triangle rectangle : Un triangle rectangle comporte un angle droit (90 degrés). Selon le théorème de Pythagore, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés. Triangle aigu : Un triangle aigu a tous ses angles mesurant moins de 90 degrés. Triangle obtus : Un triangle obtus comprend un angle supérieur à 90 degrés.
+Carré
+Un carré a tous ses côtés de même longueur et chaque angle intérieur mesure 90 degrés. Ses diagonales se coupent à angle droit et sont de même longueur. De plus, un carré possède quatre axes de symétrie.
+Rectangle
+Un rectangle a des côtés opposés de même longueur et chaque angle intérieur mesure 90 degrés. Les diagonales sont de longueur égale et se coupent en deux, et la forme présente deux axes de symétrie.
+Rhombe
+Un losange présente tous les côtés de même longueur et des angles opposés égaux. Les diagonales se coupent à angle droit et divisent le losange en quatre triangles congruents.
+Parallélogramme
+Un parallélogramme a des côtés opposés de même longueur et parallèles, avec des angles opposés égaux. Ses diagonales se coupent en deux.
+QUESTIONNAIRE
+FINITION
+MAISON
+SCORE
+question 1
+Quelle est la mesure de chaque angle intérieur dans un triangle équilatéral ?
+A) 45 degrés
+B) 60 degrés
+C) 90 degrés
+D) 120 degrés
+question 2
+Quel triangle a deux côtés de même longueur et deux angles congrus ?
+A) Triangle scalène
+B) Triangle isocèle
+C) Triangle équilatéral
+D) Triangle rectangle
+question 3
+Quel triangle n'a ni côtés ni angles égaux ?
+A) Triangle scalène
+B) Triangle isocèle
+C) Triangle équilatéral
+D) Triangle aigu
+Question 4
+Quel type de triangle a un angle droit ?
+A) Triangle scalène
+B) Triangle isocèle
+C) Triangle équilatéral
+D) Triangle rectangle
+Question 5
+Quel type de triangle a tous les angles aigus ?
+A) Triangle scalène
+B) Triangle isocèle
+C) Triangle équilatéral
+D) Triangle aigu
+Question 6
+Quel triangle a un angle obtus ?
+A) Triangle scalène
+B) Triangle isocèle
+C) Triangle équilatéral
+D) Triangle obtus
+Question 7
+Quelle est la mesure de chaque angle intérieur d’un carré ?
+A) 45 degrés
+B) 60 degrés
+C) 90 degrés
+D) 120 degrés
+Question 8
+Combien d’axes de symétrie possède un carré ?
+A)2
+B)4
+C)6
+D)8
+Question 9
+Dans un carré, comment les diagonales sont-elles liées les unes aux autres ?
+A) Ils sont inégaux
+B) Ils se coupent en deux et sont perpendiculaires
+C) Ils sont parallèles
+D) Ils ne se croisent pas
+Question 10
+Quelle est la longueur de la diagonale d’un carré de côté « a » ?
+A) un
+B)2a
+C) un sqrt(2)
+D)a/2
+Question 11
+Quelle propriété est vraie pour tous les carrés ?
+A) Tous les angles sont aigus
+B) Les diagonales sont de même longueur
+C) Seuls les côtés opposés sont égaux
+D) Seuls les côtés adjacents sont égaux
+Question 12
+Quelle est la propriété caractéristique d’un losange ?
+A) Seuls deux côtés sont égaux
+B) Tous les côtés sont de même longueur
+C) Une seule paire de côtés opposés est parallèle
+D) Tous les angles sont droits
+Question 13
+Comment se croisent les diagonales d’un losange ?
+A) Ils sont de même longueur
+B) Ils se coupent en deux à angle droit
+C) Ils sont parallèles
+D) Ils ne se croisent pas
+Question 14
+Quelle est la mesure des angles formés à l’intersection des diagonales d’un losange ?
+A) 30 degrés
+B) 60 degrés
+C) 90 degrés
+D) 120 degrés
+Question 15
+Dans un losange, les diagonales le divisent en combien de triangles congrus ?
+A)2
+B)3
+C)4
+D)6
+Question 16
+Quelle propriété est vraie à la fois pour les losanges et les carrés ?
+A) Tous les angles sont de 90 degrés
+B) Les diagonales se coupent à angle droit
+C) Une seule paire de côtés est parallèle
+D) Les diagonales ne sont pas égales
+Question 17
+Quelle est la propriété déterminante d’un parallélogramme ?
+A) Une seule paire de côtés opposés est parallèle
+B) Les deux paires de côtés opposés sont parallèles
+C) Seuls les côtés adjacents sont égaux
+D) Tous les angles sont droits
+Question 18
+Quelle est la mesure de chaque angle intérieur dans un rectangle ?
+A) 45 degrés
+B) 60 degrés
+C) 90 degrés
+D) 120 degrés
+Question 19
+Dans un rectangle, comment les diagonales sont-elles liées les unes aux autres ?
+A) Ils sont inégaux
+B) Ils se coupent en deux et sont perpendiculaires
+C) Ils sont parallèles
+D) Ils sont de même longueur
+Question 20
+Quelle propriété est vraie pour les rectangles et les carrés ?
+A) Tous les côtés sont égaux
+B) Tous les angles sont droits
+C) Les diagonales se coupent à angle droit
+D) Une seule paire de côtés est parallèle
+Correct!
+Incorrect! puisque les angles sont égaux, c'est 180/3 = 60.
+Incorrect! Isocèle a 2 angles et côtés égaux.
+Incorrect! Un scalène n’a pas de côtés ni d’angles égaux.
+Incorrect! Un triangle à angle droit a un angle droit.
+Incorrect! Un triangle aigu n'a que des angles aigus.
+Incorrect! Un triangle obtus n’a qu’un angle obtus.
+Incorrect! Tous les angles intérieurs d’un carré mesurent 90 degrés.
+Incorrect! Un carré possède quatre axes de symétrie.
+Incorrect! Ils se coupent en deux à 90 degrés.
+Incorrect! trouvez l'hypoténuse : sqrt(a^2+a^2) = a sqrt(2).
+Incorrect! Toutes les diagonales sont égales car tous les côtés sont égaux.
+Incorrect! Le losange, comme un carré, a tous ses côtés égaux.
+Incorrect! ils se coupent en deux à angle droit.
+Incorrect! ils se coupent en deux à 90 degrés
+Incorrect! quatre triangles puisque les diagonales se coupent en leur milieu.
+Incorrect! Les deux ont des diagonales se coupant à 90 degrés.
+Incorrect! cela s'appelle un parallélogramme pour une raison.
+Incorrect! 90 degrés comme un carré
+Incorrect! Ils sont de longueur égale mais pas toujours à 90 degrés.
+Incorrect! Tous les angles sont droits.

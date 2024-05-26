@@ -1,0 +1,166 @@
+RÚÐFRÆÐI EIGINLEIKAR
+BYRJA
+VALKOSTIR
+HLUTA
+Fullskjár
+Tónlist
+Upplausn
+Þýða
+Tungumál
+AFTUR
+NÆST
+Þríhyrningur
+Jafnhliða þríhyrningur: Jafnhliða þríhyrningur hefur allar hliðar jafnlangar og hvert innra horn mælist 60 gráður. Jafnhyrningur þríhyrningur: Jafnhyrningur þríhyrningur hefur tvær jafn langar hliðar og tvö samræmd horn. Skalaþríhyrningur: Skalaþríhyrningur hefur engar hliðar eða horn sem eru jöfn. Réttur þríhyrningur: Réttur þríhyrningur hefur eitt rétt horn (90 gráður). Samkvæmt Pýþagóras setningunni er ferningur undirstúku jafnt summu ferninga hinna tveggja hliðanna. Bráður þríhyrningur: Bráður þríhyrningur hefur öll hornin sem eru minna en 90 gráður. Rödd þríhyrningur: Rauður þríhyrningur inniheldur eitt horn sem er stærra en 90 gráður.
+Ferningur
+Ferningur hefur allar hliðar jafn langar og hvert innra horn er 90 gráður. Skáningar hans skera hvert annað hornrétt í tvennt og eru jafn langar. Að auki hefur ferningur fjórar samhverfulínur.
+Rétthyrningur
+Rétthyrningur hefur gagnstæðar hliðar sem eru jafn langar og hvert innra horn er 90 gráður. Skáin eru jafnlangar og skera hvor aðra í tvennt og lögunin hefur tvær samhverfulínur.
+Rhombus
+Á tígli eru allar hliðar jafn langar og andstæð horn sem eru jöfn. Skáhyrningarnir skera í tvennt hornrétt og skipta tíglinum í fjóra samræmda þríhyrninga.
+Samsíða
+Samsíða hefur gagnstæðar hliðar sem eru jafn langar og samsíða, með andstæðum hornum sem eru jöfn. Skáningar þess skera hvor aðra í tvennt.
+Spurningakeppni
+KLÁRA
+HEIM
+MARK
+Spurning 1
+Hvert er mælikvarði hvers innra horns í jafnhliða þríhyrningi?
+A) 45 gráður
+B) 60 gráður
+C) 90 gráður
+D) 120 gráður
+Spurning 2
+Hvaða þríhyrningur hefur tvær jafn langar hliðar og tvö samræmd horn?
+A) Þríhyrningur í mælikvarða
+B) Jafnhyrningur þríhyrningur
+C) Jafnhliða þríhyrningur
+D) Réttur þríhyrningur
+Spurning 3
+Hvaða þríhyrningur hefur engar hliðar eða horn jöfn?
+A) Hlutfallsþríhyrningur
+B) Jafnhyrningur þríhyrningur
+C) Jafnhliða þríhyrningur
+D) Bráður þríhyrningur
+Spurning 4
+Hvers konar þríhyrningur hefur eitt rétt horn?
+A) Þríhyrningur í mælikvarða
+B) Jafnhyrningur þríhyrningur
+C) Jafnhliða þríhyrningur
+D) Réttur þríhyrningur
+Spurning 5
+Hvers konar þríhyrningur hefur öll horn hvöss?
+A) Þríhyrningur í mælikvarða
+B) Jafnhyrningur þríhyrningur
+C) Jafnhliða þríhyrningur
+D) Bráður þríhyrningur
+Spurning 6
+Hvaða þríhyrningur hefur eitt stubbhorn?
+A) Hlutfallsþríhyrningur
+B) Jafnhyrningur þríhyrningur
+C) Jafnhliða þríhyrningur
+D) Rauður þríhyrningur
+Spurning 7
+Hvert er mælikvarði hvers innra horns í ferningi?
+A) 45 gráður
+B) 60 gráður
+C) 90 gráður
+D) 120 gráður
+Spurning 8
+Hversu margar samhverfulínur hefur ferningur?
+A) 2
+B) 4
+C) 6
+D) 8
+Spurning 9
+Í ferningi, hvernig tengjast skáhallirnar hver annarri?
+A) Þeir eru misjafnir
+B) Þau skera hvort annað í tvennt og eru hornrétt
+C) Þau eru samsíða
+D) Þeir skerast ekki
+Spurning 10
+Hver er lengd ská ferningur með hliðarlengd 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Spurning 11
+Hvaða eiginleiki er réttur fyrir alla ferninga?
+A) Öll horn eru hvöss
+B) Skáningar eru jafn langar
+C) Aðeins gagnstæðar hliðar eru jafnar
+D) Aðeins aðliggjandi hliðar eru jafnar
+Spurning 12
+Hver er einkennandi eiginleiki tíguls?
+A) Aðeins tvær hliðar eru jafnar
+B) Allar hliðar eru jafn langar
+C) Aðeins eitt par af gagnstæðum hliðum er samsíða
+D) Öll horn eru rétt horn
+Spurning 13
+Hvernig skerast skálínur tíguls?
+A) Þeir eru jafnlangir
+B) Þeir skera hver annan í tvennt hornrétt
+C) Þau eru samsíða
+D) Þeir skerast ekki
+Spurning 14
+Hver er mælikvarðinn á hornin sem myndast þar sem skáhallir tíguls skerast?
+A) 30 gráður
+B) 60 gráður
+C) 90 gráður
+D) 120 gráður
+Spurning 15
+Í tígul skipta skálínurnar honum í hversu marga samræmda þríhyrninga?
+A) 2
+B) 3
+C) 4
+D) 6
+Spurning 16
+Hvaða eiginleiki er réttur fyrir bæði tígul og ferninga?
+A) Öll horn eru 90 gráður
+B) Skáningar skera í tvennt hornrétt
+C) Aðeins eitt par af hliðum er samsíða
+D) Skáningar eru ekki jafnar
+Spurning 17
+Hver er einkennandi eiginleiki samsíða?
+A) Aðeins eitt par af gagnstæðum hliðum er samsíða
+B) Bæði pör af gagnstæðum hliðum eru samsíða
+C) Aðeins aðliggjandi hliðar eru jafnar
+D) Öll horn eru rétt horn
+Spurning 18
+Hver er mælikvarðinn á hvert innra horn í rétthyrningi?
+A) 45 gráður
+B) 60 gráður
+C) 90 gráður
+D) 120 gráður
+Spurning 19
+Í rétthyrningi, hvernig tengjast skáhallirnar hver annarri?
+A) Þeir eru misjafnir
+B) Þau skera í tvennt og eru hornrétt
+C) Þau eru samsíða
+D) Þeir eru jafnlangir
+Spurning 20
+Hvaða eiginleiki er réttur fyrir bæði ferhyrninga og ferninga?
+A) Allar hliðar eru jafnar
+B) Öll horn eru rétt horn
+C) Skáningar skera í tvennt hornrétt
+D) Aðeins eitt par af hliðum er samsíða
+Rétt!
+Rangt! þar sem hornin eru jöfn er það 180/3 = 60.
+Rangt! Jafnhyrningur hefur 2 jöfn horn og hliðar.
+Rangt! Skala hefur engar jafnar hliðar eða horn.
+Rangt! Rétt horn þríhyrningur hefur rétt horn.
+Rangt! Hvítur þríhyrningur hefur aðeins oddhvass horn.
+Rangt! Stuttur þríhyrningur hefur aðeins stubbinn horn.
+Rangt! Öll innri horn ferninga eru 90 gráður.
+Rangt! Ferningur hefur fjórar samhverfulínur.
+Rangt! Þeir skerast í 90 gráður.
+Rangt! finndu undirstúku: sqrt(a^2+a^2) = a sqrt(2).
+Rangt! Allar skálínur eru jafnar vegna þess að allar hliðar eru jafnar.
+Rangt! Rhombus, eins og ferningur hefur allar hliðar jafnar.
+Rangt! þau skerast í tvennt í hornréttum gráðum.
+Rangt! þeir skerast í 90 gráður
+Rangt! fjórir þríhyrningar þar sem skáhallirnar skerast í tvennt.
+Rangt! Báðar eru skáhallar sem eru tvískiptur í 90 gráður.
+Rangt! það er kallað samhliða af ástæðu.
+Rangt! 90 gráður eins og ferningur
+Rangt! Þeir eru jafnlangir en ekki alltaf 90 gráður.
+Rangt! Öll horn eru rétt horn.

@@ -1,0 +1,166 @@
+PROPIETATE GEOMETRIKOAK
+HASI
+AUKERAK
+IRTEN
+Pantaila osoa
+Musika
+Ebazpena
+Itzuli
+Hizkuntza
+ATZERA
+HURRENGOA
+Triangelua
+Triangelu aldekidea: triangelu aldekide batek luzera bereko alde guztiak ditu, eta barruko angelu bakoitzak 60 gradu neurtzen ditu. Triangelu isoszelea: triangelu isoszele batek luzera bereko bi alde eta bi angelu kongruente ditu. Triangelu eskalenoa: triangelu eskaleno batek ez du berdinak diren alderik edo angelurik. Triangelu zuzena: triangelu zuzen batek angelu zuzen bat du (90 gradu). Pitagorasen Teoremaren arabera, hipotenusaren karratua beste bi aldeen karratuen baturaren berdina da. Triangelu akutua: triangelu akutu batek bere angelu guztiak 90 gradu baino gutxiago neurtzen ditu. Triangelu obtusoa: triangelu obtuso batek 90 gradu baino handiagoa den angelu bat barne hartzen du.
+Karratu
+Karratu batek luzera bereko alde guztiak ditu eta barruko angelu bakoitzak 90 gradu ditu. Bere diagonalek angelu zuzenetan erdibitzen dute eta luzera berdina dute. Gainera, karratu batek lau simetria-lerro ditu.
+Laukizuzena
+Laukizuzen batek luzera bereko aldeak ditu, eta barruko angelu bakoitzak 90 gradu ditu. Diagonalek luzera berdina dute eta erdibana dute, eta formak bi simetria-lerro ditu.
+Erronboa
+Erronbo batek luzera bereko alde guztiak eta berdinak diren angelu kontrakoak ditu. Diagonalek angelu zuzenetan erdibitzen dute eta erronboa lau triangelu kongruentetan banatzen dute.
+Paralelogramoa
+Paralelogramo batek luzera berdina eta paraleloa duten alde kontrakoak ditu, berdinak diren angelu kontrakoekin. Haren diagonalak erdibitzen ditu.
+GALDERA
+AMAITU
+ETXERA
+PUNTUAZIOA
+1. Galdera
+Zein da barruko angelu bakoitzaren neurria triangelu aldekide batean?
+A) 45 gradu
+B) 60 gradu
+C) 90 gradu
+D) 120 gradu
+2. galdera
+Zein triangelu ditu luzera berdineko bi alde eta bi angelu kongruente?
+A) Triangelu eskalenoa
+B) Triangelu isoszelea
+C) Triangelu aldekidea
+D) Triangelu zuzena
+3. galdera
+Zein triangelu ez du alderik edo angelu berdinik?
+A) Triangelu eskalenoa
+B) Triangelu isoszelea
+C) Triangelu aldekidea
+D) Triangelu akutua
+4. galdera
+Zein triangelu motak angelu zuzen bat du?
+A) Triangelu eskalenoa
+B) Triangelu isoszelea
+C) Triangelu aldekidea
+D) Triangelu zuzena
+5. galdera
+Zer triangelu mota ditu angelu guztiak zorrotzak?
+A) Triangelu eskalenoa
+B) Triangelu isoszelea
+C) Triangelu aldekidea
+D) Triangelu akutua
+6. galdera
+Zein triangelu du angelu obtuso bat?
+A) Triangelu eskalenoa
+B) Triangelu isoszelea
+C) Triangelu aldekidea
+D) Triangelu obtusoa
+7. galdera
+Zer neurri du barruko angelu bakoitzak karratu batean?
+A) 45 gradu
+B) 60 gradu
+C) 90 gradu
+D) 120 gradu
+8. galdera
+Zenbat simetria-lerro ditu karratu batek?
+A) 2
+B) 4
+C) 6
+D) 8
+9. galdera
+Karratu batean, nola erlazionatzen dira diagonalak elkarren artean?
+A) Desberdintasunak dira
+B) Erdibanatzen dute eta perpendikularrak dira
+C) Paraleloak dira
+D) Ez dira gurutzatzen
+10. galdera
+Zein da 'a' aldearen luzera duen karratu baten diagonalaren luzera?
+A) a
+B) 2a
+C) karratu bat (2)
+D) a/2
+11. galdera
+Zein propietate da egia lauki guztietarako?
+A) Angelu guztiak zorrotzak dira
+B) Diagonalek luzera berdina dute
+C) Kontrako aldeak bakarrik dira berdinak
+D) Aldameneko aldeak bakarrik dira berdinak
+12. galdera
+Zein da erronbo baten ezaugarri bereizgarria?
+A) Bi alde baino ez dira berdinak
+B) Alde guztiek luzera berdina dute
+C) Kontrako aldeen pare bakarra da paraleloa
+D) Angelu guztiak angelu zuzenak dira
+13. galdera
+Nola ebakitzen dira erronbo baten diagonalak?
+A) Luzera berdina dute
+B) Angelu zuzenetan erdibitzen dute
+C) Paraleloak dira
+D) Ez dira gurutzatzen
+14. galdera
+Zein neurri dute erronbo baten diagonalak ebakitzen diren tokian osatzen diren angeluen?
+A) 30 gradu
+B) 60 gradu
+C) 90 gradu
+D) 120 gradu
+15. galdera
+Erronbo batean, diagonalek zenbat triangelu kongruentetan banatzen dute?
+A) 2
+B) 3
+C) 4
+D) 6
+16. galdera
+Zein propietate da egia erronboentzat zein karratuentzat?
+A) Angelu guztiak 90 gradukoak dira
+B) Diagonalek angelu zuzenetan erdibitzen dute
+C) Alde pare bakarra da paraleloa
+D) Diagonalak ez dira berdinak
+17. galdera
+Zein da paralelogramo baten propietate definitzailea?
+A) Kontrako aldeen pare bakarra da paraleloa
+B) Kontrako aldeen bi bikote paraleloak dira
+C) Aldameneko aldeak bakarrik dira berdinak
+D) Angelu guztiak angelu zuzenak dira
+18. galdera
+Zer neurri du barruko angelu bakoitzak laukizuzen batean?
+A) 45 gradu
+B) 60 gradu
+C) 90 gradu
+D) 120 gradu
+19. galdera
+Laukizuzen batean, nola erlazionatzen dira diagonalak elkarren artean?
+A) Desberdintasunak dira
+B) Erdibanatzen dute eta perpendikularrak dira
+C) Paraleloak dira
+D) Luzera berdina dute
+20. galdera
+Zein propietate da egia laukizuzenentzat zein karratuentzat?
+A) Alde guztiak berdinak dira
+B) Angelu guztiak angelu zuzenak dira
+C) Diagonalek angelu zuzenetan erdibitzen dute
+D) Alde pare bakarra da paraleloa
+Zuzena!
+Okerra! angeluak berdinak direnez 180/3 = 60 da.
+Okerra! Isoszeleak 2 angelu eta alde berdin ditu.
+Okerra! Eskaleno batek ez du alde edo angelu berdinik.
+Okerra! Triangle angelu zuzen batek angelu zuzena du.
+Okerra! Triangelu zorrotz batek angelu zorrotzak baino ez ditu.
+Okerra! Triangelu obtuso batek angelu obtuso bat besterik ez du.
+Okerra! Karratu baten barruko angelu guztiak 90 gradukoak dira.
+Okerra! Karratu batek lau simetria-lerro ditu.
+Okerra! 90 gradutan erdibitzen dute.
+Okerra! aurkitu hipotenusa: sqrt(a^2+a^2) = a sqrt(2).
+Okerra! Diagonal guztiak berdinak dira, alde guztiak berdinak direlako.
+Okerra! Erronboak, karratu batek bezala alde guztiak berdinak ditu.
+Okerra! gradu angeluzuzenetan erdibitzen dute.
+Okerra! 90 gradutan erdibitzen dute
+Okerra! lau triangelu diagonalak erdibitzen direnetik.
+Okerra! Biek 90 graduko diagonalak dituzte.
+Okerra! paralelogramo deitzen zaio arrazoi bategatik.
+Okerra! 90 gradu karratu bat bezala
+Okerra! Luzera berdina dute baina ez beti 90 gradu.
+Okerra! Angelu guztiak angelu zuzenak dira.

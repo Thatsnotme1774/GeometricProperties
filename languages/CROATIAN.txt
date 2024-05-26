@@ -1,0 +1,166 @@
+GEOMETRIJSKA SVOJSTVA
+POČETAK
+OPCIJE
+IZLAZ
+Puni zaslon
+glazba, muzika
+Rezolucija
+Prevedi
+Jezik
+LEĐA
+SLJEDEĆI
+Trokut
+Jednakostranični trokut: Jednakostranični trokut ima sve stranice jednake duljine, a svaki unutarnji kut ima 60 stupnjeva. Jednakokračni trokut: Jednakokračni trokut ima dvije stranice jednake duljine i dva sukladna kuta. Razmjerni trokut: Razmjerni trokut nema jednake strane ili kutove. Pravokutni trokut: Pravokutni trokut ima jedan pravi kut (90 stupnjeva). Prema Pitagorinom teoremu, kvadrat hipotenuze jednak je zbroju kvadrata druge dvije stranice. Oštrokutni trokut: svi njegovi kutovi oštrokutnog trokuta iznose manje od 90 stupnjeva. Tupokutni trokut: Tupokutni trokut uključuje jedan kut veći od 90 stupnjeva.
+Kvadrat
+Kvadrat ima sve stranice jednake duljine i svaki unutarnji kut iznosi 90 stupnjeva. Njegove dijagonale međusobno se raspolavljaju pod pravim kutom i jednake su duljine. Osim toga, kvadrat ima četiri linije simetrije.
+Pravokutnik
+Pravokutnik ima nasuprotne stranice jednake duljine, a svaki unutarnji kut iznosi 90 stupnjeva. Dijagonale su jednake duljine i međusobno se raspolavljaju, a oblik ima dvije linije simetrije.
+Romb
+Romb ima sve stranice jednake duljine i jednake suprotne kutove. Dijagonale se međusobno raspolavljaju pod pravim kutom i dijele romb na četiri sukladna trokuta.
+Paralelogram
+Paralelogram ima nasuprotne stranice jednake duljine i paralelne, s jednakim nasuprotnim kutovima. Njegove dijagonale se međusobno raspolavljaju.
+KVIZ
+ZAVRŠI
+DOM
+POSTIĆI
+Pitanje 1
+Kolika je mjera svakog unutarnjeg kuta u jednakostraničnom trokutu?
+A) 45 stupnjeva
+B) 60 stupnjeva
+C) 90 stupnjeva
+D) 120 stupnjeva
+pitanje 2
+Koji trokut ima dvije stranice jednakih duljina i dva sukladna kuta?
+A) Trokut skalene
+B) Jednakokračni trokut
+C) Jednakostranični trokut
+D) Pravokutni trokut
+pitanje 3
+Koji trokut nema jednake stranice ni kutove?
+A) Trokut skalene
+B) Jednakokračni trokut
+C) Jednakostranični trokut
+D) Oštrokutni trokut
+pitanje 4
+Koja vrsta trokuta ima jedan pravi kut?
+A) Trokut skalene
+B) Jednakokračni trokut
+C) Jednakostranični trokut
+D) Pravokutni trokut
+pitanje 5
+Koja vrsta trokuta ima sve kutove oštre?
+A) Trokut skalene
+B) Jednakokračni trokut
+C) Jednakostranični trokut
+D) Oštrokutni trokut
+Pitanje 6
+Koji trokut ima jedan tupi kut?
+A) Trokut skalene
+B) Jednakokračni trokut
+C) Jednakostranični trokut
+D) Tupokutni trokut
+Pitanje 7
+Kolika je mjera svakog unutarnjeg kuta u kvadratu?
+A) 45 stupnjeva
+B) 60 stupnjeva
+C) 90 stupnjeva
+D) 120 stupnjeva
+Pitanje 8
+Koliko linija simetrije ima kvadrat?
+A) 2
+B) 4
+C) 6
+D) 8
+pitanje 9
+U kakvom su međusobnom odnosu dijagonale u kvadratu?
+A) Nejednaki su
+B) Međusobno se raspolavljaju i okomiti su
+C) Paralelni su
+D) Ne sijeku se
+pitanje 10
+Kolika je duljina dijagonale kvadrata sa stranicom duljine 'a'?
+A) a
+B) 2a
+C) sqrt (2)
+D) a/2
+Pitanje 11
+Koje je svojstvo istinito za sve kvadrate?
+A) Svi su kutovi šiljasti
+B) Dijagonale su jednakih duljina
+C) Samo suprotne strane su jednake
+D) Jednake su samo susjedne stranice
+Pitanje 12
+Koje je karakteristično svojstvo romba?
+A) Samo su dvije strane jednake
+B) Sve su stranice jednake duljine
+C) Samo je jedan par suprotnih stranica paralelan
+D) Svi kutovi su pravi kutovi
+Pitanje 13
+Kako se sijeku dijagonale romba?
+A) Jednake su duljine
+B) Međusobno se raspolavljaju pod pravim kutom
+C) Paralelni su
+D) Ne sijeku se
+Pitanje 14
+Kolika je mjera kutova koji se sijeku dijagonale romba?
+A) 30 stupnjeva
+B) 60 stupnjeva
+C) 90 stupnjeva
+D) 120 stupnjeva
+Pitanje 15
+Na koliko sukladnih trokuta dijele dijagonale romba?
+A) 2
+B) 3
+C) 4
+D) 6
+Pitanje 16
+Koje svojstvo vrijedi i za rombove i za kvadrate?
+A) Svi kutovi su 90 stupnjeva
+B) Dijagonale se međusobno dijele pod pravim kutom
+C) Samo je jedan par stranica paralelan
+D) Dijagonale nisu jednake
+Pitanje 17
+Koje je svojstvo definiranja paralelograma?
+A) Samo je jedan par suprotnih stranica paralelan
+B) Oba para suprotnih stranica su paralelna
+C) Jednake su samo susjedne stranice
+D) Svi kutovi su pravi kutovi
+Pitanje 18
+Kolika je mjera svakog unutarnjeg kuta u pravokutniku?
+A) 45 stupnjeva
+B) 60 stupnjeva
+C) 90 stupnjeva
+D) 120 stupnjeva
+Pitanje 19
+U kakvom su međusobnom odnosu dijagonale u pravokutniku?
+A) Nejednaki su
+B) Međusobno se raspolavljaju i okomiti su
+C) Paralelni su
+D) Jednake su duljine
+Pitanje 20
+Koje je svojstvo istinito i za pravokutnik i za kvadrat?
+A) Sve stranice su jednake
+B) Svi kutovi su pravi kutovi
+C) Dijagonale se međusobno dijele pod pravim kutom
+D) Samo je jedan par stranica paralelan
+Točno!
+Netočno! budući da su kutovi jednaki, to je 180/3 = 60.
+Netočno! Jednakokračan ima 2 jednaka kuta i stranice.
+Netočno! Skala nema jednakih stranica ni kutova.
+Netočno! Pravokutni trokut ima pravi kut.
+Netočno! Oštrokutni trokut ima samo oštre kutove.
+Netočno! Tupokutni trokut ima samo tupi kut.
+Netočno! Svi unutarnji kutovi kvadrata iznose 90 stupnjeva.
+Netočno! Kvadrat ima četiri linije simetrije.
+Netočno! Prepolovljuju se pod 90 stupnjeva.
+Netočno! pronađite hipotenuzu: sqrt(a^2+a^2) = a sqrt(2).
+Netočno! Sve dijagonale su jednake jer su sve stranice jednake.
+Netočno! Romb, kao i kvadrat, ima sve strane jednake.
+Netočno! dijele se pod pravim kutom stupnjeva.
+Netočno! raspolavljaju se pod 90 stupnjeva
+Netočno! četiri trokuta budući da se dijagonale raspolavljaju.
+Netočno! Oba imaju dijagonale koje se raspolavljaju pod 90 stupnjeva.
+Netočno! s razlogom se zove paralelogram.
+Netočno! 90 stupnjeva kao kvadrat
+Netočno! Jednake su duljine, ali ne uvijek pod kutom od 90 stupnjeva.
+Netočno! Svi kutovi su pravi kutovi.

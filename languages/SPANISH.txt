@@ -1,0 +1,166 @@
+PROPIEDADES GEOMÉTRICAS
+COMENZAR
+OPCIONES
+SALIDA
+Pantalla completa
+Música
+Resolución
+Traducir
+Idioma
+ATRÁS
+PRÓXIMO
+Triángulo
+Triángulo equilátero: Un triángulo equilátero tiene todos los lados de igual longitud y cada ángulo interior mide 60 grados. Triángulo isósceles: Un triángulo isósceles tiene dos lados de igual longitud y dos ángulos congruentes. Triángulo escaleno: Un triángulo escaleno no tiene lados ni ángulos iguales. Triángulo rectángulo: un triángulo rectángulo tiene un ángulo recto (90 grados). Según el teorema de Pitágoras, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los otros dos catetos. Triángulo Agudo: Un triángulo agudo tiene todos sus ángulos midiendo menos de 90 grados. Triángulo obtuso: Un triángulo obtuso incluye un ángulo mayor a 90 grados.
+Cuadrado
+Un cuadrado tiene todos sus lados de igual longitud y cada ángulo interior mide 90 grados. Sus diagonales se bisecan formando ángulos rectos y tienen la misma longitud. Además, un cuadrado tiene cuatro ejes de simetría.
+Rectángulo
+Un rectángulo tiene lados opuestos de igual longitud y cada ángulo interior mide 90 grados. Las diagonales tienen la misma longitud y se bisecan entre sí, y la forma tiene dos ejes de simetría.
+Rombo
+Un rombo presenta todos los lados de igual longitud y ángulos opuestos que son iguales. Las diagonales se bisecan formando ángulos rectos y dividen el rombo en cuatro triángulos congruentes.
+Paralelogramo
+Un paralelogramo tiene lados opuestos iguales en longitud y paralelos, con ángulos opuestos iguales. Sus diagonales se bisecan.
+PRUEBA
+FINALIZAR
+HOGAR
+PUNTAJE
+Pregunta 1
+¿Cuál es la medida de cada ángulo interior en un triángulo equilátero?
+a) 45 grados
+segundo) 60 grados
+c) 90 grados
+D) 120 grados
+Pregunta 2
+¿Qué triángulo tiene dos lados de igual longitud y dos ángulos congruentes?
+A) Triángulo escaleno
+B) Triángulo isósceles
+C) Triángulo equilátero
+D) Triángulo rectángulo
+Pregunta 3
+¿Qué triángulo no tiene lados ni ángulos iguales?
+A) Triángulo escaleno
+B) Triángulo isósceles
+C) Triángulo equilátero
+D) Triángulo agudo
+Pregunta 4
+¿Qué tipo de triángulo tiene un ángulo recto?
+A) Triángulo escaleno
+B) Triángulo isósceles
+C) Triángulo equilátero
+D) Triángulo rectángulo
+Pregunta 5
+¿Qué tipo de triángulo tiene todos los ángulos agudos?
+A) Triángulo escaleno
+B) Triángulo isósceles
+C) Triángulo equilátero
+D) Triángulo agudo
+Pregunta 6
+¿Qué triángulo tiene un ángulo obtuso?
+A) Triángulo escaleno
+B) Triángulo isósceles
+C) Triángulo equilátero
+D) Triángulo obtuso
+Pregunta 7
+¿Cuál es la medida de cada ángulo interior de un cuadrado?
+a) 45 grados
+segundo) 60 grados
+c) 90 grados
+D) 120 grados
+Pregunta 8
+¿Cuántos ejes de simetría tiene un cuadrado?
+a) 2
+b) 4
+c) 6
+D) 8
+Pregunta 9
+En un cuadrado, ¿cómo se relacionan las diagonales entre sí?
+a) son desiguales
+B) Se bisecan y son perpendiculares.
+C) Son paralelos
+D) No se cruzan
+Pregunta 10
+¿Cuál es la longitud de la diagonal de un cuadrado de lado 'a'?
+a) un
+b) 2a
+C) una raíz cuadrada (2)
+D) a/2
+Pregunta 11
+¿Qué propiedad es cierta para todos los cuadrados?
+A) Todos los ángulos son agudos.
+B) Las diagonales tienen la misma longitud
+C) Sólo los lados opuestos son iguales
+D) Sólo los lados adyacentes son iguales
+Pregunta 12
+¿Cuál es una propiedad característica de un rombo?
+a) Sólo dos lados son iguales
+B) Todos los lados tienen la misma longitud
+C) Sólo un par de lados opuestos son paralelos
+D) Todos los ángulos son rectos.
+Pregunta 13
+¿Cómo se cruzan las diagonales de un rombo?
+a) Tienen la misma longitud
+B) Se bisecan entre sí formando ángulos rectos.
+C) Son paralelos
+D) No se cruzan
+Pregunta 14
+¿Cuál es la medida de los ángulos que se forman donde se cortan las diagonales de un rombo?
+a) 30 grados
+segundo) 60 grados
+c) 90 grados
+D) 120 grados
+Pregunta 15
+En un rombo, las diagonales lo dividen ¿en cuantos triángulos congruentes?
+a) 2
+b) 3
+c) 4
+D) 6
+Pregunta 16
+¿Qué propiedad es cierta tanto para rombos como para cuadrados?
+a) Todos los ángulos miden 90 grados.
+B) Las diagonales se bisecan entre sí en ángulo recto.
+C) Sólo un par de lados son paralelos
+D) Las diagonales no son iguales.
+Pregunta 17
+¿Cuál es la propiedad definitoria de un paralelogramo?
+A) Sólo un par de lados opuestos son paralelos.
+B) Ambos pares de lados opuestos son paralelos
+C) Sólo los lados adyacentes son iguales
+D) Todos los ángulos son rectos.
+Pregunta 18
+¿Cuál es la medida de cada ángulo interior en un rectángulo?
+a) 45 grados
+segundo) 60 grados
+c) 90 grados
+D) 120 grados
+Pregunta 19
+En un rectángulo, ¿cómo se relacionan las diagonales entre sí?
+a) son desiguales
+B) Se bisecan y son perpendiculares.
+C) Son paralelos
+D) Tienen la misma longitud
+Pregunta 20
+¿Qué propiedad es cierta tanto para rectángulos como para cuadrados?
+a) Todos los lados son iguales
+B) Todos los ángulos son rectos
+C) Las diagonales se bisecan formando ángulos rectos.
+D) Sólo un par de lados son paralelos.
+¡Correcto!
+¡Incorrecto! Como los ángulos son iguales, es 180/3 = 60.
+¡Incorrecto! Isósceles tiene 2 ángulos y lados iguales.
+¡Incorrecto! Un escaleno no tiene lados ni ángulos iguales.
+¡Incorrecto! Un triángulo de ángulo recto tiene un ángulo recto.
+¡Incorrecto! Un triángulo agudo sólo tiene ángulos agudos.
+¡Incorrecto! Un triángulo obtuso sólo tiene un ángulo obtuso.
+¡Incorrecto! Todos los ángulos interiores de un cuadrado miden 90 grados.
+¡Incorrecto! Un cuadrado tiene cuatro ejes de simetría.
+¡Incorrecto! Se bisecan a 90 grados.
+¡Incorrecto! encuentre la hipotenusa: sqrt(a^2+a^2) = a sqrt(2).
+¡Incorrecto! Todas las diagonales son iguales porque todos los lados son iguales.
+¡Incorrecto! El rombo, como un cuadrado, tiene todos los lados iguales.
+¡Incorrecto! se bisecan en grados rectos.
+¡Incorrecto! se bisecan a 90 grados
+¡Incorrecto! cuatro triángulos ya que las diagonales se bisecan.
+¡Incorrecto! Ambos tienen diagonales que se bisecan en 90 grados.
+¡Incorrecto! Se llama paralelogramo por una razón.
+¡Incorrecto! 90 grados como un cuadrado
+¡Incorrecto! Tienen la misma longitud pero no siempre tienen 90 grados.
+¡Incorrecto! Todos los ángulos son ángulos rectos.

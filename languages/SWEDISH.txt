@@ -1,0 +1,166 @@
+GEOMETRISKA EGENSKAPER
+START
+ALTERNATIV
+UTGÅNG
+Fullskärm
+musik
+Upplösning
+Översätt
+Språk
+TILLBAKA
+NÄSTA
+Triangel
+Liksidig triangel: En liksidig triangel har alla sidor lika långa och varje inre vinkel mäter 60 grader. Likbent triangel: En likbent triangel har två lika långa sidor och två kongruenta vinklar. Skalen triangel: En skalen triangel har inga sidor eller vinklar som är lika. Rätt triangel: En rät triangel har en rät vinkel (90 grader). Enligt Pythagoras sats är hypotenusans kvadrat lika med summan av kvadraterna på de andra två sidorna. Akut triangel: En spetsig triangel har alla sina vinklar som mäter mindre än 90 grader. Trubbig triangel: En trubbig triangel inkluderar en vinkel som är större än 90 grader.
+Fyrkant
+En kvadrat har alla sidor lika långa och varje inre vinkel är 90 grader. Dess diagonaler delar varandra i räta vinklar och är lika långa. Dessutom har en kvadrat fyra symmetrilinjer.
+Rektangel
+En rektangel har motsatta sidor som är lika långa, och varje inre vinkel är 90 grader. Diagonalerna är lika långa och halverar varandra, och formen har två symmetrilinjer.
+Romb
+En romb har alla sidor lika långa och motsatta vinklar som är lika. Diagonalerna delar varandra i räta vinklar och delar romben i fyra kongruenta trianglar.
+Parallellogram
+Ett parallellogram har motsatta sidor som är lika långa och parallella, med motsatta vinklar som är lika. Dess diagonaler delar varandra.
+FRÅGESPORT
+AVSLUTA
+HEM
+GÖRA
+Fråga 1
+Vad är måttet på varje inre vinkel i en liksidig triangel?
+A) 45 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+fråga 2
+Vilken triangel har två lika långa sidor och två kongruenta vinklar?
+A) Skalen triangel
+B) Likbent triangel
+C) Liksidig triangel
+D) Rätt triangel
+Fråga 3
+Vilken triangel har inga sidor eller vinklar lika?
+A) Skalen triangel
+B) Likbent triangel
+C) Liksidig triangel
+D) Akut triangel
+Fråga 4
+Vilken typ av triangel har en rät vinkel?
+A) Skalen triangel
+B) Likbent triangel
+C) Liksidig triangel
+D) Rätt triangel
+Fråga 5
+Vilken typ av triangel har alla vinklar spetsiga?
+A) Skalen triangel
+B) Likbent triangel
+C) Liksidig triangel
+D) Akut triangel
+Fråga 6
+Vilken triangel har en trubbig vinkel?
+A) Skalen triangel
+B) Likbent triangel
+C) Liksidig triangel
+D) Trubbig triangel
+Fråga 7
+Vad är måttet på varje inre vinkel i en kvadrat?
+A) 45 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Fråga 8
+Hur många symmetrilinjer har en kvadrat?
+A) 2
+B) 4
+C) 6
+D) 8
+Fråga 9
+Hur förhåller sig diagonalerna till varandra i en kvadrat?
+A) De är ojämlika
+B) De delar varandra och är vinkelräta
+C) De är parallella
+D) De skär inte varandra
+Fråga 10
+Vad är längden på diagonalen för en kvadrat med sidlängden 'a'?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Fråga 11
+Vilken egenskap är sann för alla rutor?
+A) Alla vinklar är spetsiga
+B) Diagonalerna är lika långa
+C) Endast motsatta sidor är lika
+D) Endast intilliggande sidor är lika
+Fråga 12
+Vad är en karakteristisk egenskap hos en romb?
+A) Endast två sidor är lika
+B) Alla sidor är lika långa
+C) Endast ett par motsatta sidor är parallella
+D) Alla vinklar är räta
+Fråga 13
+Hur skärs diagonalerna på en romb?
+A) De är lika långa
+B) De delar varandra i rät vinkel
+C) De är parallella
+D) De skär varandra inte
+Fråga 14
+Vad är måttet på de vinklar som bildas där diagonalerna på en romb skär varandra?
+A) 30 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Fråga 15
+I en romb delar diagonalerna in den i hur många kongruenta trianglar?
+A) 2
+B) 3
+C) 4
+D) 6
+Fråga 16
+Vilken egenskap gäller för både romber och rutor?
+A) Alla vinklar är 90 grader
+B) Diagonaler delar varandra i räta vinklar
+C) Endast ett par sidor är parallella
+D) Diagonaler är inte lika
+Fråga 17
+Vad är den definierande egenskapen för ett parallellogram?
+A) Endast ett par motsatta sidor är parallella
+B) Båda paren av motsatta sidor är parallella
+C) Endast intilliggande sidor är lika
+D) Alla vinklar är räta
+Fråga 18
+Vad är måttet för varje inre vinkel i en rektangel?
+A) 45 grader
+B) 60 grader
+C) 90 grader
+D) 120 grader
+Fråga 19
+Hur förhåller sig diagonalerna till varandra i en rektangel?
+A) De är ojämlika
+B) De delar varandra och är vinkelräta
+C) De är parallella
+D) De är lika långa
+Fråga 20
+Vilken egenskap är sann för både rektanglar och kvadrater?
+A) Alla sidor är lika
+B) Alla vinklar är räta
+C) Diagonaler delar varandra i räta vinklar
+D) Endast ett par sidor är parallella
+Korrekt!
+Felaktig! eftersom vinklarna är lika är det 180/3 = 60.
+Felaktig! Likbent har 2 lika vinklar och sidor.
+Felaktig! En scalene har inga lika sidor eller vinklar.
+Felaktig! En rätvinklig triangel har en rät vinkel.
+Felaktig! En spetsig triangel har bara spetsiga vinklar.
+Felaktig! En trubbig triangel har bara en trubbig vinkel.
+Felaktig! Alla inre vinklar i en kvadrat är 90 grader.
+Felaktig! En kvadrat har fyra symmetrilinjer.
+Felaktig! De delar sig i 90 grader.
+Felaktig! hitta hypotenusan: sqrt(a^2+a^2) = a sqrt(2).
+Felaktig! Alla diagonaler är lika eftersom alla sidor är lika.
+Felaktig! Romb, som en kvadrat har alla sidor lika.
+Felaktig! de delar sig i räta vinklar grader.
+Felaktig! de delar sig i 90 grader
+Felaktig! fyra trianglar eftersom diagonalerna delar varandra.
+Felaktig! Båda har diagonaler som halveras i 90 grader.
+Felaktig! det kallas parallellogram av en anledning.
+Felaktig! 90 grader som en fyrkant
+Felaktig! De är lika långa men inte alltid 90 grader.
+Felaktig! Alla vinklar är räta.

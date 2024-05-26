@@ -1,0 +1,166 @@
+GEOMETRICKÉ VLASTNOSTI
+ŠTART
+MOŽNOSTI
+VÝCHOD
+Celá obrazovka
+Hudba
+Rozhodnutie
+Preložiť
+Jazyk
+SPÄŤ
+ĎALŠIE
+Trojuholník
+Rovnostranný trojuholník: Rovnostranný trojuholník má všetky strany rovnako dlhé a každý vnútorný uhol meria 60 stupňov. Rovnoramenný trojuholník: Rovnoramenný trojuholník má dve strany rovnakej dĺžky a dva zhodné uhly. Scalene Triangle: Scalene trojuholník nemá žiadne strany ani uhly, ktoré by boli rovnaké. Pravý trojuholník: Pravý trojuholník má jeden pravý uhol (90 stupňov). Podľa Pytagorovej vety sa druhá mocnina prepony rovná súčtu štvorcov ostatných dvoch strán. Akútny trojuholník: Ostrý trojuholník má všetky uhly menšie ako 90 stupňov. Tupý trojuholník: Tupý trojuholník obsahuje jeden uhol, ktorý je väčší ako 90 stupňov.
+Námestie
+Štvorec má všetky strany rovnako dlhé a každý vnútorný uhol je 90 stupňov. Jeho uhlopriečky sa navzájom pretínajú v pravom uhle a sú rovnako dlhé. Okrem toho má štvorec štyri čiary symetrie.
+Obdĺžnik
+Obdĺžnik má protiľahlé strany, ktoré sú rovnako dlhé, a každý vnútorný uhol je 90 stupňov. Uhlopriečky sú rovnako dlhé a navzájom sa pretínajú a tvar má dve línie symetrie.
+Rhombus
+Kosoštvorec má všetky strany rovnakej dĺžky a opačné uhly, ktoré sú rovnaké. Uhlopriečky sa navzájom pretínajú v pravom uhle a rozdeľujú kosoštvorec na štyri zhodné trojuholníky.
+Paralelogram
+Rovnobežník má protiľahlé strany, ktoré sú rovnako dlhé a rovnobežné, s opačnými uhlami, ktoré sú rovnaké. Jeho uhlopriečky sa navzájom pretínajú.
+KVÍZ
+SKONČIŤ
+DOMOV
+SKÓRE
+Otázka 1
+Aká je veľkosť každého vnútorného uhla v rovnostrannom trojuholníku?
+A) 45 stupňov
+B) 60 stupňov
+C) 90 stupňov
+D) 120 stupňov
+Otázka 2
+Ktorý trojuholník má dve strany rovnakej dĺžky a dva zhodné uhly?
+A) Scalene trojuholník
+B) Rovnoramenný trojuholník
+C) Rovnostranný trojuholník
+D) Pravý trojuholník
+Otázka 3
+Ktorý trojuholník nemá rovnaké strany ani uhly?
+A) Škálový trojuholník
+B) Rovnoramenný trojuholník
+C) Rovnostranný trojuholník
+D) Akútny trojuholník
+Otázka 4
+Aký typ trojuholníka má jeden pravý uhol?
+A) Škálový trojuholník
+B) Rovnoramenný trojuholník
+C) Rovnostranný trojuholník
+D) Pravý trojuholník
+Otázka 5
+Aký typ trojuholníka má všetky uhly ostré?
+A) Škálový trojuholník
+B) Rovnoramenný trojuholník
+C) Rovnostranný trojuholník
+D) Akútny trojuholník
+Otázka 6
+Ktorý trojuholník má jeden tupý uhol?
+A) Škálový trojuholník
+B) Rovnoramenný trojuholník
+C) Rovnostranný trojuholník
+D) Tupý trojuholník
+Otázka 7
+Aká je miera každého vnútorného uhla v štvorci?
+A) 45 stupňov
+B) 60 stupňov
+C) 90 stupňov
+D) 120 stupňov
+Otázka 8
+Koľko čiar symetrie má štvorec?
+A) 2
+B) 4
+C) 6
+D) 8
+Otázka 9
+Ako spolu súvisia uhlopriečky vo štvorci?
+A) Sú nerovné
+B) Navzájom sa pretínajú a sú kolmé
+C) Sú rovnobežné
+D) Nepretínajú sa
+Otázka 10
+Aká je dĺžka uhlopriečky štvorca so stranou „a“?
+A) a
+B) 2a
+C) a sqrt(2)
+D) a/2
+Otázka 11
+Ktorá vlastnosť platí pre všetky štvorce?
+A) Všetky uhly sú ostré
+B) Uhlopriečky majú rovnakú dĺžku
+C) Rovnaké sú iba protiľahlé strany
+D) Rovnaké sú iba susedné strany
+Otázka 12
+Aká je charakteristická vlastnosť kosoštvorca?
+A) Iba dve strany sú rovnaké
+B) Všetky strany majú rovnakú dĺžku
+C) Len jeden pár protiľahlých strán je rovnobežný
+D) Všetky uhly sú pravé
+Otázka 13
+Ako sa pretínajú uhlopriečky kosoštvorca?
+A) Majú rovnakú dĺžku
+B) Navzájom sa pretínajú v pravom uhle
+C) Sú rovnobežné
+D) Nepretínajú sa
+Otázka 14
+Aká je miera uhlov vytvorených v mieste, kde sa pretínajú uhlopriečky kosoštvorca?
+A) 30 stupňov
+B) 60 stupňov
+C) 90 stupňov
+D) 120 stupňov
+Otázka 15
+V kosoštvorci ho uhlopriečky rozdeľujú na koľko zhodných trojuholníkov?
+A) 2
+B) 3
+C) 4
+D) 6
+Otázka 16
+Ktorá vlastnosť platí pre kosoštvorce aj štvorce?
+A) Všetky uhly sú 90 stupňov
+B) Diagonály sa navzájom pretínajú v pravom uhle
+C) Len jeden pár strán je rovnobežný
+D) Uhlopriečky nie sú rovnaké
+Otázka 17
+Aká je definujúca vlastnosť rovnobežníka?
+A) Len jeden pár protiľahlých strán je rovnobežný
+B) Oba páry protiľahlých strán sú rovnobežné
+C) Iba susedné strany sú rovnaké
+D) Všetky uhly sú pravé
+Otázka 18
+Aká je miera každého vnútorného uhla v obdĺžniku?
+A) 45 stupňov
+B) 60 stupňov
+C) 90 stupňov
+D) 120 stupňov
+Otázka 19
+Ako spolu súvisia uhlopriečky v obdĺžniku?
+A) Sú nerovné
+B) Navzájom sa pretínajú a sú kolmé
+C) Sú rovnobežné
+D) Majú rovnakú dĺžku
+Otázka 20
+Ktorá vlastnosť platí pre obdĺžniky aj štvorce?
+A) Všetky strany sú rovnaké
+B) Všetky uhly sú pravé
+C) Uhlopriečky sa navzájom pretínajú v pravom uhle
+D) Len jeden pár strán je rovnobežný
+Správne!
+Nesprávne! keďže sú uhly rovnaké, je to 180/3 = 60.
+Nesprávne! Rovnoramenný má 2 rovnaké uhly a strany.
+Nesprávne! Scalene nemá rovnaké strany ani uhly.
+Nesprávne! Pravouhlý trojuholník má pravý uhol.
+Nesprávne! Ostrý trojuholník má iba ostré uhly.
+Nesprávne! Tupý trojuholník má iba tupý uhol.
+Nesprávne! Všetky vnútorné uhly štvorca sú 90 stupňov.
+Nesprávne! Štvorec má štyri čiary symetrie.
+Nesprávne! Pretínajú sa pod uhlom 90 stupňov.
+Nesprávne! nájdite preponu: sqrt(a^2+a^2) = a sqrt(2).
+Nesprávne! Všetky uhlopriečky sú rovnaké, pretože všetky strany sú rovnaké.
+Nesprávne! Kosoštvorec, ako štvorec, má všetky strany rovnaké.
+Nesprávne! pretínajú sa v pravom uhle.
+Nesprávne! pretínajú v uhle 90 stupňov
+Nesprávne! štyri trojuholníky, pretože uhlopriečky sa pretínajú.
+Nesprávne! Obidve majú uhlopriečky rozpolené na 90 stupňov.
+Nesprávne! z nejakého dôvodu sa nazýva rovnobežník.
+Nesprávne! 90 stupňov ako štvorec
+Nesprávne! Majú rovnakú dĺžku, ale nie vždy 90 stupňov.
+Nesprávne! Všetky uhly sú pravé.
