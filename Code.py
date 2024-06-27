@@ -505,27 +505,29 @@ def answer_checker():
         if choicevalue.get() == 2:
             answer.configure(text=text_list[145], text_color="green")
             answer.place(relx=0.47, rely=0.7)
-            
+            quiz_homebutton.place_forget() #removes the home button as the next button is already going to be come home button
             choiceAbutton.configure(state=DISABLED)
             choiceBbutton.configure(state=DISABLED)
             choiceCbutton.configure(state=DISABLED)
             choiceDbutton.configure(state=DISABLED)
             
             score = score + 1
-            score_label.configure(text="Your score is " + score)
-            score_label.place(relx=0.47, rely=0.6)
+            score_label.configure(text="Your score is " + str(score), fg_color='#f2f2f2', text_color= "black")
+            score_label.place(relx=0.43, rely=0.8)
+            quiz_nextbutton.configure(text=text_list[23]) #changes next button to home button 
             
         else:
             answer.configure(text=text_list[165], text_color="red")
             answer.place(relx=0.37,rely=0.7)
-            
+            quiz_homebutton.place_forget()
             choiceAbutton.configure(state=DISABLED)
             choiceBbutton.configure(state=DISABLED)
             choiceCbutton.configure(state=DISABLED)
             choiceDbutton.configure(state=DISABLED)
             score_label.configure(text="Your score is " + str(score), fg_color='#f2f2f2', text_color= "black")
             score_label.place(relx=0.43, rely=0.8)
-
+            quiz_nextbutton.configure(text=text_list[23])
+            
 
 
 
@@ -603,7 +605,7 @@ def resize_image(number): #scales the image
             Q_label.image = Q_photo
             Question_Label.configure(font=("Ariel", 55*relativex), width = 10*relativex, height = 10*relativey)
             Question_info.configure(font=("Ariel", 35*relative_scale), wraplength=700*relativex, width = relativex, height = relativey)
-
+            quiz_homebutton.configure(width = 10*relativex, height = 10*relativey, font=("Ariel", 30*relative_scale))
             choiceAbutton.configure(font=("Ariel", 25*relativex), width = 10*relativex, height = 10*relativey)
             choiceBbutton.configure(font=("Ariel", 25*relativex), width = 10*relativex, height = 10*relativey)
             choiceCbutton.configure(font=("Ariel", 25*relativex), width = 10*relativex, height = 10*relativey)
@@ -671,15 +673,15 @@ def option():
     
 #various buttons and labels
     option_text = customtkinter.CTkLabel(root, text=text_list[2], font=("Segoe Script", 50), bg_color="white", fg_color="white", text_color="black", wraplength=300)
-    option_text.place(relx=0.6, rely=0.45) 
+    option_text.place(relx=0.43, rely=0.3) 
     #Buttons
     music_box = customtkinter.CTkCheckBox(root, text = text_list[5], font=("Ariel", 40), command=music) #calls the music function
-    music_box.place(relx=0.01, rely = 0.35) 
+    music_box.place(relx=0.45, rely = 0.4) 
 
     if music_on==True:
         music_box.select() #so that music is selected if it is pressed
     fullscreenbutton = customtkinter.CTkCheckBox(root, text = text_list[4], font=("Ariel", 40), command=fullscreen)
-    fullscreenbutton.place(relx=0.01, rely = 0.45) 
+    fullscreenbutton.place(relx=0.45, rely = 0.5) 
     #fullscreen_check = customtkinter.IntVar(value = 0)
     if fullscreen_on == True:
         fullscreenbutton.select() # so that fullscreen is selected when pressed
@@ -692,10 +694,10 @@ def option():
     language_box = customtkinter.CTkComboBox(root, values = language_list, width=200)
     #sets the current languguage
     language_box.set(language_name)
-    language_box.place(relx = 0.01, rely = 0.55)
+    language_box.place(relx = 0.45, rely = 0.6)
     #calls the list file function to actually change the language
     confirm_button = customtkinter.CTkButton(root, image= option_backbutton_image, text="", width = 10, height = 10, command=list_file)
-    confirm_button.place(relx = 0.12, rely = 0.55)
+    confirm_button.place(relx = 0.57, rely = 0.597)
 def learning():
     global option_display,start_display,quiz_display, learning_display, L_image, L_copy_of_image, L_photo, L_label, Shape_label, shape_info_label, learning_backbutton, learning_nextbutton, shapenumber, Shape_name, shape_info, Shapeimagedirectory, Shapeimage, tts_image, tts_learning_button, learning_nextbutton_image
     option_display = False
@@ -746,7 +748,7 @@ def learning():
 
 
 def quiz():
-    global option_display,start_display,quiz_display, learning_display, Q_image, Q_copy_of_image, Q_label, Q_photo, Question_list, Question_Label, questionnumber, Question_info, choiceAbutton, choiceBbutton, choiceCbutton, choiceDbutton, choicevalue, answer, quiz_nextbutton_image, quiz_nextbutton, score, score_label, tts_quiz_button
+    global option_display,start_display,quiz_display, learning_display, Q_image, Q_copy_of_image, Q_label, Q_photo, Question_list, Question_Label, questionnumber, Question_info, choiceAbutton, choiceBbutton, choiceCbutton, choiceDbutton, choicevalue, answer, quiz_nextbutton_image, quiz_nextbutton, score, score_label, tts_quiz_button, quiz_homebutton, quiz_homebutton_image
     option_display = False
     start_display = False
     quiz_display = True #sets the right flag
@@ -795,6 +797,10 @@ def quiz():
     quiz_nextbutton.place(relx =0.47, rely = 0.90)
     quiz_nextbutton.place_forget()
 
+    quiz_homebutton_image = ImageTk.PhotoImage(Image.open("button_images\REVERSE.png").resize((20,20))) #makes the image smaller
+    quiz_homebutton = customtkinter.CTkButton(root, image= quiz_homebutton_image, text= text_list[23], width = 10, height = 10, command=start) #button with image
+    quiz_homebutton.place(relx =0.01, rely = 0.01)
+    
     score_label = customtkinter.CTkLabel(root, text="", width = 10, height = 10)
     score_label.place(relx=0.47, rely=0.6)
     score_label.place_forget() #score only shown after the test
@@ -823,6 +829,7 @@ def start():
         answer.destroy()
         quiz_nextbutton.destroy()
         score_label.destroy()
+        quiz_homebutton.forget()
     else: pass
 
     option_display = False
@@ -838,16 +845,16 @@ def start():
     S_label.pack(fill=BOTH, expand = YES)
     
     geometric_prop = customtkinter.CTkLabel(root, text=text_list[0], font=("Segoe Script", 50), fg_color="white", text_color="black", wraplength=400)
-    geometric_prop.place(relx=0.6, rely=0.4)
+    geometric_prop.place(relx=0.41, rely=0.3)
                             
     start_button = customtkinter.CTkButton(master=root, text = text_list[1], font=("Ariel", 50),command=learning )
-    start_button.place(relx=0.01, rely = 0.35) 
+    start_button.place(relx=0.45, rely = 0.55) 
     
     option_button = customtkinter.CTkButton(master=root, text = text_list[2], font=("Ariel", 50), command=option )
-    option_button.place(relx=0.01, rely = 0.45) 
+    option_button.place(relx=0.44, rely = 0.65) 
 
     exit_button = customtkinter.CTkButton(master=root, text = text_list[3], font=("Ariel", 50), command=exit )
-    exit_button.place(relx=0.01, rely = 0.55)                          
+    exit_button.place(relx=0.464, rely = 0.75)                          
 
 
 
