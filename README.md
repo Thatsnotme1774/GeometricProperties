@@ -20,11 +20,11 @@ Automatic:
 
 Manual:
 
-    Pip install Pil
-    Pip install tkinter
+    Pip install pillow
     Pip install customtkinter
     Pip install pygame
     Pip install pywin32
+    Pip install pyttsx3
 
 Procedure:
 
